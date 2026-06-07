@@ -1,22 +1,555 @@
+@import url('https://fonts.googleapis.com/css2?family=Scheherazade+New:wght@400;500;600;700&family=Lora:ital,wght@0,400;0,500;0,600;1,400;1,500&family=DM+Sans:wght@300;400;500;600&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-body {
-  @apply bg-sand-50 text-ink-700;
+/* ─── Design Tokens ────────────────────────────────── */
+:root {
+  --green-950: #0a1f0e;
+  --green-900: #0f2d14;
+  --green-800: #1a4220;
+  --green-700: #1f5227;
+  --green-600: #276732;
+  --green-500: #2e7d3c;
+  --green-400: #4a9e5a;
+  --green-300: #6dba7d;
+  --green-100: #d4edda;
+  --green-50:  #edf7ef;
+
+  --gold:      #c9a84c;
+  --gold-light:#e8cc7e;
+  --gold-dim:  #8a6f2e;
+
+  --cream:     #faf8f3;
+  --cream-100: #f3efe6;
+  --cream-200: #e8e2d5;
+
+  --ink:       #0f1f12;
+  --ink-soft:  #2a3d2d;
+  --ink-muted: #4a6350;
+
+  --radius-sm: 10px;
+  --radius-md: 14px;
+  --radius-lg: 20px;
 }
 
+/* ─── Base ─────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { font-size: 16px; -webkit-font-smoothing: antialiased; }
+
+body {
+  font-family: 'DM Sans', sans-serif;
+  background-color: var(--cream);
+  color: var(--ink);
+  min-height: 100vh;
+}
+
+/* ─── Arabic Text ──────────────────────────────────── */
 .arabic-text {
   font-family: 'Scheherazade New', serif;
   direction: rtl;
   text-align: right;
 }
 
+/* ─── App Root ─────────────────────────────────────── */
+.app-root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  overflow-x: hidden;
+}
+
+/* Background pattern — subtle geometric Islamic */
+.bg-pattern {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  background-image:
+    radial-gradient(circle at 20% 0%, rgba(46,125,60,0.07) 0%, transparent 50%),
+    radial-gradient(circle at 80% 100%, rgba(46,125,60,0.05) 0%, transparent 50%);
+}
+
+/* ─── Header ───────────────────────────────────────── */
+.app-header {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: var(--green-900);
+  border-bottom: 1px solid rgba(201,168,76,0.2);
+  box-shadow: 0 4px 24px rgba(10,31,14,0.25);
+}
+
+.header-inner {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 14px 16px 0;
+}
+
+/* Brand */
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 14px;
+}
+
+.brand-icon {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, var(--gold-dim), var(--gold));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 8px rgba(201,168,76,0.35);
+  flex-shrink: 0;
+}
+
+.brand-icon span {
+  font-size: 20px;
+  color: var(--green-950);
+  line-height: 1;
+}
+
+.brand-text h1 {
+  font-family: 'Lora', serif;
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--cream);
+  line-height: 1.1;
+  letter-spacing: -0.01em;
+}
+
+.brand-text p {
+  font-size: 11px;
+  color: var(--gold-light);
+  font-weight: 300;
+  letter-spacing: 0.04em;
+  opacity: 0.8;
+}
+
+/* Tab nav */
+.tab-nav {
+  display: flex;
+  gap: 4px;
+}
+
+.tab-btn {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  padding: 10px 0 11px;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--green-300);
+  background: transparent;
+  border: none;
+  border-bottom: 2px solid transparent;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  letter-spacing: 0.01em;
+}
+
+.tab-btn:hover {
+  color: var(--cream);
+}
+
+.tab-btn.active {
+  color: var(--gold-light);
+  border-bottom-color: var(--gold);
+}
+
+/* ─── Main ─────────────────────────────────────────── */
+.app-main {
+  flex: 1;
+  position: relative;
+  z-index: 1;
+  max-width: 680px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 20px 16px 40px;
+}
+
+.tab-content {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+/* ─── Search ───────────────────────────────────────── */
+.search-wrap {
+  position: relative;
+}
+
+.search-icon {
+  position: absolute;
+  left: 13px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--green-400);
+}
+
+.search-input {
+  width: 100%;
+  padding: 11px 14px 11px 38px;
+  background: white;
+  border: 1.5px solid var(--cream-200);
+  border-radius: var(--radius-md);
+  font-family: 'DM Sans', sans-serif;
+  font-size: 13px;
+  color: var(--ink);
+  transition: all 0.2s ease;
+  box-shadow: 0 1px 4px rgba(10,31,14,0.06);
+}
+
+.search-input::placeholder { color: var(--ink-muted); opacity: 0.5; }
+
+.search-input:focus {
+  outline: none;
+  border-color: var(--green-400);
+  box-shadow: 0 0 0 3px rgba(46,125,60,0.1);
+}
+
+.count-label {
+  font-size: 12px;
+  color: var(--ink-muted);
+  padding-left: 2px;
+}
+
+/* ─── Hikam List ───────────────────────────────────── */
+.hikam-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+/* ─── Hikam Card ───────────────────────────────────── */
+.hikam-card {
+  background: white;
+  border: 1.5px solid var(--cream-200);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  box-shadow: 0 1px 6px rgba(10,31,14,0.06);
+  transition: box-shadow 0.2s ease, border-color 0.2s ease;
+  animation: slideUp 0.35s ease-out both;
+}
+
+.hikam-card:hover {
+  border-color: var(--green-300);
+  box-shadow: 0 4px 16px rgba(46,125,60,0.1);
+}
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(10px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* Trigger button */
+.hikam-trigger {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 13px;
+  padding: 14px 16px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  text-align: left;
+  transition: background 0.15s;
+}
+
+.hikam-trigger:hover { background: var(--green-50); }
+
+/* Number badge */
+.hikam-number {
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, var(--green-700), var(--green-500));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 6px rgba(46,125,60,0.3);
+}
+
+.hikam-number span {
+  font-size: 11px;
+  font-weight: 600;
+  color: white;
+}
+
+/* Arabic preview */
+.hikam-preview {
+  flex: 1;
+  font-size: 17px;
+  color: var(--ink);
+  line-height: 1.6;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+}
+
+/* Chevron */
+.hikam-chevron {
+  flex-shrink: 0;
+  color: var(--green-400);
+  transition: transform 0.25s ease;
+}
+
+.hikam-chevron.open {
+  transform: rotate(180deg);
+  color: var(--green-600);
+}
+
+/* ─── Hikam Body (expanded) ────────────────────────── */
+.hikam-body {
+  border-top: 1.5px solid var(--cream-200);
+  padding: 18px 16px 20px;
+  background: linear-gradient(180deg, var(--green-50) 0%, white 100%);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+/* Arabic block full */
+.arab-block {
+  background: white;
+  border: 1.5px solid var(--cream-200);
+  border-left: 4px solid var(--gold);
+  border-radius: var(--radius-sm);
+  padding: 16px 18px;
+}
+
+.arab-full {
+  font-size: 22px;
+  line-height: 2;
+  color: var(--ink);
+}
+
+/* Ornament divider */
+.divider-ornament {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.ornament-line {
+  flex: 1;
+  height: 1px;
+  background: var(--cream-200);
+}
+
+.ornament-dot {
+  font-size: 10px;
+  color: var(--gold);
+}
+
+/* Content sections */
+.content-section {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.section-label {
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--green-500);
+}
+
+.terjemahan-text {
+  font-family: 'Lora', serif;
+  font-style: italic;
+  font-size: 14px;
+  line-height: 1.75;
+  color: var(--ink-soft);
+}
+
+.penjelasan-text {
+  font-size: 13px;
+  line-height: 1.8;
+  color: var(--ink-muted);
+}
+
+/* Tags */
+.tags-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.tag {
+  font-size: 11px;
+  font-weight: 500;
+  padding: 3px 10px;
+  border-radius: 99px;
+  background: var(--green-50);
+  border: 1px solid var(--green-100);
+  color: var(--green-600);
+}
+
+/* ─── Skeleton ─────────────────────────────────────── */
+.skeleton-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.skeleton-item {
+  height: 62px;
+  background: white;
+  border: 1.5px solid var(--cream-200);
+  border-radius: var(--radius-lg);
+  animation: pulse 1.4s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50%       { opacity: 0.45; }
+}
+
+/* ─── Tanya Ustadz ─────────────────────────────────── */
+.info-banner {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  background: var(--green-50);
+  border: 1.5px solid var(--green-100);
+  border-radius: var(--radius-md);
+  padding: 14px;
+}
+
+.info-icon { color: var(--green-500); flex-shrink: 0; margin-top: 1px; }
+
+.info-title {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--ink);
+  margin-bottom: 3px;
+}
+
+.info-desc {
+  font-size: 12px;
+  color: var(--ink-muted);
+  line-height: 1.6;
+}
+
+.form-card {
+  background: white;
+  border: 1.5px solid var(--cream-200);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  box-shadow: 0 1px 8px rgba(10,31,14,0.06);
+}
+
+.form-topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 11px 14px;
+  border-bottom: 1px solid var(--cream-200);
+  background: var(--green-50);
+}
+
+.form-status {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--ink-soft);
+}
+
+.status-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #4caf6a;
+  box-shadow: 0 0 0 2px rgba(76,175,106,0.2);
+}
+
+.form-external {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 11px;
+  color: var(--ink-muted);
+  text-decoration: none;
+  transition: color 0.15s;
+}
+
+.form-external:hover { color: var(--green-600); }
+
+.form-loading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 60px 0;
+  gap: 12px;
+  font-size: 13px;
+  color: var(--ink-muted);
+}
+
+.spinner {
+  width: 28px;
+  height: 28px;
+  border: 3px solid var(--green-100);
+  border-top-color: var(--green-500);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin { to { transform: rotate(360deg); } }
+
+.form-iframe {
+  width: 100%;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.form-iframe.loaded { opacity: 1; }
+
+/* ─── Footer ───────────────────────────────────────── */
+.app-footer {
+  position: relative;
+  z-index: 1;
+  text-align: center;
+  padding: 28px 16px 32px;
+  border-top: 1px solid var(--cream-200);
+  background: var(--green-950);
+}
+
+.footer-arabic {
+  font-size: 18px;
+  color: var(--gold-light);
+  opacity: 0.8;
+  margin-bottom: 6px;
+}
+
+.footer-sub {
+  font-size: 11px;
+  color: var(--green-400);
+  letter-spacing: 0.04em;
+}
+
+/* ─── Animations ───────────────────────────────────── */
 @keyframes fadeIn {
-  from { opacity: 0; transform: translateY(8px); }
+  from { opacity: 0; transform: translateY(6px); }
   to   { opacity: 1; transform: translateY(0); }
 }
 
 .fade-in {
-  animation: fadeIn 0.3s ease-out forwards;
+  animation: fadeIn 0.25s ease-out forwards;
 }

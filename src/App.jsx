@@ -1,66 +1,69 @@
-import { useState, useEffect } from 'react'
-import { BookOpen, MessageCircle, ChevronDown, ChevronUp, Search, ExternalLink, HelpCircle } from 'lucide-react'
+import { useState, useEffect, useRef } from 'react'
+import { BookOpen, MessageCircle, ChevronDown, Search, ExternalLink, HelpCircle, Star } from 'lucide-react'
 import { supabase } from './lib/supabase'
 import { hikamData } from './lib/hikamData'
 
 const GOOGLE_FORM_URL = 'https://docs.google.com/forms/d/e/1FAIpQLSe3wsMIKoI5jb15TJA9T9ZmXCeiyNB6RWAxujazo0zzSG93AA/viewform?embedded=true'
-
 const USE_MOCK = !import.meta.env.VITE_SUPABASE_URL
 
-function HikamItem({ hikam }) {
+function HikamItem({ hikam, index }) {
   const [open, setOpen] = useState(false)
 
   return (
-    <div className={`border border-sand-200 rounded-2xl overflow-hidden transition-all ${open ? 'shadow-md' : 'shadow-sm'}`}>
+    <div
+      className="hikam-card"
+      style={{ animationDelay: `${Math.min(index * 40, 400)}ms` }}
+    >
       <button
         onClick={() => setOpen(!open)}
-        className="w-full flex items-center gap-4 px-5 py-4 bg-white hover:bg-sand-50 transition-colors text-left"
+        className="hikam-trigger"
+        aria-expanded={open}
       >
-        <div className="flex-shrink-0 w-9 h-9 rounded-full bg-gradient-to-br from-sand-400 to-sand-600 flex items-center justify-center">
-          <span className="text-white font-display font-semibold text-sm">{hikam.nomor}</span>
+        <div className="hikam-number">
+          <span>{hikam.nomor}</span>
         </div>
-        <div className="flex-1 min-w-0">
-          <p className="arabic-text text-lg text-ink-800 leading-relaxed truncate">
-            {hikam.arab}
-          </p>
-        </div>
-        <div className="flex-shrink-0 text-sand-400">
-          {open ? <ChevronUp size={18} /> : <ChevronDown size={18} />}
+
+        <p className="arabic-text hikam-preview">
+          {hikam.arab}
+        </p>
+
+        <div className={`hikam-chevron ${open ? 'open' : ''}`}>
+          <ChevronDown size={16} />
         </div>
       </button>
 
       {open && (
-        <div className="border-t border-sand-100 bg-sand-50/60 px-5 py-5 space-y-4 fade-in">
-          <p className="arabic-text text-2xl text-ink-800 leading-loose">{hikam.arab}</p>
-
-          {hikam.latin && (
-            <p className="font-sans text-xs text-sand-500 italic">{hikam.latin}</p>
-          )}
-
-          <div className="flex items-center gap-2">
-            <div className="flex-1 h-px bg-sand-200" />
-            <span className="text-sand-400 text-xs">✦</span>
-            <div className="flex-1 h-px bg-sand-200" />
+        <div className="hikam-body fade-in">
+          {/* Arab besar */}
+          <div className="arab-block">
+            <p className="arabic-text arab-full">{hikam.arab}</p>
           </div>
 
-          <div>
-            <p className="font-sans text-xs text-sand-400 uppercase tracking-wider mb-1.5">Terjemahan</p>
-            <p className="font-body italic text-ink-700 leading-relaxed">"{hikam.terjemahan}"</p>
+          <div className="divider-ornament">
+            <span className="ornament-line" />
+            <span className="ornament-dot">✦</span>
+            <span className="ornament-line" />
           </div>
 
+          {/* Terjemahan */}
+          <div className="content-section">
+            <p className="section-label">Terjemahan</p>
+            <p className="terjemahan-text">"{hikam.terjemahan}"</p>
+          </div>
+
+          {/* Penjelasan */}
           {hikam.penjelasan && (
-            <div>
-              <p className="font-sans text-xs text-sand-400 uppercase tracking-wider mb-1.5">Penjelasan</p>
-              <p className="font-body text-ink-600 text-sm leading-relaxed">{hikam.penjelasan}</p>
+            <div className="content-section">
+              <p className="section-label">Penjelasan</p>
+              <p className="penjelasan-text">{hikam.penjelasan}</p>
             </div>
           )}
 
+          {/* Tags */}
           {hikam.tags?.length > 0 && (
-            <div className="flex flex-wrap gap-1.5 pt-1">
+            <div className="tags-row">
               {hikam.tags.map(tag => (
-                <span key={tag} className="text-xs font-sans px-2.5 py-0.5 rounded-full bg-white border border-sand-200 text-sand-600">
-                  #{tag}
-                </span>
+                <span key={tag} className="tag">#{tag}</span>
               ))}
             </div>
           )}
@@ -97,77 +100,81 @@ function TabMateri() {
   const filtered = search
     ? hikamList.filter(h =>
         h.terjemahan?.toLowerCase().includes(search.toLowerCase()) ||
-        h.penjelasan?.toLowerCase().includes(search.toLowerCase())
+        h.penjelasan?.toLowerCase().includes(search.toLowerCase()) ||
+        h.arab?.includes(search)
       )
     : hikamList
 
   return (
-    <div className="space-y-4">
-      <div className="relative">
-        <Search size={15} className="absolute left-3.5 top-1/2 -translate-y-1/2 text-sand-400" />
+    <div className="tab-content">
+      {/* Search */}
+      <div className="search-wrap">
+        <Search size={15} className="search-icon" />
         <input
           type="text"
           placeholder="Cari hikmah..."
           value={search}
           onChange={e => setSearch(e.target.value)}
-          className="w-full pl-10 pr-4 py-2.5 bg-white border border-sand-200 rounded-xl font-sans text-sm text-ink-700 placeholder-sand-300 focus:outline-none focus:border-sand-400 focus:ring-2 focus:ring-sand-100 transition-all"
+          className="search-input"
         />
       </div>
 
-      <p className="font-sans text-xs text-sand-400">
+      <p className="count-label">
         {loading ? 'Memuat...' : `${filtered.length} hikmah`}
       </p>
 
       {loading ? (
-        <div className="space-y-3">
-          {[1,2,3].map(i => (
-            <div key={i} className="h-16 bg-white rounded-2xl border border-sand-200 animate-pulse" />
+        <div className="skeleton-list">
+          {[1, 2, 3, 4].map(i => (
+            <div key={i} className="skeleton-item" style={{ animationDelay: `${i * 80}ms` }} />
           ))}
         </div>
       ) : (
-        <div className="space-y-3">
-          {filtered.map(hikam => <HikamItem key={hikam.id} hikam={hikam} />)}
+        <div className="hikam-list">
+          {filtered.map((hikam, i) => (
+            <HikamItem key={hikam.id} hikam={hikam} index={i} />
+          ))}
         </div>
       )}
     </div>
   )
 }
 
-function TabTanyaUstadz() {
+function TabTanyaUstad() {
   const [formLoaded, setFormLoaded] = useState(false)
 
   return (
-    <div className="space-y-4">
-      <div className="bg-sand-100 border border-sand-200 rounded-2xl p-4 flex gap-3">
-        <HelpCircle size={18} className="text-sand-500 flex-shrink-0 mt-0.5" />
+    <div className="tab-content">
+      <div className="info-banner">
+        <HelpCircle size={16} className="info-icon" />
         <div>
-          <p className="font-sans text-sm font-semibold text-ink-700 mb-0.5">Cara Bertanya</p>
-          <p className="font-sans text-xs text-ink-500 leading-relaxed">
+          <p className="info-title">Cara Bertanya</p>
+          <p className="info-desc">
             Isi formulir di bawah dengan pertanyaan seputar Kitab Al-Hikam. Ustadz akan menjawab secepatnya.
           </p>
         </div>
       </div>
 
-      <div className="bg-white rounded-2xl border border-sand-200 overflow-hidden shadow-sm">
-        <div className="flex items-center justify-between px-4 py-3 border-b border-sand-100 bg-sand-50">
-          <div className="flex items-center gap-2">
-            <div className="w-2 h-2 rounded-full bg-green-400" />
-            <span className="font-sans text-xs text-ink-500 font-medium">Formulir Pertanyaan</span>
+      <div className="form-card">
+        <div className="form-topbar">
+          <div className="form-status">
+            <span className="status-dot" />
+            <span>Formulir Pertanyaan</span>
           </div>
-          
-           <a href={GOOGLE_FORM_URL.replace('?embedded=true', '')}
+          <a
+            href={GOOGLE_FORM_URL.replace('?embedded=true', '')}
             target="_blank"
             rel="noopener noreferrer"
-            className="flex items-center gap-1 font-sans text-xs text-sand-500 hover:text-sand-700"
+            className="form-external"
           >
             Buka di tab baru <ExternalLink size={11} />
           </a>
         </div>
 
         {!formLoaded && (
-          <div className="flex flex-col items-center justify-center py-16 gap-3">
-            <div className="w-8 h-8 rounded-full border-4 border-sand-200 border-t-sand-500 animate-spin" />
-            <p className="font-sans text-sm text-sand-400">Memuat formulir...</p>
+          <div className="form-loading">
+            <div className="spinner" />
+            <p>Memuat formulir...</p>
           </div>
         )}
 
@@ -175,7 +182,7 @@ function TabTanyaUstadz() {
           src={GOOGLE_FORM_URL}
           title="Tanya Ustadz"
           onLoad={() => setFormLoaded(true)}
-          className={`w-full transition-opacity duration-300 ${formLoaded ? 'opacity-100' : 'opacity-0 h-0'}`}
+          className={`form-iframe ${formLoaded ? 'loaded' : ''}`}
           style={{ height: formLoaded ? '700px' : '0' }}
           frameBorder="0"
         />
@@ -188,51 +195,52 @@ export default function App() {
   const [activeTab, setActiveTab] = useState('materi')
 
   return (
-    <div className="min-h-screen">
-      <header className="sticky top-0 z-50 bg-sand-50/95 backdrop-blur-md border-b border-sand-200">
-        <div className="max-w-2xl mx-auto px-4 py-4 flex items-center gap-3">
-          <div className="w-9 h-9 rounded-full bg-gradient-to-br from-sand-400 to-sand-600 flex items-center justify-center shadow-md flex-shrink-0">
-            <span className="text-white font-arabic text-lg leading-none">ح</span>
-          </div>
-          <div>
-            <h1 className="font-display text-xl font-bold text-ink-800 leading-none">Al-Hikam</h1>
-            <p className="font-sans text-xs text-sand-500 leading-none mt-0.5">Kitab Kebijaksanaan</p>
-          </div>
-        </div>
+    <div className="app-root">
+      {/* Decorative background */}
+      <div className="bg-pattern" aria-hidden="true" />
 
-        <div className="max-w-2xl mx-auto px-4 pb-3 flex gap-2">
-          <button
-            onClick={() => setActiveTab('materi')}
-            className={`flex-1 flex items-center justify-center gap-2 py-2.5 rounded-xl font-sans text-sm font-semibold transition-all ${
-              activeTab === 'materi'
-                ? 'bg-sand-500 text-white shadow-sm'
-                : 'bg-white text-ink-500 border border-sand-200 hover:border-sand-300'
-            }`}
-          >
-            <BookOpen size={16} />
-            Materi
-          </button>
-          <button
-            onClick={() => setActiveTab('tanya')}
-            className={`flex-1 flex items-center justify-center gap-2 py-2.5 rounded-xl font-sans text-sm font-semibold transition-all ${
-              activeTab === 'tanya'
-                ? 'bg-sand-500 text-white shadow-sm'
-                : 'bg-white text-ink-500 border border-sand-200 hover:border-sand-300'
-            }`}
-          >
-            <MessageCircle size={16} />
-            Tanya Ustadz
-          </button>
+      {/* Header */}
+      <header className="app-header">
+        <div className="header-inner">
+          <div className="brand">
+            <div className="brand-icon">
+              <span className="arabic-text">ح</span>
+            </div>
+            <div className="brand-text">
+              <h1>Al-Hikam</h1>
+              <p>Kitab Kebijaksanaan</p>
+            </div>
+          </div>
+
+          {/* Tabs */}
+          <nav className="tab-nav">
+            <button
+              onClick={() => setActiveTab('materi')}
+              className={`tab-btn ${activeTab === 'materi' ? 'active' : ''}`}
+            >
+              <BookOpen size={15} />
+              Materi
+            </button>
+            <button
+              onClick={() => setActiveTab('tanya')}
+              className={`tab-btn ${activeTab === 'tanya' ? 'active' : ''}`}
+            >
+              <MessageCircle size={15} />
+              Tanya Ustadz
+            </button>
+          </nav>
         </div>
       </header>
 
-      <main className="max-w-2xl mx-auto px-4 py-6">
-        {activeTab === 'materi' ? <TabMateri /> : <TabTanyaUstadz />}
+      {/* Main */}
+      <main className="app-main">
+        {activeTab === 'materi' ? <TabMateri /> : <TabTanyaUstad />}
       </main>
 
-      <footer className="max-w-2xl mx-auto px-4 py-8 text-center border-t border-sand-100 mt-4">
-        <p className="font-arabic text-lg text-sand-400">وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ</p>
-        <p className="font-sans text-xs text-sand-300 mt-1">Al-Hikam · Ibnu Athaillah As-Sakandari</p>
+      {/* Footer */}
+      <footer className="app-footer">
+        <p className="arabic-text footer-arabic">وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ</p>
+        <p className="footer-sub">Ibnu Athaillah As-Sakandari · Al-Hikam</p>
       </footer>
     </div>
   )
