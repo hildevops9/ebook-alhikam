@@ -204,11 +204,16 @@ export default function App() {
         <div className="header-inner">
           <div className="brand">
             <div className="brand-icon">
-              <span className="arabic-text">ح</span>
+              <img
+  src="https://res.cloudinary.com/dikusbh82/image/upload/v1780838252/icon-512_z9jsil.png"
+  alt="Al-Hikam"
+  className="brand-icon"
+  style={{ objectFit: 'cover' }}
+/>
             </div>
             <div className="brand-text">
               <h1>Al-Hikam</h1>
-              <p>Kitab Kebijaksanaan</p>
+              <p>Inspirasi Hikmah Ibnu'Athaillah As-Sakandari</p>
             </div>
           </div>
 
