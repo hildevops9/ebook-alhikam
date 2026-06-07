@@ -9,7 +9,7 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.ico', 'apple-touch-icon.png'],
       manifest: {
-        name: 'Al-Hikam — Kitab Kebijaksanaan',
+        name: 'Al-Hikam — Inspirasi Hikmah Ibnu Athaillah As-Sakandari',
         short_name: 'Al-Hikam',
         description: 'Kitab Al-Hikam karya Ibnu Athaillah As-Sakandari',
         theme_color: '#0f2d14',
