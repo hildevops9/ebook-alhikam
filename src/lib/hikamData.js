@@ -3,7 +3,7 @@ export const hikamData = [
     id: 1, nomor: 1,
     arab: 'مِنْ عَلَامَةِ الاِعْتِمَادِ عَلَى الْعَمَلِ نُقْصَانُ الرَّجَاءِ عِنْدَ وُجُودِ الزَّلَلِ',
     terjemahan: 'Salah satu tanda bergantungnya seseorang kepada amalnya adalah kurangnya raja\' (harapan terhadap rahmat Allah) tatkala ia mengalami kegagalan (dosa).',
-    penjelasan: 'Orang yang bergantung pada amalnya, ketika berbuat salah, harapannya kepada Allah berkurang. Padahal harapan seharusnya bertumpu pada rahmat Allah, bukan pada amal.',
+    penjelasan: 'Orang yang bergantung pada amalnya, ketika berbuat salah, harapannya kepada Allah berkurang. Padahal harapan seharusnya bertumpu pada rahmat Allah, bukan pada amal. https://drive.google.com/file/d/1OXsMW2e647yYk44JyOQ31OacO6dTNtPn/view?usp=sharing',
     tags: ['tawakkal', 'amal', 'harapan']
   },
   {

@@ -75,8 +75,10 @@ body {
 
 /* ─── Header ───────────────────────────────────────── */
 .app-header {
-  position: sticky;
+  position: fixed;
   top: 0;
+  left: 0;
+  right: 0;
   z-index: 50;
   background: var(--green-900);
   border-bottom: 1px solid rgba(201,168,76,0.2);
@@ -171,7 +173,7 @@ body {
   max-width: 680px;
   width: 100%;
   margin: 0 auto;
-  padding: 20px 16px 40px;
+  padding: 80px 16px 40px;
 }
 
 .tab-content {
