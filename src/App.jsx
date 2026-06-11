@@ -189,12 +189,40 @@ function TabMateri() {
   }, [])
 
   const filtered = search
-    ? hikamList.filter(h =>
-        h.terjemahan?.toLowerCase().includes(search.toLowerCase()) ||
-        h.penjelasan?.toLowerCase().includes(search.toLowerCase()) ||
+  ? hikamList.filter(h => {
+      const keyword = search.toLowerCase().trim()
+
+      const nomorMatch =
+        !isNaN(keyword) &&
+        Number(keyword) === h.nomor
+
+      const titleMatch =
+        TITLE_MAP[h.nomor]
+          ?.toLowerCase()
+          .includes(keyword)
+
+      const terjemahanMatch =
+        h.terjemahan
+          ?.toLowerCase()
+          .includes(keyword)
+
+      const penjelasanMatch =
+        h.penjelasan
+          ?.toLowerCase()
+          .includes(keyword)
+
+      const arabMatch =
         h.arab?.includes(search)
+
+      return (
+        nomorMatch ||
+        titleMatch ||
+        terjemahanMatch ||
+        penjelasanMatch ||
+        arabMatch
       )
-    : hikamList
+    })
+  : hikamList
 
   return (
     <div className="tab-content">
