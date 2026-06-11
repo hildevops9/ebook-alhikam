@@ -5,7 +5,23 @@ import { hikamData } from './lib/hikamData'
 
 const GOOGLE_FORM_URL = 'https://docs.google.com/forms/d/e/1FAIpQLSe3wsMIKoI5jb15TJA9T9ZmXCeiyNB6RWAxujazo0zzSG93AA/viewform?embedded=true'
 const USE_MOCK = !import.meta.env.VITE_SUPABASE_URL
-
+const TITLE_MAP = {
+  1: 'Bersandar Pada Allah Jangan Pada Amal',
+  2: 'Tajrid dan Kasab',
+  3: 'Kekuatan Takdir',
+  4: 'Mengistirahatkan Diri Dari Keinginan Mengatur',
+  5: 'Mata Hati Yang Buta',
+  6: 'Allah Yang Menjamin Terkabulnya Doa',
+  7: 'Keraguan Akan Mematikan Cahaya Hati',
+  8: 'Amal, Berserah Diri, dan Ma’rifat',
+  9: 'Amal, Ahwal, dan Warid',
+  10: 'Cahaya Ikhlas',
+  11: 'Kuburlah Eksistensimu',
+  12: 'Uzlah dan Tafakur',
+  13: 'Hati yang Ingin Bercahaya',
+  14: 'Alam Menjadi Terang Karena Allah',
+  15: 'Hijab Dari Yang Maha Nyata',
+}
 function HikamItem({ hikam, index }) {
   const [open, setOpen] = useState(false)
 
@@ -23,9 +39,17 @@ function HikamItem({ hikam, index }) {
           <span>{hikam.nomor}</span>
         </div>
 
-        <p className="arabic-text hikam-preview">
-          {hikam.arab}
-        </p>
+        <div className="hikam-content">
+          {TITLE_MAP[hikam.nomor] && (
+            <div className="hikam-title">
+              {TITLE_MAP[hikam.nomor]}
+            </div>
+          )}
+
+          <p className="arabic-text hikam-preview">
+            {hikam.arab}
+          </p>
+        </div>
 
         <div className={`hikam-chevron ${open ? 'open' : ''}`}>
           <ChevronDown size={16} />
