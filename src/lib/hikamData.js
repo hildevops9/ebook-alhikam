@@ -3,7 +3,7 @@ export const hikamData = [
     id: 1, nomor: 1,
     arab: 'مِنْ عَلَامَةِ الاِعْتِمَادِ عَلَى الْعَمَلِ نُقْصَانُ الرَّجَاءِ عِنْدَ وُجُودِ الزَّلَلِ',
     terjemahan: 'Salah satu tanda bergantungnya seseorang kepada amalnya adalah kurangnya raja\' (harapan terhadap rahmat Allah) tatkala ia mengalami kegagalan (dosa).',
-    penjelasan: 'Orang yang bergantung pada amalnya, ketika berbuat salah, harapannya kepada Allah berkurang. Padahal harapan seharusnya bertumpu pada rahmat Allah, bukan pada amal. https://drive.google.com/file/d/1OXsMW2e647yYk44JyOQ31OacO6dTNtPn/view?usp=sharing',
+    penjelasan: "Orang yang  اﻻﻋتماد ﻋﻠﻰ العمل  bersandar pada perilakunya sendiri merasa bahwa apa yang ia lakukan bisa mewujudkan segala prestasi dan kebahagiaan, maka siap-siaplah kecewa. Karena kegagalan dalam hidup adalah suatu kepas an.  Dunia adalah tempat pergan an senang dan susah. Tempat yang selalu bahagia = surga, tempat yang selalu sedih, susah = Neraka. Oleh karena itu, orang yang bergantung pada Allah tidak akan mudah patah tatkala ada yang mematahkan dirinya. ",
     tags: ['tawakkal', 'amal', 'harapan']
   }, 
   {
