@@ -5,7 +5,7 @@ export const hikamData = [
     terjemahan: 'Salah satu tanda bergantungnya seseorang kepada amalnya adalah kurangnya raja\' (harapan terhadap rahmat Allah) tatkala ia mengalami kegagalan (dosa).',
     penjelasan: 'Orang yang bergantung pada amalnya, ketika berbuat salah, harapannya kepada Allah berkurang. Padahal harapan seharusnya bertumpu pada rahmat Allah, bukan pada amal. https://drive.google.com/file/d/1OXsMW2e647yYk44JyOQ31OacO6dTNtPn/view?usp=sharing',
     tags: ['tawakkal', 'amal', 'harapan']
-  },
+  }, 
   {
     id: 2, nomor: 2,
     arab: 'إِرَادَتُكَ التَّجْرِيدَ مَعَ إِقَامَةِ اللهِ إِيَّاكَ فِي الْأَسْبَابِ مِنَ الشَّهْوَةِ الْخَفِيَّةِ',
