@@ -79,7 +79,7 @@ body {
   top: 0;
   left: 0;
   right: 0;
-  z-index: 999;
+  z-index: 50;
   background: var(--green-900);
   border-bottom: 1px solid rgba(201,168,76,0.2);
   box-shadow: 0 4px 24px rgba(10,31,14,0.25);
@@ -113,12 +113,6 @@ body {
   height: 40px;
   border-radius: 50%;
   object-fit: cover;
-}
-
-.brand-icon span {
-  font-size: 20px;
-  color: var(--green-950);
-  line-height: 1;
 }
 
 .brand-text h1 {
@@ -200,7 +194,7 @@ body {
   max-width: 680px;
   width: 100%;
   margin: 0 auto;
-  padding: 185px 16px 40px;
+  padding: 175px 16px 40px;
 }
 
 .tab-content {
@@ -277,19 +271,19 @@ body {
   to   { opacity: 1; transform: translateY(0); }
 }
 
-.hikam-content{
-  flex:1;
-  min-width:0;
+.hikam-content {
+  flex: 1;
+  min-width: 0;
 }
 
-.hikam-title{
-  font-size:13px;
-  font-weight:700;
-  color:var(--green-700);
-  margin-bottom:6px;
-  line-height:1.4;
-  text-align:left;
-  letter-spacing:.01em;
+.hikam-title {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--green-700);
+  margin-bottom: 6px;
+  line-height: 1.4;
+  text-align: left;
+  letter-spacing: .01em;
 }
 
 /* Trigger button */
@@ -457,7 +451,7 @@ body {
 
 @keyframes pulse {
   0%, 100% { opacity: 1; }
-  50%       { opacity: 0.45; }
+  50% { opacity: 0.45; }
 }
 
 /* ─── Tanya Ustadz ─────────────────────────────────── */
@@ -588,23 +582,16 @@ body {
 /* ─── Animations ───────────────────────────────────── */
 @keyframes fadeIn {
   from { opacity: 0; transform: translateY(6px); }
-  to   { opacity: 1; transform: translateY(0); }
+  to { opacity: 1; transform: translateY(0); }
 }
 
 .fade-in {
   animation: fadeIn 0.25s ease-out forwards;
 }
 
-/* ─── Responsive untuk mobile ───────────────────────────────────────── */
+/* ─── Responsive Mobile ───────────────────────────── */
 @media (max-width: 640px) {
   .app-main {
     padding-top: 175px !important;
   }
-}
-
-/* Prevent body scroll when input focused - handled by JS, this is backup */
-body.no-scroll {
-  overflow: hidden;
-  position: fixed;
-  width: 100%;
 }
