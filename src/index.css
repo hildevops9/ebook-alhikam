@@ -567,3 +567,31 @@ body {
 .fade-in {
   animation: fadeIn 0.25s ease-out forwards;
 }
+/* Sticky search - tetap terlihat saat scroll seperti header */
+.search-sticky {
+  position: sticky;
+  top: 112px;
+  z-index: 40;
+  background-color: var(--cream);
+  padding-bottom: 8px;
+  margin-bottom: 0;
+}
+
+/* Efek bayangan halus saat sticky (opsional) */
+.search-sticky {
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s ease;
+}
+
+/* Responsive untuk mobile */
+@media (max-width: 640px) {
+  .search-sticky {
+    top: 105px;
+  }
+}
+
+/* Pastikan background search-wrap solid */
+.search-wrap {
+  background: white;
+  border-radius: var(--radius-md);
+}

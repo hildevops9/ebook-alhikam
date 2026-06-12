@@ -22,72 +22,71 @@ const TITLE_MAP = {
   14: 'Alam Menjadi Terang Karena Allah',
   15: 'Hijab Dari Yang Maha Nyata',
   16: 'Jangan Menunggu Dunia Menjadi Tenang',
-17: 'Dunia Memang Tempat Ujian',
-18: 'Memohon Dengan Allah, Bukan Dengan Diri',
-19: 'Keberhasilan Berawal Dari Tawakal',
-20: 'Awal Yang Baik, Akhir Yang Baik',
-21: 'Rahasia Hati Akan Tampak',
-22: 'Nafas Dalam Genggaman Takdir',
-23: 'Muraqabah Di Tengah Kesibukan',
-24: 'Jangan Heran Dengan Kesulitan Dunia',
-25: 'Ketergantungan Menentukan Hasil',
-26: 'Tawakal Sejak Permulaan',
-27: 'Cahaya Awal Menentukan Akhir',
-28: 'Rahasia Batin Menjelma Dalam Perbuatan',
-29: 'Allah Tidak Memerlukan Bukti',
-30: 'Yang Nyata Tidak Membutuhkan Dalil',
-31: 'Sedekah Sesuai Keadaan',
-32: 'Cahaya Perjalanan dan Cahaya Kedekatan',
-33: 'Mengoreksi Diri Lebih Penting',
-34: 'Allah Tidak Pernah Terhijab',
-35: 'Keluar Dari Sifat-Sifat Nafsu',
-36: 'Bahaya Ridha Terhadap Nafsu',
-37: 'Tingkatan Penyaksian Hati',
-38: 'Allah Tetap Sebagaimana Adanya',
-39: 'Jangan Bercita-Cita Selain Allah',
-40: 'Hanya Allah Tempat Meminta',
-41: 'Berbaik Sangka Kepada Allah',
-42: 'Jangan Lari Dari Allah',
-43: 'Hijrah Dari Makhluk Kepada Sang Pencipta',
-44: 'Pilih Sahabat Yang Mengingatkan Allah',
-45: 'Lingkungan Membentuk Pandangan',
-46: 'Nilai Amal Ada Pada Hatinya',
-47: 'Amal Lahir Dari Keadaan Batin',
-48: 'Jangan Tinggalkan Dzikir',
-49: 'Tanda Kematian Hati',
-50: 'Jangan Putus Asa Karena Dosa',
-51: 'Karunia Allah Lebih Besar Dari Dosamu',
-52: 'Amal Yang Tersembunyi Lebih Selamat',
-53: 'Warid Untuk Mendekat Kepada Allah',
-54: 'Merdeka Dari Belenggu Dunia',
-55: 'Keluar Dari Penjara Diri',
-56: 'Cahaya Kendaraan Ruhani',
-57: 'Cahaya Adalah Tentara Hati',
-58: 'Fungsi Cahaya dan Bashirah',
-59: 'Bergembira Karena Karunia Allah',
-60: 'Lupakan Amal, Pandang Allah',
-61: 'Ketamakan Melahirkan Kehinaan',
-62: 'Angan-Angan Adalah Jerat',
-63: 'Budak Dari Apa Yang Diinginkan',
-64: 'Ditarik Kepada Allah Dengan Nikmat atau Ujian',
-65: 'Syukur Menjaga Nikmat',
-66: 'Takutlah Terhadap Istidraj',
-67: 'Hukuman Tidak Selalu Terlihat',
-68: 'Jangan Meremehkan Ahli Wirid',
-69: 'Manusia Memiliki Jalan Yang Berbeda',
-70: 'Karunia Allah Datang Tanpa Klaim',
-71: 'Terlalu Banyak Bicara Tanda Kejahilan',
-72: 'Dunia Bukan Tempat Balasan',
-73: 'Buah Amal Sebelum Akhirat',
-74: 'Lihat Di Mana Allah Menempatkanmu',
-75: 'Nikmat Terbesar Adalah Ketaatan',
-76: 'Mintalah Apa Yang Allah Minta Darimu',
-77: 'Sedih Tanpa Bergerak Adalah Tipuan',
-78: 'Fana Dalam Penyaksian',
-79: 'Harapan Harus Disertai Amal',
-80: 'Hakikat Ubudiyah',
-81: 'Lapang dan Sempit Adalah Pendidikan Allah',
-
+  17: 'Dunia Memang Tempat Ujian',
+  18: 'Memohon Dengan Allah, Bukan Dengan Diri',
+  19: 'Keberhasilan Berawal Dari Tawakal',
+  20: 'Awal Yang Baik, Akhir Yang Baik',
+  21: 'Rahasia Hati Akan Tampak',
+  22: 'Nafas Dalam Genggaman Takdir',
+  23: 'Muraqabah Di Tengah Kesibukan',
+  24: 'Jangan Heran Dengan Kesulitan Dunia',
+  25: 'Ketergantungan Menentukan Hasil',
+  26: 'Tawakal Sejak Permulaan',
+  27: 'Cahaya Awal Menentukan Akhir',
+  28: 'Rahasia Batin Menjelma Dalam Perbuatan',
+  29: 'Allah Tidak Memerlukan Bukti',
+  30: 'Yang Nyata Tidak Membutuhkan Dalil',
+  31: 'Sedekah Sesuai Keadaan',
+  32: 'Cahaya Perjalanan dan Cahaya Kedekatan',
+  33: 'Mengoreksi Diri Lebih Penting',
+  34: 'Allah Tidak Pernah Terhijab',
+  35: 'Keluar Dari Sifat-Sifat Nafsu',
+  36: 'Bahaya Ridha Terhadap Nafsu',
+  37: 'Tingkatan Penyaksian Hati',
+  38: 'Allah Tetap Sebagaimana Adanya',
+  39: 'Jangan Bercita-Cita Selain Allah',
+  40: 'Hanya Allah Tempat Meminta',
+  41: 'Berbaik Sangka Kepada Allah',
+  42: 'Jangan Lari Dari Allah',
+  43: 'Hijrah Dari Makhluk Kepada Sang Pencipta',
+  44: 'Pilih Sahabat Yang Mengingatkan Allah',
+  45: 'Lingkungan Membentuk Pandangan',
+  46: 'Nilai Amal Ada Pada Hatinya',
+  47: 'Amal Lahir Dari Keadaan Batin',
+  48: 'Jangan Tinggalkan Dzikir',
+  49: 'Tanda Kematian Hati',
+  50: 'Jangan Putus Asa Karena Dosa',
+  51: 'Karunia Allah Lebih Besar Dari Dosamu',
+  52: 'Amal Yang Tersembunyi Lebih Selamat',
+  53: 'Warid Untuk Mendekat Kepada Allah',
+  54: 'Merdeka Dari Belenggu Dunia',
+  55: 'Keluar Dari Penjara Diri',
+  56: 'Cahaya Kendaraan Ruhani',
+  57: 'Cahaya Adalah Tentara Hati',
+  58: 'Fungsi Cahaya dan Bashirah',
+  59: 'Bergembira Karena Karunia Allah',
+  60: 'Lupakan Amal, Pandang Allah',
+  61: 'Ketamakan Melahirkan Kehinaan',
+  62: 'Angan-Angan Adalah Jerat',
+  63: 'Budak Dari Apa Yang Diinginkan',
+  64: 'Ditarik Kepada Allah Dengan Nikmat atau Ujian',
+  65: 'Syukur Menjaga Nikmat',
+  66: 'Takutlah Terhadap Istidraj',
+  67: 'Hukuman Tidak Selalu Terlihat',
+  68: 'Jangan Meremehkan Ahli Wirid',
+  69: 'Manusia Memiliki Jalan Yang Berbeda',
+  70: 'Karunia Allah Datang Tanpa Klaim',
+  71: 'Terlalu Banyak Bicara Tanda Kejahilan',
+  72: 'Dunia Bukan Tempat Balasan',
+  73: 'Buah Amal Sebelum Akhirat',
+  74: 'Lihat Di Mana Allah Menempatkanmu',
+  75: 'Nikmat Terbesar Adalah Ketaatan',
+  76: 'Mintalah Apa Yang Allah Minta Darimu',
+  77: 'Sedih Tanpa Bergerak Adalah Tipuan',
+  78: 'Fana Dalam Penyaksian',
+  79: 'Harapan Harus Disertai Amal',
+  80: 'Hakikat Ubudiyah',
+  81: 'Lapang dan Sempit Adalah Pendidikan Allah',
 }
 function HikamItem({ hikam, index }) {
   const [open, setOpen] = useState(false)
@@ -226,21 +225,22 @@ function TabMateri() {
 
   return (
     <div className="tab-content">
-      {/* Search */}
-      <div className="search-wrap">
-        <Search size={15} className="search-icon" />
-        <input
-          type="text"
-          placeholder="Cari hikmah..."
-          value={search}
-          onChange={e => setSearch(e.target.value)}
-          className="search-input"
-        />
+      {/* Sticky search area */}
+      <div className="search-sticky">
+        <div className="search-wrap">
+          <Search size={15} className="search-icon" />
+          <input
+            type="text"
+            placeholder="Cari hikmah..."
+            value={search}
+            onChange={e => setSearch(e.target.value)}
+            className="search-input"
+          />
+        </div>
+        <p className="count-label">
+          {loading ? 'Memuat...' : `${filtered.length} hikmah`}
+        </p>
       </div>
-
-      <p className="count-label">
-        {loading ? 'Memuat...' : `${filtered.length} hikmah`}
-      </p>
 
       {loading ? (
         <div className="skeleton-list">
