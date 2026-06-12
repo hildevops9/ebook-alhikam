@@ -3,14 +3,23 @@ export const hikamData = [
     id: 1, nomor: 1,
     arab: 'مِنْ عَلَامَةِ الاِعْتِمَادِ عَلَى الْعَمَلِ نُقْصَانُ الرَّجَاءِ عِنْدَ وُجُودِ الزَّلَلِ',
     terjemahan: 'Salah satu tanda bergantungnya seseorang kepada amalnya adalah kurangnya raja\' (harapan terhadap rahmat Allah) tatkala ia mengalami kegagalan (dosa).',
-    penjelasan: "Orang yang  اﻻﻋتماد ﻋﻠﻰ العمل  bersandar pada perilakunya sendiri merasa bahwa apa yang ia lakukan bisa mewujudkan segala prestasi dan kebahagiaan, maka siap-siaplah kecewa. Karena kegagalan dalam hidup adalah suatu kepas an.  Dunia adalah tempat pergan an senang dan susah. Tempat yang selalu bahagia = surga, tempat yang selalu sedih, susah = Neraka. Oleh karena itu, orang yang bergantung pada Allah tidak akan mudah patah tatkala ada yang mematahkan dirinya. ",
+    penjelasan: `Hikam ini mengajarkan untuk nikmatilah dimanapun Allah sedang memposisikan kamu, karena di manapun Allah memposisikanmu, yakini itu yang terbaik. Yakini yang sedang dijalani ini adalah bentuk pengabdian kepada Allah.
+
+Orang yang bersandar pada amalnya sendiri merasa bahwa apa yang ia lakukan bisa mewujudkan segala prestasi dan kebahagiaan. Maka siap-siaplah kecewa, karena kegagalan dalam hidup adalah suatu kepastian. Dunia adalah tempat pergantian senang dan susah. Tempat yang selalu bahagia adalah surga, tempat yang selalu sedih adalah neraka.
+
+Islam mengajarkan manusia untuk selalu optimis jika kegagalan muncul, karena Allah Maha Mendengar, Maha Menyimak, tidak akan membiarkan kita dalam kebimbangan. Sebagaimana firman Allah: "Janganlah kamu takut dan janganlah kamu bersedih hati, sesungguhnya Allah bersama kita" (QS At-Taubah: 40), yang diucapkan Nabi Muhammad SAW kepada Abu Bakar saat bersembunyi di Gua Tsur.
+
+Oleh karena itu, orang yang bergantung pada Allah tidak akan mudah patah tatkala ada yang mematahkan dirinya.`,
     tags: ['tawakkal', 'amal', 'harapan']
   }, 
   {
     id: 2, nomor: 2,
-    arab: 'إِرَادَتُكَ التَّجْرِيدَ مَعَ إِقَامَةِ اللهِ إِيَّاكَ فِي الْأَسْبَابِ مِنَ الشَّهْوَةِ الْخَفِيَّةِ',
+    arab: `إِرَ ادَ تُــكَ الـتَّجْرِ يْدَ مَـعَ إِقَامَـةِ اللَّهِ إِ يَّـاكَ فيِ اْلأَسْبَابِ مِنَ الشَّـهْـوَ ةِ الْخَفِـيـَّةِ.
+وَ إِرَادَ تُـكَ اْلأَسْبَابَ مَعَ إِقَامَةِ اللَّهِ إِ يَّـاكَ فيِ الـتَّجْرِ يْدِ اِنحِطَاطٌ مِنَ الْهِمَّةِ الْعَـلِـيـَّةِ`,
     terjemahan: 'Keinginanmu untuk tajrid (meninggalkan keinginan duniawi) padahal Allah telah menetapkanmu pada asbab (usaha), adalah termasuk bisikan syahwat yang samar.',
-    penjelasan: 'Menginginkan kondisi spiritual tertentu tanpa mengikuti ketentuan Allah adalah bentuk nafsu yang halus. Begitu pula sebaliknya.',
+    penjelasan: `Tajrid = melepaskan diri dari kesibukan duniawi, fokus memperkaya jiwa dan beribadah. Asbab/kasab = usaha, di mana Allah telah membekalinya dengan sarana penghidupan, fokus mengambil tanggung jawab duniawi dengan niat ibadah. Allah memerintahkan kita untuk membagi waktu. Ketika sedang ditempatkan di pekerjaan maka harus fokus pada pekerjaan, ketika di rumah bersama keluarga fokus dengan keluarga, ketika beribadah fokus beribadah. Jangan berada di keadaan yang tidak fokus sehingga tidak bisa menikmati kenyataan.
+
+Ukirlah dalam nurani bahwa yang sedang kita hadapi adalah anugerah yang tak terhingga. Percayakan kepada Allah, jangan merasa bingung karena kamu tidak pernah sendirian, Allah bersama kita.`,
     tags: ['zuhud', 'takdir', 'syahwat', 'asbab']
   },
   {
@@ -24,133 +33,291 @@ export const hikamData = [
     id: 4, nomor: 4,
     arab: 'أَرِحْ نَفْسَكَ مِنَ التَّدْبِيرِ فَمَا قَامَ بِهِ غَيْرُكَ عَنْكَ لَا تَقُمْ بِهِ لِنَفْسِكَ',
     terjemahan: 'Istirahatkanlah dirimu dari melakukan tadbir (mengatur urusan duniawi) dengan susah payah. Karena sesuatu yang telah diurus untukmu oleh selain dirimu (Allah), tidak perlu engkau turut mengurusnya.',
-    penjelasan: 'Jangan terlalu sibuk mengatur segalanya hingga lupa bahwa Allah-lah yang sesungguhnya mengurus semuanya.',
+    penjelasan: `Tadbir secara bahasa berarti mengatur. Terbagi menjadi dua: Tadbir Mahmud (mengatur dengan sesuatu yang baik atau merencanakan kehidupan dengan baik, tanpa perasaan bahwa pengaturannya yang terbaik) dan Tadbir Mazmum (mengatur dengan sesuatu yang buruk atau mengatur hal-hal yang sebenarnya di luar kuasanya sehingga menimbulkan hal buruk, merasa pandai mengatur).
+
+Merancang itu baik, tapi merasa pandai merancang itu tidak baik. Manusia karakternya penuh dengan kelemahan dan keterbatasan. Hikam mengingatkan: "Istirahatkanlah dirimu dari lelahnya sikap mengatur kehidupan". Melepas diri dari sikap mengatur ini penting untuk menanamkan keyakinan bahwa kekuasaan Allah tidak bisa diukur dengan akal pikiran. Melepas bukan berarti berputus asa, tapi melepas bermakna mempercayakan alur hidup kepada Allah.
+
+Kita hanya bisa merancang, sementara yang memutuskan adalah Allah. Jangan memposisikan diri sebagai Rabb yang maha bisa mengatur, tapi posisikan diri sebagai hamba yang bisa diatur oleh Allah. Jika kita merasa diatur dan yakin akan kasih sayang Allah yang Maha Mengatur, maka kita akan tenang menghadapi kehidupan.`,
     tags: ['tawakkal', 'ketenangan', 'tadbir']
   },
   {
     id: 5, nomor: 5,
     arab: 'اجْتِهَادُكَ فِيمَا ضُمِنَ لَكَ وَتَقْصِيرُكَ فِيمَا طُلِبَ مِنْكَ دَلِيلٌ عَلَى انْطِمَاسِ الْبَصِيرَةِ مِنْكَ',
     terjemahan: 'Kesungguhanmu mengejar apa yang sudah dijamin untukmu (oleh Allah) dan kelalaianmu melaksanakan apa yang dibebankan kepadamu, itu merupakan tanda butanya bashirah (mata batin).',
-    penjelasan: 'Manusia sering bersemangat mengejar rezeki yang sudah dijamin, tapi lalai menunaikan kewajiban. Ini tanda lemahnya penglihatan batin.',
+    penjelasan: `Bashirah adalah mata hati – sesuatu yang bisa nampak di dalam hati ketika memejamkan mata lalu membayangkan sesuatu.
+
+Bashirah ada dua:
+1. Infitahul Bashirah (terbukanya mata hati): Orang yang mata hatinya terbuka akan berbaik sangka kepada Allah terhadap apa yang dialaminya, tidak mudah kecewa, tidak mudah tergelincir, dan tidak menyalahkan keadaan. Ia yakin apa yang telah, sedang, dan akan terjadi tidak lepas dari kasih sayang Allah yang sempurna.
+2. Inthimasul Bashirah (tertutupnya mata hati): Manusia yang hanya memandang kenikmatan duniawi semata, keuntungan duniawi semata, tanpa mau punya kasih sayang pada yang lain. Ia hanya fokus pada materialisme sehingga melalaikan ibadahnya.
+
+Hikam mengingatkan: "Kesungguhanmu mengejar (dunia) apa yang sudah dijamin untukmu dan kelalaianmu melaksanakan apa yang dibebankan kepadamu (ibadah), itu merupakan tanda butanya bashirah." Kebutaan mata hati disebabkan usaha keras dalam mencari rezeki, rasa malas beribadah, obsesi harta, dan memandang apapun untuk keuntungan duniawi.
+
+Sebagai mukmin, kita harus senantiasa memiliki Infitahul Bashirah dengan cara mencari rezeki tetap memperhatikan ibadah, obsesinya adalah akhirat, dan dunia adalah sarana untuk mendukung akhirat.`,
     tags: ['bashirah', 'rezeki', 'kewajiban', 'lalai']
   },
   {
     id: 6, nomor: 6,
-    arab: 'لَا يَكُنْ تَأَخُّرُ أَمَدِ الْعَطَاءِ مَعَ الْإِلْحَاحِ فِي الدُّعَاءِ مُوجِبًا لِيَأْسِكَ',
-    terjemahan: 'Terlambat datangnya pemberian (Allah), meski sudah dimohonkan berulang-ulang, janganlah membuatmu patah harapan.',
-    penjelasan: 'Allah telah menjamin untuk mengabulkan permintaan sesuai dengan apa yang Dia pilihkan, bukan menurut keinginan sendiri, dan dalam waktu yang Dia kehendaki.',
+    arab: 'لاَ يَــكُنْ تَــأَخُّرُ أَ مَدِ الْعَطَاءِ مَعَ اْلإِلْـحَـاحِ فيِ الدُّعَاءِ مُوْجِـبَاً لِـيَأْسِكَ؛ فَـهُـوَ ضَمِنَ لَـكَ اْلإِجَـابَـةَ فِيمَا يَـخْتَارُهُ لَـكَ لاَ فِيمَا تَـختَارُ لِـنَفْسِكَ؛ وَفيِ الْـوَقْتِ الَّـذِيْ يُرِ يـْدُ لاَ فيِ الْـوَقْتِ الَّذِي تُرِ يدُ',
+    terjemahan: '"Terlambat datangnya pemberian (Allah), meski sudah dimohonkan berulang-ulang, janganlah buatmu patah harapan. Karena dia telah menjamin untuk mengabulkan permintaanmu sesuai dengan apa yang Dia pilihkan untukmu, bukan menurut keinginan engkau sendiri. Juga dalam waktu yang Dia kehendaki, bukan pada waktu yang engkau inginkan"',
+    penjelasan: `Berdoa adalah ekspresi kehambaan. Ketika seseorang yakin semua doa akan diijabah, percayakan kepada Allah tentang waktu dan bentuk ijabahnya. Keterlambatan terkabulnya permintaan janganlah membuatmu berputus asa. Sesungguhnya Allah akan mengabulkan doa dengan sesuatu yang Ia pilihkan – apa yang kamu inginkan mungkin baik, tapi apa yang Allah putuskan pasti kebaikan. Begitu pula Allah akan mengabulkan doamu pada waktu yang Ia kehendaki, bukan di waktu yang kita inginkan.
+
+Kisah Nabi Ibrahim AS ketika akan dibakar, ketergantungannya kepada Allah sangat memuncak. Beliau menyatakan: "Cukuplah bagiku (untuk tidak meminta) karena Allah Maha Mengetahui keadaanku." Maka api pun menjadi dingin dan keselamatan baginya (QS Al-Anbiya: 69). Ketergantungan hati kepada Allah adalah kunci kebahagiaan. Percayakan kepada Allah tentang semua perjalanan hidupmu, karena rancangan Allah adalah rancangan yang sempurna.`,
     tags: ['doa', 'sabar', 'harapan', 'raja']
   },
   {
     id: 7, nomor: 7,
-    arab: 'لَا يُشَكِّكَنَّكَ فِي الْوَعْدِ عَدَمُ وُقُوعِ الْمَوْعُودِ وَإِنْ تَعَيَّنَ زَمَنُهُ',
+    arab: 'لاَ يـُشَـكِّكَــنَّكَ فيِ الْـوَعْدِ عَدَمُ وُقُــوْعِ الْـمَـوْعُـوْدِ ، وَ إِنْ تَـعَـيَّنِ زَمَنُهُ ؛ لِئَـلاَّ يـَكُوْنَ ذَ لِكَ قَدْحًـا فيِ بَـصِيْرَ تِـك, وَ إِخْمَـادً ا لِـنُورِ سَرِ يـْرَ تِـكَ',
     terjemahan: 'Tidak terlaksananya sesuatu yang dijanjikan oleh Allah janganlah sampai membuatmu ragu terhadap janji Allah itu, agar tidak mengaburkan bashirahmu dan memadamkan nur hatimu.',
-    penjelasan: 'Janji Allah pasti terlaksana, namun manusia sering tidak sabar menunggu waktunya. Keraguan terhadap janji Allah adalah tanda lemahnya iman.',
+    penjelasan: `Jangan sekali-kali kita sebagai manusia meragukan kebenaran janji Allah. Orang-orang yang yakin terhadap janji Allah adalah orang-orang yang tenang menjalani kenyataan. Allah berfirman: "(Yaitu) orang-orang yang beriman dan hati mereka menjadi tenteram dengan mengingat Allah. Ingatlah, hanya dengan mengingat Allah hati akan selalu tenteram" (QS Ar-Ra'd: 28).
+
+Hidup akan silih berganti senang dan susah, tetapi pengalaman itu jangan membuat kita melenyapkan ketenangan. Dengan ketenangan, ketika ada kesusahan kita tidak akan tertekan, dan ketika dalam kesenangan kita tidak akan sombong dan angkuh.
+
+Manusia dikaruniai sifat nafsu (syahwat/ambisi) dan ghadab (kebencian/emosi). Jika keduanya tidak dikelola dengan menghadirkan Allah, manusia akan tergelincir pada kesombongan atau keputusasaan. Allah menciptakan dunia sebagai tempat perjuangan, dan sudah menentukan takdir hidup bergilir (QS Ali Imran: 140).
+
+Jangan sampai tidak terlaksananya sesuatu yang dijanjikan Allah membuatmu ragu, karena bisa jadi terjadinya sesuatu itu bergantung pada sebab dan syarat tertentu yang belum dipenuhi. Keyakinan tanpa ragu akan kebenaran ijabah akan membuat mata hati tak terluka dan nurani tak padam.
+
+1. Jangan meragukan janji Alloh karena sejatinya semuanya sudah diatur dengan kesempurnaan 
+      2. Bagi manusia yang menerima apapun keputusan Alloh bagi hidupnya akan memandang indah semuanya
+      3. Keyakinan tanpa ragu akan kebenaran ijabah akan membuat mata hati tak kan terluka dan tak kan membuat padam nurani`,
     tags: ['janji-allah', 'bashirah', 'iman', 'sabar']
   },
+  
   {
     id: 8, nomor: 8,
-    arab: 'إِذَا فَتَحَ لَكَ وِجْهَةً مِنَ التَّعَرُّفِ فَلَا تُبَالِ مَعَهَا إِنْ قَلَّ عَمَلُكَ',
-    terjemahan: 'Apabila Allah telah membukakan salah satu jalan makrifat bagimu, maka jangan hiraukan mengapa itu terjadi, walaupun amalmu masih sangat sedikit.',
-    penjelasan: 'Allah membukakan pintu makrifat karena Dia ingin memperkenalkan diri kepadamu. Makrifat adalah anugerah-Nya, sementara amal adalah persembahanmu kepada-Nya.',
+    arab: 'إِذَا فَتَحَ لَـكَ وِجْهَةً مِنَ التَّعَرُّفِ فَلاَ تُبــَالِ مَعَهَا أِنْ قَلَّ عَمَلُكَ فَإِنَّـهُ مَا فَـتَـحَهَا لَكَ إِلاَّ وَهُوَ يُرِ يْدُ أَنْ يَـتَـعَرَّفَ إِلَيكَ. أَلَمْ تَـعْلَمْ أَنَّ الـتَّــعَرُّفَ هُوَ مُوْرِدُهُ عَلَيْكَ، وَاْلأَعْمَالُ أَنْتَ مُــهْدِ يْــهَا إِلَـيْهِ، وَأَيــْنَ مَا تُــهْدِ يْهِ إِلَـيْهِ مِمَّا هُـوَ مُوْرِدُهُ عَلَـيْكَ',
+    terjemahan: '"Apabila Allah telah membukakan salah satu jalan makrifat (mengenal Allah) bagimu, maka jangan hiraukan mengapa itu terjadi, walaupun amalmu masih sangat sedikit. Allah membukakan pintu itu bagimu hanyalah karena Dia ingin memperkenalkan diri kepadamu. Tidakkah engkau mengerti, bahwa makrifat itu merupakan anugrah-Nya kepadamu, Sedang engkau mempersembahkan amal-amalmu kepada-Nya.? Maka apalah arti apa yang engkau persembahkan kepada-Nya itu dengan apa yang dianugrahkan oleh Allah kepadamu."',
+    penjelasan: `Ma'rifat (mengenal Allah dengan hati) adalah pilihan Allah. Kadang kala ma'rifat melalui ujian dan keadaan yang tidak kita sukai (musibah atau kegagalan), di situlah Allah memperkenalkan sifat-Nya yang Maha Kuasa dan Maha Penolong. Ketika ditimpa musibah, kita harus senantiasa mengingat Allah, sebagaimana firman-Nya: "Sesungguhnya kami adalah kepunyaan Allah dan kepada Allah jugalah kami kembali" (QS Al-Baqarah: 156).
+
+Segala kenyataan hidup diatur oleh Allah. Kita harus mengingat Allah ketika ditimpa musibah dan yakin bahwa Allah tidak akan menguji di luar batas kemampuan kita (QS Al-Baqarah: 286).
+
+Maqam taslim (berserah diri): "Ya Allah, segala urusan adalah milik-Mu, dan di tangan-Mu segala kebaikan. Engkau yang lebih tahu apa yang tidak aku ketahui, dan Engkau yang kuasa atas apa yang tidak aku kuasai. Apa yang Engkau kehendaki pasti terjadi, apa yang tidak Engkau kehendaki tidak akan terjadi. Jadikanlah rida-Mu sebagai maksudku, dan karunia-Mu sebagai keberadaanku."
+
+Hikam mengingatkan: Apabila Allah membukakan jalan makrifat bagimu, jangan hiraukan walaupun amalmu masih sedikit. Allah membukanya karena Dia ingin memperkenalkan diri kepadamu. Makrifat adalah anugerah-Nya, sedang amal adalah persembahanmu – apalah arti persembahanmu dibanding anugerah-Nya.
+
+Dalam hadits qudsi: "Jika Aku telah mencintai hamba-Ku, maka Aku menjadi pendengarannya, penglihatannya, tangannya, dan kakinya..." Maknanya: ketika berbagai pengalaman hidup datang, jangan lenyapkan ketenangan dalam hati. Tenang timbul dari kesadaran akan kekuasaan Allah.`,
     tags: ['marifat', 'amal', 'anugerah']
   },
   {
     id: 9, nomor: 9,
-    arab: 'وَارِدَاتُ الْأَحْوَالِ تَنَوَّعَتْ لِتَنَوُّعِ أَجْنَاسِ الْأَعْمَالِ',
-    terjemahan: 'Amal itu beragam, lantaran beragamnya keadaan (ahwal) yang menyelinap ke dalam hati (jiwa).',
-    penjelasan: 'Keadaan hati (ahwal) yang berbeda-beda melahirkan amal yang berbeda pula. Batin menentukan lahir.',
+    arab: 'تَـنَوَّعَتْ أَجْنَاسُ اْلأَعْمَالِ لِـتَـنَوُّعِ وَارِدَاتِ اْلأَحْوَالِ ',
+    terjemahan: '"Beragamnya jenis amal-amal itu disebabkan oleh beragamnya warid-warid (yang turun) pada ahwal-ahwal (hamba-Nya)."',
+    penjelasan: `Dalam tasawuf ada istilah wird dan warid. Wird (jamak: awrad) adalah sesuatu yang dibiasakan, amal yang dibiasakan. Waridat (jamak: warid) adalah dampak baik, pengaruh baik dari apa yang dibiasakan.
+
+Apa yang Allah tetapkan dan berikan, fokuslah pada wirid kita. Lakukan yang terbaik ketika menjalani segala bentuk pekerjaan sebagai bentuk pengabdian kepada-Nya. Warid adalah apa yang Allah berikan ketika kita fokus menjalankan dan mengusahakan yang terbaik. Jangan fokus menjadi orang hebat, tapi fokuslah lakukan amal yang kita lakukan tiap hari untuk menjadikannya bagian dari ma'rifat kepada Allah.
+
+Allah menghadirkan banyak amal sebagai wirid manusia karena kondisi manusia yang beragam, dan Allah menganugerahkan banyak warid dalam kehidupan manusia. Oleh karena itu, tenanglah, yakini, dan bahagialah karena kita diatur oleh Yang Maha Penyayang.
+
+Maqam Ridha: "Orang-orang yang bersandar kepada Allah akan tenang/tentram menjalani semua perjalanan perputaran takdir-takdirnya."`,
     tags: ['ahwal', 'amal', 'hati']
   },
   {
     id: 10, nomor: 10,
     arab: 'الْأَعْمَالُ صُوَرٌ قَائِمَةٌ وَأَرْوَاحُهَا وُجُودُ سِرِّ الْإِخْلَاصِ فِيهَا',
-    terjemahan: 'Amal itu merupakan kerangka yang tetap (mati, tidak bergerak), dan ruhnya ialah keikhlasan yang ada (melekat padanya).',
-    penjelasan: 'Amal tanpa ikhlas adalah jasad tanpa ruh. Yang menghidupkan sebuah amal adalah ketulusan hati di baliknya.',
+    terjemahan: '"Amal-amal itu semata bentuk-bentuk yang tampil, adapun ruh-ruh yang menghidupkannya adalah hadirnya sirr ikhlas (cahaya ikhlas) padanya"',
+    penjelasan: `Amal-amal yang diperintahkan Allah adalah bentuk yang tampak, seperti shalat, zakat. Namun, kitab Al-Hikam mengingatkan bahwa ketika kita berupaya melakukan amalan dengan baik, jangan lupa ada keikhlasan yang tersimpan dalam nurani. Ikhlas adalah upaya menanamkan tauhid di dalam amal – meyakini Allah itu satu, lalu menerapkannya dalam amal bahwa amal kita semata-mata hanya untuk mengharap rida Allah.
+
+Ikhlas terbagi dua:
+1. Ikhlas lillah (beramal karena Allah) – merujuk pada niat. Orang yang beramal karena Allah adalah mukhlishin, melakukan amal semata-mata karena Allah, bukan karena ingin dipuji atau riya.
+2. Ikhlas billah (dengan/atas pertolongan Allah) – merujuk pada sandaran (tawakal). Kesadaran bahwa amal yang dilakukan bukan hanya karena kekuatan diri, melainkan karena pertolongan dan izin Allah.
+
+Amal atau ibadah tidak hanya pada sesuatu yang lahiriyah, tetapi ada amal yang secara batiniah. Amal akan bernilai di sisi Allah jika dalam batin ada keikhlasan. Amal adalah jasad, dan ikhlas adalah ruhnya. Perbaiki niat sebelum, saat, dan setelah beramal.
+Point:
+Amal adalah bentuk lahir, ikhlas adalah ruhnya
+      1. Amal ibadah tidak cukup hanya benar secara lahiriah.
+      2. Amal akan bernilai di sisi Allah jika disertai niat yang ikhlas.
+      3. Ikhlas menjadi ruh yang menghidupkan setiap amal.
+      4. Tanpa ikhlas, amal bisa tampak besar tetapi kosong nilainya.
+      5. Pesan utama: perbaiki niat sebelum, saat, dan setelah beramal.
+`,
     tags: ['ikhlas', 'amal', 'ruh']
   },
   {
     id: 11, nomor: 11,
     arab: 'ادْفِنْ وُجُودَكَ فِي أَرْضِ الْخُمُولِ فَمَا نَبَتَ مِمَّا لَمْ يُدْفَنْ لَمْ يَتِمَّ نِتَاجُهُ',
-    terjemahan: 'Tanamlah wujudmu dalam bumi yang tersembunyi (agar tidak dikenali orang), karena sesuatu yang tumbuh dari benih yang tidak ditanam, maka buahnya tidak akan sempurna.',
-    penjelasan: 'Ketersembunyian dan kerendahan hati adalah syarat tumbuhnya buah spiritual yang sempurna.',
+    terjemahan: '"Kuburlah wujudmu (eksistensimu) di dalam bumi kerendahan (ketiadaan); maka segala yang tumbuh namun tidak ditanam (dengan baik) tidak akan sempurna buahnya."',
+    penjelasan: `Ada istilah khumul dan syuhrah. Khumul adalah salah satu sifat orang-orang yang salik (orang yang menempuh perjalanan hati untuk mencapai rida Allah dan ma'rifatullah). Orang yang memiliki sifat khumul tidak ingin dipuji orang, bersembunyi dari apa yang ia lakukan, tidak mau popularitas. Syuhrah adalah ingin popularitas.
+
+Hikam mengingatkan: "Kuburlah wujudmu (eksistensimu) di dalam bumi kerendahan (ketidak-terkenalan)." Untuk menanamkan keikhlasan, benamkan eksistensimu di tanah khumul – berupaya untuk tidak sibuk mempopulerkan diri melalui amal, tapi berupaya bagaimana amal yang dilakukan tidak tampak untuk dipuji-puji orang. Karena apapun yang tumbuh dari akar yang tidak dibenamkan ke dalam tanah tidak akan sempurna hasilnya.
+
+Kemuliaan tidak lahir dari popularitas, tetapi dari kedekatan kepada Allah. Amal yang tersembunyi lebih terjaga dari riya dan ujub. Proses pertumbuhan ruhani seringkali justru kuat saat dijalani dalam diam. Jadilah hamba yang tumbuh dalam ketulusan, bukan pencitraan.
+Point:
+Tanamlah dirimu dalam tempat yang tersembunyi
+      1. Seorang salik tidak perlu sibuk menampakkan diri kepada manusia.
+      2. Kemuliaan tidak lahir dari popularitas, tetapi dari kedekatan kepada Allah.
+      3. Amal yang tersembunyi lebih terjaga dari riya dan ujub.
+      4. Proses pertumbuhan ruhani sering kali justru kuat saat dijalani dalam diam.
+      5. Pesan utama: jadilah hamba yang tumbuh dalam ketulusan, bukan pencitraan.
+`,
     tags: ['tawadhu', 'khumulul', 'riya']
   },
   {
     id: 12, nomor: 12,
     arab: 'مَا نَفَعَ الْقَلْبَ شَيْءٌ مِثْلُ عُزْلَةٍ يَدْخُلُ بِهَا مَيْدَانَ فِكْرَةٍ',
     terjemahan: 'Tidak ada yang lebih bermanfaat bagi kalbu sebagaimana uzlah, karena dengan memasuki uzlah (perenungan) pikiran kita jadi luas.',
-    penjelasan: 'Menyendiri dan berkontemplasi membuka pintu perenungan yang memperluas wawasan hati.',
+    penjelasan: `Bagi seorang salik, 'uzlah (mengasingkan diri) bukan sekadar menjauh secara fisik dari keramaian, tetapi menjauhkan hati dari ketergantungan dan pengaruh duniawi. Uzlah mampu menutup pintu-pintu gangguan indrawi. Saat sibuk dengan manusia, telinga dan mata terus menyerap informasi yang sering mengotori hati (gosip, pamer, persaingan). Dengan menyendiri, hati memiliki ruang untuk beristirahat dari hiruk-pikuk pencitraan.
+
+Namun, uzlah harus disertai dengan tafakur (berpikir dan merenungkan keindahan ciptaan Allah di langit dan bumi). Uzlah tanpa tafakur itu hampa. Tafakur artinya berpikir mendalam untuk menjadi pribadi yang lebih baik, merenungi dosa-dosa yang telah dilakukan, akan membuat kita mendapatkan makrifat kepada Allah.
+
+Dalam hadits qudsi, Allah berfirman: "Wahai anak Adam, selama engkau berdoa dan berharap kepada-Ku, Aku ampuni dosamu. Jika dosamu setinggi langit lalu engkau meminta ampun, Aku ampuni. Jika engkau datang kepada-Ku dengan kesalahan sepenuh bumi, kemudian engkau tidak menyekutukan-Ku sedikit pun, niscaya Aku datang kepadamu dengan ampunan sepenuh bumi pula."
+
+Uzlah membantu hati keluar dari keramaian yang melalaikan, membuka ruang untuk muhasabah dan memperbaiki hubungan dengan Allah. Hati membutuhkan keheningan agar mampu menerima cahaya hikmah.
+
+Point: 
+Tidak ada yang lebih bermanfaat bagi hati selain uzlah
+      1. Uzlah membantu hati keluar dari keramaian yang melalaikan.
+      2. Dengan menyendiri untuk tafakur, ha􀆟 menjadi lebih tenang dan jernih.
+      3. Uzlah membuka ruang untuk muhasabah dan memperbaiki hubungan dengan Allah.
+      4. Pikiran menjadi lebih luas karena 􀆟dak terus dipenuhi gangguan dunia.
+      5. Pesan utama: hati membutuhkan keheningan agar mampu menerima cahaya hikmah.`,
     tags: ['uzlah', 'fikir', 'hati']
   },
   {
     id: 13, nomor: 13,
-    arab: 'كَيْفَ يُشْرِقُ قَلْبٌ صُوَرُ الْأَكْوَانِ مُنْطَبِعَةٌ فِي مِرْآتِهِ',
-    terjemahan: 'Bagaimana hati dapat bersinar, sementara gambar-gambar duniawi tetap terlukis dalam cermin hati itu? Atau bagaimana hati dapat berangkat menuju Allah, karena masih terbelenggu oleh syahwatnya?',
-    penjelasan: 'Hati yang dipenuhi kecintaan dunia tidak bisa bersinar dengan cahaya ilahi. Syarat bersinarnya hati adalah membersihkannya dari segala selain Allah.',
+    arab: 'كَيْفَ يَشْرُقُ قَلْبٌ صُوَرُ اْلأَكْوَانِ مـُــنْطَبِعَةٌ فيِ مِرْآتِهِ، أَمْ كَيْفَ يَرْحَلُ إِلىَ اللَّهِ وَهُوَ مُكَبَّلٌ بشِهَوَاتِهِ، أَمْ كَيْفَ يَطْمَعُ أَنْ يَدْخُلَ حَضْرَةَ اللَّهِ وَهُوَ لَمْ يَـتَطَهَّرْ مِنْ جَنَابَةِ غَفَلاتِهِ أَمْ كَيْفَ يَرْجُوْ أَنْ يَفْهَمَ دَقَائِقَ اْلأَسْرَارِ وَهُوَ لَمْ يَـتـُبْ مِنْ هَفَوَاتِهِ',
+    terjemahan: `"Bagaimana mungkin hati bisa bersinar (terang bercahaya), sementara gambaran-gambaran dunia masih tercetak di cerminnya? Atau bagaimana mungkin ia bisa melakukan perjalanan menuju Allah, sementara ia masih dibelenggu oleh syahwat (hawa nafsu)-nya? Atau bagaimana mungkin ia berambisi masuk ke hadirat Allah, sementara ia belum bersuci dari junub-nya kelalaian? Atau bagaimana mungkin ia berharap memahami rahasia-rahasia yang halus (sirr), sementara ia belum bertobat dari kesalahan-kesalahannya?"`,
+    penjelasan: `Hati sulit bercahaya jika masih dipenuhi bayangan dunia. Ibarat cermin yang penuh coretan, debu, dan noda – meski cahaya sekuat apapun di depannya, cermin tetap tidak bisa memantulkan dengan jelas. Yang dimaksud "bayangan dunia" adalah segala sesuatu yang menempati posisi utama di hati selain Allah, seperti obsesi terhadap pengakuan dan pujian orang lain, kecemasan berlebihan soal masa depan duniawi, kemelekatan pada jabatan atau status sosial, pikiran yang terus berputar di urusan dunia sampai lupa dzikir.
+
+Yang berbahaya bukan memiliki dunia – tetapi ketika dunia memiliki hati kita. Hati yang bercahaya adalah hati yang ketika dipukul musibah tetap tenang, ketika diberi nikmat tidak sombong, ketika sendirian tetap ingat Allah.
+
+Hati manusia (qalb) mudah berubah, tidak menentu. Perjalanan menuju Allah akan terhalang oleh ikatan syahwat (keinginan dan kebencian). Ibarat seseorang yang ingin berjalan tapi kedua kakinya dirantai.
+
+Ada tiga maqam:
+- Muridin: orang-orang yang ingin dekat dengan Allah, berusaha agar syahwat lenyap.
+- Salikin: orang-orang yang berupaya menempuh dzikir dan selalu bertaubat.
+- Arifin: orang-orang yang betul-betul mengenal keagungan Allah, selalu mengukir Allah di dalam hatinya.
+
+Takhalli = mengosongkan hati dari hal-hal buruk, memperbanyak taubat. Tahalli = menghiasi hati dengan dzikirullah. Rahasia ilahi hanya dititipkan Allah pada hati yang layak menerimanya, dan hati tidak akan layak selama masih ada dosa yang belum ditobati. Taubat yang sesungguhnya: menyesal, berhenti, bertekad tidak mengulangi, dan memperbaiki hak orang lain.
+
+Doa memohon hati yang selamat: "Allahumma inni as'aluka qalban salima" (Ya Allah, aku memohon kepada-Mu hati yang selamat).
+Point:
+1. Hati sulit bercahaya jika masih dipenuhi bayangan dunia.
+      2. Perjalanan menuju Allah akan terhalang oleh ikatan syahwat.
+      3. Ibadah membutuhkan ha􀆟 yang bersih dari kelalaian.
+      4. Memahami rahasia Ilahi memerlukan taubat dan penyucian diri.`,    
     tags: ['hati', 'syahwat', 'dunia', 'marifat']
   },
   {
     id: 14, nomor: 14,
-    arab: 'الْكَوْنُ كُلُّهُ ظُلْمَةٌ وَإِنَّمَا أَنَارَهُ ظُهُورُ الْحَقِّ فِيهِ',
-    terjemahan: 'Alam ini serba gelap, ia menjadi terang hanyalah karena manifestasi (zhahir) Allah di dalamnya. Siapa melihat alam namun tidak menyaksikan Allah di dalamnya, ia sangat memerlukan cahaya.',
-    penjelasan: 'Hakikat semua cahaya di alam ini bersumber dari Allah. Melihat alam tanpa melihat Allah berarti masih terhalang oleh tirai.',
+    arabic:'الْكَوْنُ كُلُّهُ ظُلْمَةٌ وَ إِنَّمَا أَنَارَهُ ظُهُوْرُ الْحَقِّ فِيْهِ فَمَنْ رَأَى الْكَوْنَ وَ لَمْ يَشْهَدْهُ فِيْهِ أَوْ عِنْدَهُ أَوْ قَبْلَهُ أَوْ بَعْدَهُ فَقَدْ أَعْوَزَهُ وُجُوْدُ الْأَنْوَارِ وَ حُجِبَتْ عَنْهُ شُمُوْسُ الْمَعَارِفِ بِسُحُبِ الْآثَارِ',
+    terjemahan: '"Seluruh semesta adalah kegelapan, Sesungguhnya ia diterangi kemunculan al-Ḥaqq/Allah di dalamnya, Maka siapa yang melihat semesta dan tidak menyaksikan Dia di dalamnya, di sisinya, sebelumnya, atau sesudahnya maka ia telah disamarkan oleh wujud cahaya. Dan awan ciptaan menghalanginya dari matahari makrifat."',
+    penjelasan: `Alam semesta ini – langit, bumi, manusia, bintang, pohon, laut – secara hakikat adalah gelap. Bukan gelap fisik, tapi gelap secara makna karena alam sifatnya makhluk (bergantung, tidak berdiri sendiri), fana (tidak kekal), dan tidak bercahaya dari dirinya sendiri. Ia hanya bisa diterangi oleh kemunculan al-Haqq (Allah) di dalamnya.
+
+Setiap benda yang kita lihat sejatinya adalah ayat (tanda/petunjuk) yang mengarah kepada Allah. Ini yang disebut syuhud al-af'al – menyaksikan perbuatan Allah dalam setiap fenomena. Mukmin sejati selalu merasa semua yang terlihat harus menjadi tanda kehadiran Allah, memahami bahwa tiada yang kebetulan, semua dirancang oleh Allah.
+
+Orang yang hanya melihat benda lahiriah akan kehilangan cahaya makrifat. Ia akan sombong saat sukses (merasa hasil dirinya), putus asa saat gagal (tidak melihat hikmah), lalai dari Allah (pikiran hanya di benda/sebab). Inilah yang disebut "terhijab oleh makhluk dari Khaliq".
+
+Allah tidak menampakkan diri-Nya secara langsung untuk menguji keimanan hamba. Sebagaimana firman-Nya: "Dan bukan engkau yang melempar ketika engkau melempar, tetapi Allah-lah yang melempar" (QS Al-Anfal: 17).
+
+Dunia bisa menjadi jalan mengenal Allah (positif) jika kita melihat ciptaan → mengenal Pencipta, merasakan nikmat → semakin cinta kepada Pemberi nikmat. Tapi juga bisa menjadi hijab (penghalang) jika kita terlalu cinta harta lupa bahwa harta titipan, bangga dengan jabatan lupa kuasa dari Allah. Kuncinya ada pada hati, bukan pada benda duniawi.
+      Point:
+      1.	Alam pada hakikatnya gelap tanpa cahaya Allah.
+      2.	Semua yang terlihat seharusnya menjadi tanda kehadiran Allah.
+      3.	Orang yang hanya melihat benda lahiriah akan kehilangan cahaya makrifat.
+      4.	Dunia bisa menjadi jalan mengenal Allah, tetapi juga bisa menjadi hijab bila berhenti pada bentuknya saja.`,
     tags: ['alam', 'cahaya', 'marifat', 'tauhid']
   },
   {
     id: 15, nomor: 15,
     arab: 'مِمَّا يَدُلُّكَ عَلَى وُجُودِ قَهْرِهِ سُبْحَانَهُ أَنْ حَجَبَكَ عَنْهُ بِمَا لَيْسَ بِمَوْجُودٍ مَعَهُ',
     terjemahan: 'Di antara bukti yang memperlihatkan adanya kekuasaan Allah yang Maha Suci adalah bahwa Dia menghalangimu dari melihat-Nya dengan tabir yang tidak wujud di sisi-Nya.',
-    penjelasan: 'Paradoks spiritual: yang menghalangi manusia dari Allah sesungguhnya tidak memiliki wujud hakiki di sisi Allah.',
+    penjelasan: `Allah memiliki nama Az-Zahir – Yang Maha Nyata, Yang Paling Jelas. Paradoksnya, justru karena Allah terlalu nyata dan terlalu dekat, banyak manusia tidak "melihat"-Nya. Ini bukan soal Allah yang bersembunyi, tapi soal kondisi mata hati manusia. Allah Az-Zahir terang benderang, nyata dalam setiap ciptaan, namun manusia datang dengan hati berlumur dosa, nafsu, cinta dunia, kesombongan – semua itu menghalangi pandangan batinnya. Allah tidak pernah pergi, manusialah yang lengah.
+
+Hijab bukan karena Allah jauh, tetapi karena hati belum bersih. Hijab dalam tasawuf adalah penghalang antara hati manusia dengan makrifatullah. Apa saja yang jadi hijab? Dosa, maksiat, cinta dunia, sombong, lalai, dan cinta diri sendiri (merasa paling pandai mengatur dengan akal pikiran yang terbatas). Allah selalu ada, yang berubah adalah kadar kehadiran hati kita.
+
+Semua yang ada di dunia – harta, jabatan, popularitas, bahkan tubuh kita – sifatnya tidak hakiki: tidak kekal, tidak berdiri sendiri, wujudnya bergantung pada kehendak Allah. Sedangkan Allah adalah Al-Haqq, satu-satunya wujud yang benar-benar nyata dan kekal. Yang mengejutkan: sesuatu yang tidak nyata (dunia yang fana) justru bisa menutupi Yang Maha Nyata (Allah), karena manusia memberikan perhatian, cinta, dan ketergantungan kepada yang fana melebihi kepada Allah.
+
+Tiga kunci yang saling terhubung: membersihkan hati, memperkuat taubat, dan melihat alam sebagai tanda Allah. Masalah kita bukan Allah yang jauh – masalah kita adalah hati yang sibuk. Solusinya bukan mencari Allah ke mana-mana, karena Allah sudah ada di sini, lebih dekat dari urat nadi. Solusinya adalah membersihkan penghalang yang kita sendiri bangun – lewat taubat, tazkiyah, dan melatih hati melihat setiap ciptaan sebagai cermin keagungan-Nya.
+Point:
+1.	Allah Maha Nyata, tetapi manusia bisa terhalang oleh pandangannya sendiri.
+      2.	Hijab bukan karena Allah jauh, tetapi karena hati belum bersih.
+      3.	Sesuatu yang tidak hakiki dapat menghalangi manusia dari Yang Maha Hakiki.
+      4.	Kuncinya adalah membersihkan hati, memperkuat taubat, dan melihat alam sebagai tanda Allah.`,
     tags: ['hijab', 'kekuasaan-allah', 'tauhid']
   },
   {
     id: 16, nomor: 16,
-    arab: 'كَيْفَ يُتَصَوَّرُ أَنْ يَحْجُبَهُ شَيْءٌ وَهُوَ الَّذِي أَظْهَرَ كُلَّ شَيْءٍ',
-    terjemahan: 'Bagaimana mungkin dapat dibayangkan kalau sesuatu dapat menjadi hijab atas-Nya, padahal Dia-lah yang menampakkan segala sesuatu?',
-    penjelasan: 'Allah adalah sumber dari segala penampakan. Tidak ada yang bisa menghalangi Zat yang menjadi sumber nyatanya segala sesuatu.',
+    arabic: `كَيْفَ يَتَصَوَّرُ أَنْ يَحْجُبَهُ شَيْءٌ وَهُوَ الَّذِيْ أَظْهَرَ كُلَّ شَيْءٍ.
+كَيْفَ يَتَصَوَّرُ أَنْ يَحْجُبَهُ شَيْءٌ وَهُوَ الَّذِيْ ظَهَرَ بِكُلِّ شَيْءٍ.
+كَيْفَ يَتَصَوَّرُ أَنْ يَحْجُبَهُ شَيْءٌ وَهُوَ الَّذِيْ ظَهَرَ فِيْ كُلِّ شَيْءٍ.
+كَيْفَ يَتَصَوَّرُ أَنْ يَحْجُبَهُ شَيْءٌ وَهُوَ الَّذِيْ ظَهَرَ لِكُلِّ شَيْءٍ.
+كَيْفَ يَتَصَوَّرُ أَنْ يَحْجُبَهُ شَيْءٌ وَهُوَ الَّذِيْ الظَاهِرُ قَبْلَ وُجُوْدِ كُلِّ شَيْءٍ. كَيْفَ يَتَصَوَّرُ أَنْ يَحْجُبَهُ شَيْءٌ وَهُوَ الَّذِيْ أظْهَِرُ مِنْ كُلِّ شَيْءٍ.
+كَيْفَ يَتَصَوَّرُ أَنْ يَحْجُبَهُ شَيْءٌ وَهُوَ الْوَاحِدُ الَّذِيْ لَيْسَ مَعَهُ شَيْءٌ.
+كَيْفَ يَتَصَوَّرُ أَنْ يَحْجُبَهُ شَيْءٌ وَهُوَ أَقْرَبُ إِلَيْكَ مِنْ كُلِّ شَيْءٍ.
+كَيْفَ يَتَصَوَّرُ أَنْ يَحْجُبَهُ شَيْءٌ وَلَوْلَاهُ مَا كَانَ وُجُوْدُ كُلِّ شَيْءٍ.`,
+
+    terjemahan: `• Bagaimana bisa dibayangkan kalau sesuatu dapat mengalingi-Nya, sementara Dialah Yang Menampakkan segala sesuatu? Bagaimana bisa dibayangkan kalau sesuatu sanggup mengaling-Nya, bila Dialah Yang Tampak pada segala sesuatu?Bagaimana bisa dibayangkan kalau sesuatu mampu mengalingi-Nya, sedangkan Dialah Yang Tampak dalam segala sesuatu?Bagaimana bisa dibayangkan kalau sesuatu kuasa mengalingi-Nya, padahal Dialah Yang Tampak untuk segala sesuatu? Bagaimana bisa dibayangkan kalau sesuatu dapat mengalingi-Nya, sementara Dialah Yang Ada sebelum ada segala sesuatu ? Bagaimana bisa dibayangkan kalau sesuatu sanggup mengalingi-Nya, bila Dia lebih jelas ketimbang segala sesuatu? Bagaimana bisa dibayangkan kalau sesuatu dapat mengalingi-Nya, sedangkan Dia Esa, yang tiada disamping-Nya sesuatu apa pun? Bagaimana bisa dibayangkan kalau sesuatu kuasa mengalingi-Nya, padahal Dia lebih dekat kepadamu daripada segala sesuatu? Bagaimana bisa dibayangkan kalau sesuatu dapat mengalingi-Nya, sementara seandainya Dia tak ada, niscaya tak akan ada segala sesuatu?Betapa ajaib, bagaimana bisa tampak dalam ketiadaan? Atau, bagaimana sesuatu yang baru bisa bersanding dengan Yang Mahadahulu`,
+    penjelasan: `Hikam ini adalah rentetan pertanyaan retoris yang membuktikan mustahilnya Allah terhijab:
+      1. Allah-lah yang menampakkan segala sesuatu — bagaimana yang menampakkan justru tersembunyi?
+      2. Allah-lah yang tampak pada segala sesuatu — bagaimana bisa ada yang menghalangi-Nya?
+      3. Allah ada sebelum segala sesuatu — bagaimana yang ada belakangan menghalangi yang lebih dahulu?
+      4. Allah lebih nyata dari segala sesuatu — bagaimana yang kurang nyata menghalangi yang lebih nyata?
+      5. Hijab sejatinya bukan pada Allah, melainkan pada mata hati kita yang belum bersih.`,
     tags: ['hijab', 'tauhid', 'allah']
   },
   {
     id: 17, nomor: 17,
     arab: 'مَا تَرَكَ مِنَ الْجَهْلِ شَيْئًا مَنْ أَرَادَ أَنْ يَحْدُثَ فِي الْوَقْتِ غَيْرُ مَا أَظْهَرَهُ اللهُ فِيهِ',
     terjemahan: 'Sangatlah jahil orang yang menginginkan terjadinya sesuatu di luar waktu yang dikehendaki oleh Allah.',
-    penjelasan: 'Menolak ketentuan waktu Allah adalah puncak kebodohan. Setiap waktu memiliki takdirnya sendiri yang dipilih oleh Allah.',
+    penjelasan: `1. Setiap waktu memiliki takdir dan ketetapan Allah yang paling sempurna.
+      2. Menginginkan kondisi berbeda dari yang Allah tampakkan adalah bentuk kebodohan spiritual.
+      3. Seorang mukmin menerima setiap keadaan sebagai pilihan terbaik dari Allah.
+      4. Ketidakpuasan terhadap ketetapan Allah menunjukkan lemahnya keyakinan pada hikmah-Nya.
+      5. Pesan utama: ridha dengan waktu dan kondisi yang Allah berikan adalah puncak tawakkal.`,
     tags: ['takdir', 'ridha', 'waktu']
   },
   {
     id: 18, nomor: 18,
-    arab: 'مِنْ رُعُونَاتِ النَّفْسِ إِحَالَةُ الْأَعْمَالِ عَلَى وُجُودِ الْفَرَاغِ',
-    terjemahan: 'Menunda beramal saleh guna menantikan kesempatan yang lebih luang, termasuk tanda kebodohan jiwa.',
-    penjelasan: 'Nafsu selalu mencari alasan untuk menunda kebaikan. Menunggu waktu luang adalah tipu daya nafsu.',
+    arab: 'إِحَالَتُكَ الْأَعْمَالَ عَلَى وُجُوْدِ الْفَرَاغِ مِنْ رُعُوْنَاتِ النَّفْسِ',
+    terjemahan: '"Menunda beramal saleh guna menantikan kesempatan yang lebih luang, termasuk tanda kebodohan jiwa."',
+    penjelasan: `1. Nafsu selalu mencari alasan untuk menunda amal kebaikan.
+      2. Menunggu waktu luang sempurna sebelum beramal adalah jebakan setan yang halus.
+      3. Waktu luang yang dinanti sering kali tidak pernah benar-benar tiba.
+      4. Setiap saat adalah kesempatan beramal — sempitnya waktu bukan penghalang.
+      5. Pesan utama: mulailah beramal sekarang dengan apa yang ada, jangan tunda menunggu kondisi ideal.`,
     tags: ['nafsu', 'amal', 'menunda']
   },
   {
     id: 19, nomor: 19,
-    arab: 'لَا تَطْلُبْ مِنْهُ أَنْ يُخْرِجَكَ مِنْ حَالَةٍ لِيَسْتَعْمِلَكَ فِيمَا سِوَاهَا',
-    terjemahan: 'Jangan meminta kepada Allah supaya Dia memindahkanmu dari suatu keadaan ke keadaan lain, karena tentulah Dia akan memasukanmu tanpa mengeluarkanmu dari keadaan sebelumnya.',
-    penjelasan: 'Bersyukur dan bersabar dengan kondisi yang ada adalah lebih baik daripada terus meminta perpindahan keadaan.',
+    arabic: 'لَا تَطْلُبْ مِنْهُ أَنْ يُخْرِجَكَ مِنْ حَالَةٍ لِيَسْتَعْمِلَكَ فِيمَا سِوَاهَا، فَلَوْ أَرَادَكَ لَاسْتَعْمَلَكَ مِنْ غَيْرِ إِخْرَاجٍ.',
+    terjemahan: '"Jangan meminta kepada Allah supaya Dia mengeluarkanmu dari suatu keadaan untuk menggunakanmu pada keadaan yang lain. Karena seandainya Allah menghendaki penggunaanmu, tentulah Dia akan menggunakanmu tanpa harus mengeluarkanmu."',
+    penjelasan: `1. Allah Maha Kuasa menggunakan hamba-Nya dalam kondisi apapun tanpa perlu mengubah keadaan.
+      2. Meminta dipindahkan dari keadaan sebelum saatnya menunjukkan ketidakpercayaan pada pengaturan Allah.
+      3. Kondisi kita saat ini adalah medan amal yang telah Allah pilihkan.
+      4. Kewajiban kita adalah optimal di mana kita berada, bukan memilih di mana kita ingin berada.
+      5. Pesan utama: terima posisimu sekarang dan tunaikan tugasmu di sana dengan sepenuh hati.`,
     tags: ['ridha', 'syukur', 'keadaan']
   },
   {
     id: 20, nomor: 20,
-    arab: 'مَا أَرَادَتْ هِمَّةُ سَالِكٍ أَنْ تَقِفَ عِنْدَ مَا كُشِفَ لَهَا إِلَّا وَنَادَتْهُ هَوَاتِفُ الْحَقِيقَةِ',
-    terjemahan: 'Himmah (hasrat) seorang salik takkan berhenti ketika tersingkap baginya tirai rohani, melainkan suara-suara hakikat akan berseru padanya: apa yang engkau cari masih di depanmu!',
-    penjelasan: 'Perjalanan spiritual tidak pernah berhenti pada satu pencapaian. Setiap kali tersingkap satu tirai, di depan masih ada tirai berikutnya.',
+    arabic: 'مَا أَرَادَتْ هِمَّةُ سَالِكٍ أَنْ تَقِفَ عِنْدَ مَا كُشِفَ لَهَا إِلَّا وَنَادَتْهُ هَوَاتِفُ الْحَقِيقَةِ: الَّذِي تَطْلُبُهُ أَمَامَكَ! وَلَا تَبَرَّجَتْ ظَوَاهِرُ الْمُكَوَّنَاتِ إِلَّا وَنَادَتْهُ حَقَائِقُهَا: إِنَّا فِتْنَةٌ فَلَا تَكْفُرْ',
+    terjemahan: '"Hasrat seorang salik tidak akan berhenti ketika tersingkap baginya tirai rohani, melainkan suara-suara hakikat akan berseru padanya: yang engkau cari masih di depanmu! Dan tidaklah keindahan alam semesta memperlihatkan dirinya, melainkan hakikatnya berseru: kami hanyalah ujian, maka janganlah engkau kufur."',
+    penjelasan: `1. Seorang salik sejati tidak puas berhenti pada pencapaian spiritual manapun.
+      2. Setiap kali tersingkap suatu maqam, suara batin menyeru: tujuanmu masih lebih jauh di depan.
+      3. Keindahan alam dan makhluk adalah ujian — jangan terpesona dan berhenti di sana.
+      4. Alam menyeru: kami hanya perantara, jangan jadikan kami tujuan akhir.
+      5. Pesan utama: perjalanan menuju Allah tidak memiliki titik akhir selama di dunia ini.`,
     tags: ['salik', 'himmah', 'perjalanan-spiritual']
   },
   {
     id: 21, nomor: 21,
-    arab: 'طَلَبُكَ مِنْهُ اتِّهَامٌ لَهُ وَطَلَبُكَ لَهُ غَيْبَةٌ مِنْكَ عَنْهُ',
-    terjemahan: 'Permintaanmu pada-Nya berarti suatu tuduhan terhadap-Nya. Permintaanmu bagi-Nya menunjukkan engkau jauh dari-Nya.',
-    penjelasan: 'Di tingkat makrifat tertinggi, meminta pun bisa menjadi tanda jauhnya seorang hamba. Yang sempurna adalah ridha total dengan segala ketentuan-Nya.',
+    arab: 'طَلَبُكَ مِنْهُ اتِّهَامٌ لَهُ، وَطَلَبُكَ لِغَيْرِهِ لِقِلَّةِ الْحَيَاءِ مِنْهُ، وَطَلَبُكَ مِنْ غَيْرِهِ لِوُجُودِ بُعْدِكَ عَنْهُ',
+    terjemahan: '"Permintaanmu kepada-Nya (seolah Dia tidak tahu) merupakan suatu tuduhan terhadap-Nya. Permintaanmu untuk selain-Nya menunjukkan kurangnya rasa malu kepada-Nya. Dan permintaanmu dari selain-Nya disebabkan jauhnya dirimu dari-Nya."',
+    penjelasan: `1. Meminta kepada Allah bukan karena Dia tidak tahu, melainkan sebagai pengakuan kebutuhan dan penghambaan.
+      2. Meminta agar sesuatu berlaku pada selain Allah seolah menjadikan makhluk sebagai tujuan.
+      3. Meminta dari selain Allah adalah tanda hati yang masih jauh dari-Nya.
+      4. Doa yang sempurna adalah doa yang lahir dari kesadaran total bahwa hanya Allah yang memberi.
+      5. Pesan utama: sempurnakan adab dalam berdoa — kenali kepada siapa dan mengapa engkau meminta.`,
     tags: ['marifat', 'ridha', 'doa', 'tauhid']
   },
   {
     id: 22, nomor: 22,
     arab: 'مَا مِنْ نَفَسٍ تُبْدِيهِ إِلَّا وَلَهُ قَدَرٌ فِيكَ يُمْضِيهِ',
     terjemahan: 'Tiada suatu nafas berhembus darimu, kecuali di situ takdir Allah berlaku padamu.',
-    penjelasan: 'Setiap detik kehidupan, tanpa terkecuali, adalah pelaksanaan takdir Allah. Tidak ada celah di mana Allah tidak hadir.',
+    penjelasan:  `1. Setiap hembusan nafas adalah momen takdir Allah yang sedang berjalan.
+      2. Tidak ada satupun detik kehidupan yang luput dari pengaturan-Nya.
+      3. Kesadaran ini mendorong manusia untuk hadir sepenuhnya bersama Allah di setiap saat.
+      4. Muraqabah dimulai dari menyadari bahwa setiap nafas diketahui dan diatur oleh-Nya.
+      5. Pesan utama: hidup dengan penuh kesadaran — setiap nafas adalah amanah dan takdir dari-Nya.`,
     tags: ['takdir', 'muraqabah', 'allah']
   },
   {
@@ -162,9 +329,13 @@ export const hikamData = [
   },
   {
     id: 24, nomor: 24,
-    arab: 'لَا تَسْتَغْرِبْ وُقُوعَ الْأَكْدَارِ مَا دُمْتَ فِي هَذِهِ الدَّارِ',
-    terjemahan: 'Jangan engkau merasa heran atas terjadinya kesulitan selama engkau berada di dunia ini, sebab memang begitulah yang patut terjadi dan yang menjadi karakter asli dunia.',
-    penjelasan: 'Dunia memang bukan tempat kesenangan abadi. Mengeluh tentang kesulitan dunia adalah seperti mengeluh tentang basahnya air.',
+    arab: 'لَا تَسْتَغْرِبْ وُقُوعَ الْأَكْدَارِ مَا دُمْتَ فِي هَذِهِ الدَّارِ، فَإِنَّهَا مَا أَبْرَزَتْ إِلَّا مَا هُوَ مُسْتَحِقُّ وَصْفِهَا وَوَاجِبُ نَعْتِهَا',
+    terjemahan: '"Janganlah engkau merasa heran atas terjadinya berbagai kesulitan selama engkau berada di dunia ini, sebab memang begitulah yang patut terjadi dan yang menjadi karakter asli dunia."',
+    penjelasan: `1. Dunia memang dirancang mengandung kesulitan, kepedihan, dan kekecewaan.
+      2. Terkejut dengan kesulitan dunia seperti terkejut karena laut itu asin.
+      3. Mengeluh atas kesulitan dunia berarti belum memahami hakikat dunia itu sendiri.
+      4. Menerima watak dunia dengan lapang dada adalah bagian dari iman dan syukur.
+      5. Pesan utama: kenali dunia sebagaimana adanya agar hati tidak mudah goyah oleh ujiannya.`,
     tags: ['dunia', 'sabar', 'ujian']
   },
   {
@@ -197,23 +368,29 @@ export const hikamData = [
   },
   {
     id: 29, nomor: 29,
-    arab: 'شَتَّانَ بَيْنَ مَنْ يَسْتَدِلُّ بِهِ أَوْ يَسْتَدِلُّ عَلَيْهِ',
-    terjemahan: 'Betapa jauh bedanya antara orang yang berdalil bahwa adanya Allah menunjukkan adanya alam, dengan orang yang berdalil bahwa adanya alam menunjukkan adanya Allah.',
+    arab: `شَتَّانَ بَينَ مَنْ يَسْتَدِلُّ بِهِ أَوْ يَسْتَدِلُّ عَلَيِهِ. المُسْتَدِلُّ بِهِ عَرَفَ الحَقَّ لأَهْلِهِ، فأَثْبَتَ الأَمْرَ مِنْ وُجودِ أَصْلِهِ. وَالإِسْتِدْلالُ عَلَيْهِ مِنْ عَدَمِ الوُصولِ إليَهِ. وَإلّا فَمَتى غابَ حَتّى يُسْتَدَلَّ عَلَيْهِ؟ وَمَتى بَعُدَ حَتّى تَكونَ الآثارُ هِيَ الَّتي تُوْصِلُ إلَيْهِ؟`,
+    terjemahan: `"Sangat jauh berbeda antara orang yang bersandar kepada Allah untuk melihat makhluk (Al-Mustadli bihi) dengan orang yang bersandar pada makhluk untuk membuktikan keberadaan Allah (Al-Mustadlil 'alaihi).
+
+Orang yang bersandar kepada Allah (Al-Mustadli bihi) adalah orang yang mengenal Al-Haqq (Allah) karena hak-Nya, sehingga ia menetapkan segala urusan bersumber dari wujud asal-Nya (yaitu Allah).
+
+Sedangkan orang yang mencari dalil untuk membuktikan keberadaan Allah (Al-Mustadlil 'alaihi) menunjukkan bahwa ia belum sampai (wushul) kepada-Nya.
+
+Sebab, jika tidak demikian (jika Allah itu nyata di hatinya), kapan masanya Allah itu gaib/hilang sehingga memerlukan dalil untuk membuktikan keberadaan-Nya? Dan kapan masanya Allah itu jauh sehingga alam semesta dan segala bekas ciptaan-Nya (atsar) yang baru bisa menyampaikan kita kepada-Nya?"`,
     penjelasan: 'Orang arif bertolak dari Allah untuk melihat alam. Sedangkan orang biasa bertolak dari alam untuk mencari Allah. Perbedaan ini sangat jauh.',
     tags: ['marifat', 'tauhid', 'alam', 'dalil']
   },
   {
     id: 30, nomor: 30,
-    arab: 'لِيُنْفِقْ ذُو سَعَةٍ مِنْ سَعَتِهِ',
-    terjemahan: 'Orang yang mempunyai keluasaan harta hendaklah berderma menurut kemampuannya. Ini ditujukan kepada mereka yang telah sampai kepada Allah.',
+    arab: 'لِيُنفِقْ ذُو سَعَةٍ مِّن سَعَتِهِ الواصِلونَ إلَيْهِ. مَنْ قُدِرَ عَلَيْهِ رِزْقُهُ السّائِرونَ إلَيْهِ',
+    terjemahan: '"Hendaklah orang yang mempunyai keluasan memberi nafkah dari keluasannya (QS. At-Thalaq: 7), mereka itulah orang-orang yang telah sampai kepada Allah (Al-Washilun). Dan orang yang disempitkan rezekinya (QS. At-Thalaq: 7), mereka itulah orang-orang yang sedang berjalan menuju Allah (Al-Sairun)."',
     penjelasan: 'Kelapangan rezeki adalah amanah yang harus disalurkan. Bagi yang sudah sampai kepada Allah, memberi adalah ekspresi kedekatan dengan-Nya.',
     tags: ['sedekah', 'rezeki', 'dermawan']
   },
   {
     id: 31, nomor: 31,
-    arab: 'اهْتَدَى الرَّاحِلُونَ إِلَيْهِ بِأَنْوَارِ التَّوَجُّهِ',
-    terjemahan: 'Orang-orang yang tengah berjalan menuju Allah mendapat petunjuk dengan cahaya tawajjuh (konsentrasi menghadap Allah).',
-    penjelasan: 'Cahaya tawajjuh adalah bekal perjalanan menuju Allah bagi para salik. Sedangkan mereka yang sudah sampai memiliki cahaya yang lebih tinggi.',
+    arab: 'اِهْتَدَى الرَّاحِلُوْنَ إِلَيْهِ بِأَنْوَارِ التَّوَجُّهِ، وَالْوَاصِلُوْنَ لَهُمْ أَنْوَارُ الْمُوَاجَهَةِ، فَلِلْأَوَّلِيْنَ لِلْأَنْوَارِ، وَهَؤُلَاءِ الْأَنْوَارُ لَهُمْ، لِأَنَّهُمْ لِلَّهِ لَا شَيْءَ دُوْنَهُ، (قُلِ اللَّهُ ثُمَّ ذَرْهُمْ فِي خَوْضِهِمْ يَلْعَبُوْنَ)',
+    terjemahan: '"Orang-orang yang menempuh perjalanan menuju-Nya mendapatkan petunjuk dengan cahaya-cahaya ketulusan (dalam menuju Allah). Sedangkan mereka yang telah sampai memiliki cahaya perjumpaan (dengan Allah). Maka, bagi para pencari (jalan), mereka mendapatkan cahaya (sebagai sarana), sedangkan bagi mereka yang telah sampai, cahaya itu justru berasal dari mereka (karena mereka telah fana dalam Allah). Sebab mereka hanya untuk Allah dan tidak ada selain-Nya."',
+    penjelasan: 'Hikmah ini membedakan kualitas spiritual antara orang yang masih berjuang mencari Tuhan lewat perantara amal lahiriah (butuh cahaya sarana) dengan orang yang hatinya sudah dipenuhi makrifat langsung kepada-Nya (menjadi sumber cahaya/ketenangan bagi sekitarnya). Fokus utama untuk mencapai level ini adalah membersihkan hati dari keterikatan ego diri (fana) sehingga hidup sepenuhnya digerakkan semata-mata demi Allah.',
     tags: ['tawajjuh', 'salik', 'cahaya', 'perjalanan']
   },
   {
@@ -225,15 +402,15 @@ export const hikamData = [
   },
   {
     id: 33, nomor: 33,
-    arab: 'الْحَقُّ لَيْسَ بِمَحْجُوبٍ وَإِنَّمَا الْمَحْجُوبُ أَنْتَ عَنِ النَّظَرِ إِلَيْهِ',
-    terjemahan: 'Al-Haq (Allah) tidak terhijab, tapi engkaulah yang terhalang dari melihat-Nya.',
+    arab: 'اَلْحَقُّ لَيْسَ بِمَحْجُوبٍ ، وَإِنَّمَا الْمَحْجُوبُ أَنْتَ عَنِ النَّظَرِ إِلَيْهِ ، إِذْ لَوْ حَجَبَهُ شَيْءٌ لَسَتَرَهُ مَا حَجَبَهُ ، وَلَوْ كَانَ لَهُ سَاتِرٌ لَكَانَ لِوُجُودِهِ حَاصِرٌ ، وَكُلُّ حَاصِرٍ لِشَيْءٍ فَهُوَ لَهُ قَاهِرٌ ؛ (وَهُوَ الْقَاهِرُ فَوْقَ عِبَادِهِ)',
+    terjemahan: '"Allah (Al-Haqq) itu tidak terhijab (terhalang). Kamulah yang terhijab sehingga tidak bisa melihat-Nya. Sebab, jika ada sesuatu yang menghijab Allah, berarti sesuatu itu telah menutupi-Nya. Jika Allah memiliki penutup, berarti wujud Allah ada yang membatasi/mengepung. Dan segala sesuatu yang membatasi sesuatu yang lain, berarti ia menguasai (lebih kuat dari) sesuatu yang dibatasinya itu. Padahal Dialah Yang Maha Kuasa atas hamba-hamba-Nya"',
     penjelasan: 'Allah selalu hadir dan nyata. Yang ada adalah tabir di mata hamba, bukan tabir yang menutupi Allah.',
     tags: ['hijab', 'marifat', 'tauhid', 'hati']
   },
   {
     id: 34, nomor: 34,
-    arab: 'اخْرُجْ مِنْ أَوْصَافِ بَشَرِيَّتِكَ عَنْ كُلِّ وَصْفٍ مُنَاقِضٍ لِعُبُودِيَّتِكَ',
-    terjemahan: 'Keluarlah dari sifat-sifat kemanusiaanmu, setiap sifat yang menyalahi ubudiyah-mu (penghambaan), supaya mudah bagimu menyambut panggilan Allah.',
+    arab: 'اْخْرُجْ مِنْ أَوْصَافِ بَشَرِيَّتِكَ عَنْ كُلِّ وَصْفٍ مُنَاقِضٍ لِعُبُودِيَّتِكَ، لِتَكُونَ لِنِدَاءِ الْحَقِّ مُجِيباً، وَمِنْ حَضْرَتِهِ قَرِيباً',
+    terjemahan: '"Keluarlah dari sifat-sifat kemanusiaanmu (yang buruk), yaitu setiap sifat yang bertentangan dengan kedudukanmu sebagai hamba (‘ubudiyyah), agar engkau dapat menyambut seruan Al-Haqq (Allah) dengan baik, dan menjadi dekat dengan hadirat-Nya."',
     penjelasan: 'Sifat-sifat buruk kemanusiaan adalah penghalang untuk menjawab panggilan Allah. Membersihkan diri dari sifat-sifat tersebut adalah kewajiban spiritual.',
     tags: ['ubudiyah', 'akhlak', 'nafsu', 'taqwa']
   },
