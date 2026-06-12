@@ -595,3 +595,41 @@ body {
   background: white;
   border-radius: var(--radius-md);
 }
+
+/* Search bar di dalam header */
+.header-search {
+  margin: 10px 0 8px 0;
+}
+
+.header-search .search-wrap {
+  width: 100%;
+}
+
+.header-search .search-input {
+  background: rgba(255,255,255,0.95);
+  border-color: var(--green-700);
+}
+
+.header-search .search-input:focus {
+  border-color: var(--gold);
+  background: white;
+}
+
+/* Sesuaikan padding main karena header lebih tinggi */
+.app-main {
+  padding-top: 175px !important;
+}
+
+@media (max-width: 640px) {
+  .app-main {
+    padding-top: 165px !important;
+  }
+}
+
+/* Perbaikan icon brand */
+.brand-icon-img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+}

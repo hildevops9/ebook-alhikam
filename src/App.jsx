@@ -1,10 +1,11 @@
-import { useState, useEffect, useRef } from 'react'
-import { BookOpen, MessageCircle, ChevronDown, Search, ExternalLink, HelpCircle, Star } from 'lucide-react'
+import { useState, useEffect } from 'react'
+import { BookOpen, MessageCircle, ChevronDown, Search, ExternalLink, HelpCircle } from 'lucide-react'
 import { supabase } from './lib/supabase'
 import { hikamData } from './lib/hikamData'
 
 const GOOGLE_FORM_URL = 'https://docs.google.com/forms/d/e/1FAIpQLSe3wsMIKoI5jb15TJA9T9ZmXCeiyNB6RWAxujazo0zzSG93AA/viewform?embedded=true'
 const USE_MOCK = !import.meta.env.VITE_SUPABASE_URL
+
 const TITLE_MAP = {
   1: 'Bersandar Pada Allah Jangan Pada Amal',
   2: 'Tajrid dan Kasab',
@@ -88,6 +89,7 @@ const TITLE_MAP = {
   80: 'Hakikat Ubudiyah',
   81: 'Lapang dan Sempit Adalah Pendidikan Allah',
 }
+
 function HikamItem({ hikam, index }) {
   const [open, setOpen] = useState(false)
 
@@ -111,7 +113,6 @@ function HikamItem({ hikam, index }) {
               {TITLE_MAP[hikam.nomor]}
             </div>
           )}
-
           <p className="arabic-text hikam-preview">
             {hikam.arab}
           </p>
@@ -124,7 +125,6 @@ function HikamItem({ hikam, index }) {
 
       {open && (
         <div className="hikam-body fade-in">
-          {/* Arab besar */}
           <div className="arab-block">
             <p className="arabic-text arab-full">{hikam.arab}</p>
           </div>
@@ -135,13 +135,11 @@ function HikamItem({ hikam, index }) {
             <span className="ornament-line" />
           </div>
 
-          {/* Terjemahan */}
           <div className="content-section">
             <p className="section-label">Terjemahan</p>
             <p className="terjemahan-text">"{hikam.terjemahan}"</p>
           </div>
 
-          {/* Penjelasan */}
           {hikam.penjelasan && (
             <div className="content-section">
               <p className="section-label">Penjelasan</p>
@@ -149,7 +147,6 @@ function HikamItem({ hikam, index }) {
             </div>
           )}
 
-          {/* Tags */}
           {hikam.tags?.length > 0 && (
             <div className="tags-row">
               {hikam.tags.map(tag => (
@@ -188,60 +185,19 @@ function TabMateri() {
   }, [])
 
   const filtered = search
-  ? hikamList.filter(h => {
-      const keyword = search.toLowerCase().trim()
-
-      const nomorMatch =
-        !isNaN(keyword) &&
-        Number(keyword) === h.nomor
-
-      const titleMatch =
-        TITLE_MAP[h.nomor]
-          ?.toLowerCase()
-          .includes(keyword)
-
-      const terjemahanMatch =
-        h.terjemahan
-          ?.toLowerCase()
-          .includes(keyword)
-
-      const penjelasanMatch =
-        h.penjelasan
-          ?.toLowerCase()
-          .includes(keyword)
-
-      const arabMatch =
-        h.arab?.includes(search)
-
-      return (
-        nomorMatch ||
-        titleMatch ||
-        terjemahanMatch ||
-        penjelasanMatch ||
-        arabMatch
-      )
-    })
-  : hikamList
+    ? hikamList.filter(h => {
+        const keyword = search.toLowerCase().trim()
+        const nomorMatch = !isNaN(keyword) && Number(keyword) === h.nomor
+        const titleMatch = TITLE_MAP[h.nomor]?.toLowerCase().includes(keyword)
+        const terjemahanMatch = h.terjemahan?.toLowerCase().includes(keyword)
+        const penjelasanMatch = h.penjelasan?.toLowerCase().includes(keyword)
+        const arabMatch = h.arab?.includes(search)
+        return nomorMatch || titleMatch || terjemahanMatch || penjelasanMatch || arabMatch
+      })
+    : hikamList
 
   return (
     <div className="tab-content">
-      {/* Sticky search area */}
-      <div className="search-sticky">
-        <div className="search-wrap">
-          <Search size={15} className="search-icon" />
-          <input
-            type="text"
-            placeholder="Cari hikmah..."
-            value={search}
-            onChange={e => setSearch(e.target.value)}
-            className="search-input"
-          />
-        </div>
-        <p className="count-label">
-          {loading ? 'Memuat...' : `${filtered.length} hikmah`}
-        </p>
-      </div>
-
       {loading ? (
         <div className="skeleton-list">
           {[1, 2, 3, 4].map(i => (
@@ -249,11 +205,14 @@ function TabMateri() {
           ))}
         </div>
       ) : (
-        <div className="hikam-list">
-          {filtered.map((hikam, i) => (
-            <HikamItem key={hikam.id} hikam={hikam} index={i} />
-          ))}
-        </div>
+        <>
+          <p className="count-label">{filtered.length} hikmah</p>
+          <div className="hikam-list">
+            {filtered.map((hikam, i) => (
+              <HikamItem key={hikam.id} hikam={hikam} index={i} />
+            ))}
+          </div>
+        </>
       )}
     </div>
   )
@@ -312,31 +271,43 @@ function TabTanyaUstad() {
 
 export default function App() {
   const [activeTab, setActiveTab] = useState('materi')
+  const [search, setSearch] = useState('')
 
+  // Pass search state ke TabMateri via props
   return (
     <div className="app-root">
-      {/* Decorative background */}
       <div className="bg-pattern" aria-hidden="true" />
 
-      {/* Header */}
       <header className="app-header">
         <div className="header-inner">
           <div className="brand">
             <div className="brand-icon">
               <img
-  src="https://res.cloudinary.com/dikusbh82/image/upload/v1780838252/icon-512_z9jsil.png"
-  alt="Al-Hikam"
-  className="brand-icon"
-  style={{ objectFit: 'cover' }}
-/>
+                src="https://res.cloudinary.com/dikusbh82/image/upload/v1780838252/icon-512_z9jsil.png"
+                alt="Al-Hikam"
+                className="brand-icon-img"
+              />
             </div>
             <div className="brand-text">
               <h1>Al-Hikam</h1>
-              <p>Inspirasi Hikmah Ibnu'Athaillah As-Sakandari</p>
+              <p>Inspirasi Hikmah Ibnu Athaillah As-Sakandari</p>
             </div>
           </div>
 
-          {/* Tabs */}
+          {/* Search Bar di dalam header */}
+          <div className="header-search">
+            <div className="search-wrap">
+              <Search size={15} className="search-icon" />
+              <input
+                type="text"
+                placeholder="Cari hikmah..."
+                value={search}
+                onChange={e => setSearch(e.target.value)}
+                className="search-input"
+              />
+            </div>
+          </div>
+
           <nav className="tab-nav">
             <button
               onClick={() => setActiveTab('materi')}
@@ -356,12 +327,10 @@ export default function App() {
         </div>
       </header>
 
-      {/* Main */}
       <main className="app-main">
-        {activeTab === 'materi' ? <TabMateri /> : <TabTanyaUstad />}
+        {activeTab === 'materi' ? <TabMateri searchValue={search} /> : <TabTanyaUstad />}
       </main>
 
-      {/* Footer */}
       <footer className="app-footer">
         <p className="arabic-text footer-arabic">وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ</p>
         <p className="footer-sub">Ibnu Athaillah As-Sakandari · Al-Hikam</p>
