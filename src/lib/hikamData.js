@@ -198,7 +198,7 @@ Point:
   },
   {
     id: 14, nomor: 14,
-    arabic:'الْكَوْنُ كُلُّهُ ظُلْمَةٌ وَ إِنَّمَا أَنَارَهُ ظُهُوْرُ الْحَقِّ فِيْهِ فَمَنْ رَأَى الْكَوْنَ وَ لَمْ يَشْهَدْهُ فِيْهِ أَوْ عِنْدَهُ أَوْ قَبْلَهُ أَوْ بَعْدَهُ فَقَدْ أَعْوَزَهُ وُجُوْدُ الْأَنْوَارِ وَ حُجِبَتْ عَنْهُ شُمُوْسُ الْمَعَارِفِ بِسُحُبِ الْآثَارِ',
+    arab:'الْكَوْنُ كُلُّهُ ظُلْمَةٌ وَ إِنَّمَا أَنَارَهُ ظُهُوْرُ الْحَقِّ فِيْهِ فَمَنْ رَأَى الْكَوْنَ وَ لَمْ يَشْهَدْهُ فِيْهِ أَوْ عِنْدَهُ أَوْ قَبْلَهُ أَوْ بَعْدَهُ فَقَدْ أَعْوَزَهُ وُجُوْدُ الْأَنْوَارِ وَ حُجِبَتْ عَنْهُ شُمُوْسُ الْمَعَارِفِ بِسُحُبِ الْآثَارِ',
     terjemahan: '"Seluruh semesta adalah kegelapan, Sesungguhnya ia diterangi kemunculan al-Ḥaqq/Allah di dalamnya, Maka siapa yang melihat semesta dan tidak menyaksikan Dia di dalamnya, di sisinya, sebelumnya, atau sesudahnya maka ia telah disamarkan oleh wujud cahaya. Dan awan ciptaan menghalanginya dari matahari makrifat."',
     penjelasan: `Alam semesta ini – langit, bumi, manusia, bintang, pohon, laut – secara hakikat adalah gelap. Bukan gelap fisik, tapi gelap secara makna karena alam sifatnya makhluk (bergantung, tidak berdiri sendiri), fana (tidak kekal), dan tidak bercahaya dari dirinya sendiri. Ia hanya bisa diterangi oleh kemunculan al-Haqq (Allah) di dalamnya.
 
@@ -236,7 +236,7 @@ Point:
   },
   {
     id: 16, nomor: 16,
-    arabic: `كَيْفَ يَتَصَوَّرُ أَنْ يَحْجُبَهُ شَيْءٌ وَهُوَ الَّذِيْ أَظْهَرَ كُلَّ شَيْءٍ.
+    arab: `كَيْفَ يَتَصَوَّرُ أَنْ يَحْجُبَهُ شَيْءٌ وَهُوَ الَّذِيْ أَظْهَرَ كُلَّ شَيْءٍ.
 كَيْفَ يَتَصَوَّرُ أَنْ يَحْجُبَهُ شَيْءٌ وَهُوَ الَّذِيْ ظَهَرَ بِكُلِّ شَيْءٍ.
 كَيْفَ يَتَصَوَّرُ أَنْ يَحْجُبَهُ شَيْءٌ وَهُوَ الَّذِيْ ظَهَرَ فِيْ كُلِّ شَيْءٍ.
 كَيْفَ يَتَصَوَّرُ أَنْ يَحْجُبَهُ شَيْءٌ وَهُوَ الَّذِيْ ظَهَرَ لِكُلِّ شَيْءٍ.
@@ -278,7 +278,7 @@ Point:
   },
   {
     id: 19, nomor: 19,
-    arabic: 'لَا تَطْلُبْ مِنْهُ أَنْ يُخْرِجَكَ مِنْ حَالَةٍ لِيَسْتَعْمِلَكَ فِيمَا سِوَاهَا، فَلَوْ أَرَادَكَ لَاسْتَعْمَلَكَ مِنْ غَيْرِ إِخْرَاجٍ.',
+    arab: 'لَا تَطْلُبْ مِنْهُ أَنْ يُخْرِجَكَ مِنْ حَالَةٍ لِيَسْتَعْمِلَكَ فِيمَا سِوَاهَا، فَلَوْ أَرَادَكَ لَاسْتَعْمَلَكَ مِنْ غَيْرِ إِخْرَاجٍ.',
     terjemahan: '"Jangan meminta kepada Allah supaya Dia mengeluarkanmu dari suatu keadaan untuk menggunakanmu pada keadaan yang lain. Karena seandainya Allah menghendaki penggunaanmu, tentulah Dia akan menggunakanmu tanpa harus mengeluarkanmu."',
     penjelasan: `1. Allah Maha Kuasa menggunakan hamba-Nya dalam kondisi apapun tanpa perlu mengubah keadaan.
       2. Meminta dipindahkan dari keadaan sebelum saatnya menunjukkan ketidakpercayaan pada pengaturan Allah.
@@ -289,7 +289,7 @@ Point:
   },
   {
     id: 20, nomor: 20,
-    arabic: 'مَا أَرَادَتْ هِمَّةُ سَالِكٍ أَنْ تَقِفَ عِنْدَ مَا كُشِفَ لَهَا إِلَّا وَنَادَتْهُ هَوَاتِفُ الْحَقِيقَةِ: الَّذِي تَطْلُبُهُ أَمَامَكَ! وَلَا تَبَرَّجَتْ ظَوَاهِرُ الْمُكَوَّنَاتِ إِلَّا وَنَادَتْهُ حَقَائِقُهَا: إِنَّا فِتْنَةٌ فَلَا تَكْفُرْ',
+    arab: 'مَا أَرَادَتْ هِمَّةُ سَالِكٍ أَنْ تَقِفَ عِنْدَ مَا كُشِفَ لَهَا إِلَّا وَنَادَتْهُ هَوَاتِفُ الْحَقِيقَةِ: الَّذِي تَطْلُبُهُ أَمَامَكَ! وَلَا تَبَرَّجَتْ ظَوَاهِرُ الْمُكَوَّنَاتِ إِلَّا وَنَادَتْهُ حَقَائِقُهَا: إِنَّا فِتْنَةٌ فَلَا تَكْفُرْ',
     terjemahan: '"Hasrat seorang salik tidak akan berhenti ketika tersingkap baginya tirai rohani, melainkan suara-suara hakikat akan berseru padanya: yang engkau cari masih di depanmu! Dan tidaklah keindahan alam semesta memperlihatkan dirinya, melainkan hakikatnya berseru: kami hanyalah ujian, maka janganlah engkau kufur."',
     penjelasan: `1. Seorang salik sejati tidak puas berhenti pada pencapaian spiritual manapun.
       2. Setiap kali tersingkap suatu maqam, suara batin menyeru: tujuanmu masih lebih jauh di depan.
