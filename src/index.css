@@ -597,6 +597,7 @@ body {
 }
 
 /* Search bar di dalam header */
+/* Search bar di dalam header */
 .header-search {
   margin: 10px 0 8px 0;
 }
@@ -617,12 +618,12 @@ body {
 
 /* Sesuaikan padding main karena header lebih tinggi */
 .app-main {
-  padding-top: 175px !important;
+  padding-top: 185px !important;
 }
 
 @media (max-width: 640px) {
   .app-main {
-    padding-top: 165px !important;
+    padding-top: 175px !important;
   }
 }
 

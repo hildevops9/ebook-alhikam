@@ -160,10 +160,9 @@ function HikamItem({ hikam, index }) {
   )
 }
 
-function TabMateri() {
+function TabMateri({ searchValue }) {
   const [hikamList, setHikamList] = useState([])
   const [loading, setLoading] = useState(true)
-  const [search, setSearch] = useState('')
 
   useEffect(() => {
     const fetchData = async () => {
@@ -184,14 +183,14 @@ function TabMateri() {
     fetchData()
   }, [])
 
-  const filtered = search
+  const filtered = searchValue
     ? hikamList.filter(h => {
-        const keyword = search.toLowerCase().trim()
+        const keyword = searchValue.toLowerCase().trim()
         const nomorMatch = !isNaN(keyword) && Number(keyword) === h.nomor
         const titleMatch = TITLE_MAP[h.nomor]?.toLowerCase().includes(keyword)
         const terjemahanMatch = h.terjemahan?.toLowerCase().includes(keyword)
         const penjelasanMatch = h.penjelasan?.toLowerCase().includes(keyword)
-        const arabMatch = h.arab?.includes(search)
+        const arabMatch = h.arab?.includes(searchValue)
         return nomorMatch || titleMatch || terjemahanMatch || penjelasanMatch || arabMatch
       })
     : hikamList
@@ -273,7 +272,6 @@ export default function App() {
   const [activeTab, setActiveTab] = useState('materi')
   const [search, setSearch] = useState('')
 
-  // Pass search state ke TabMateri via props
   return (
     <div className="app-root">
       <div className="bg-pattern" aria-hidden="true" />
@@ -294,7 +292,7 @@ export default function App() {
             </div>
           </div>
 
-          {/* Search Bar di dalam header */}
+          {/* Search Bar di dalam header - FUNGSIONAL */}
           <div className="header-search">
             <div className="search-wrap">
               <Search size={15} className="search-icon" />
