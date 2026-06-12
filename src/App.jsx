@@ -271,6 +271,23 @@ function TabTanyaUstad() {
 export default function App() {
   const [activeTab, setActiveTab] = useState('materi')
   const [search, setSearch] = useState('')
+  const [isSearchFocused, setIsSearchFocused] = useState(false)
+
+  // Lock scroll when input focused on mobile
+  useEffect(() => {
+    if (isSearchFocused) {
+      const scrollY = window.scrollY
+      document.body.style.position = 'fixed'
+      document.body.style.top = `-${scrollY}px`
+      document.body.style.width = '100%'
+    } else {
+      const scrollY = document.body.style.top
+      document.body.style.position = ''
+      document.body.style.top = ''
+      document.body.style.width = ''
+      window.scrollTo(0, parseInt(scrollY || '0') * -1)
+    }
+  }, [isSearchFocused])
 
   return (
     <div className="app-root">
@@ -292,7 +309,6 @@ export default function App() {
             </div>
           </div>
 
-          {/* Search Bar di dalam header - FUNGSIONAL */}
           <div className="header-search">
             <div className="search-wrap">
               <Search size={15} className="search-icon" />
@@ -301,6 +317,8 @@ export default function App() {
                 placeholder="Cari hikmah..."
                 value={search}
                 onChange={e => setSearch(e.target.value)}
+                onFocus={() => setIsSearchFocused(true)}
+                onBlur={() => setIsSearchFocused(false)}
                 className="search-input"
               />
             </div>

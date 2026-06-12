@@ -79,7 +79,7 @@ body {
   top: 0;
   left: 0;
   right: 0;
-  z-index: 50;
+  z-index: 999;
   background: var(--green-900);
   border-bottom: 1px solid rgba(201,168,76,0.2);
   box-shadow: 0 4px 24px rgba(10,31,14,0.25);
@@ -103,9 +103,16 @@ body {
   width: 40px;
   height: 40px;
   border-radius: 50%;
-  overflow: hidden;        /* ← tambah ini */
+  overflow: hidden;
   flex-shrink: 0;
   box-shadow: 0 2px 8px rgba(201,168,76,0.35);
+}
+
+.brand-icon-img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
 }
 
 .brand-icon span {
@@ -129,6 +136,26 @@ body {
   font-weight: 300;
   letter-spacing: 0.04em;
   opacity: 0.8;
+}
+
+/* Search bar di dalam header */
+.header-search {
+  margin: 10px 0 8px 0;
+}
+
+.header-search .search-wrap {
+  width: 100%;
+}
+
+.header-search .search-input {
+  background: rgba(255,255,255,0.95);
+  border-color: var(--green-700);
+}
+
+.header-search .search-input:focus {
+  border-color: var(--gold);
+  background: white;
+  outline: none;
 }
 
 /* Tab nav */
@@ -173,7 +200,7 @@ body {
   max-width: 680px;
   width: 100%;
   margin: 0 auto;
-  padding: 145px 16px 40px;
+  padding: 185px 16px 40px;
 }
 
 .tab-content {
@@ -567,70 +594,17 @@ body {
 .fade-in {
   animation: fadeIn 0.25s ease-out forwards;
 }
-/* Sticky search - tetap terlihat saat scroll seperti header */
-.search-sticky {
-  position: sticky;
-  top: 112px;
-  z-index: 40;
-  background-color: var(--cream);
-  padding-bottom: 8px;
-  margin-bottom: 0;
-}
 
-/* Efek bayangan halus saat sticky (opsional) */
-.search-sticky {
-  border-bottom: 1px solid transparent;
-  transition: border-color 0.2s ease;
-}
-
-/* Responsive untuk mobile */
-@media (max-width: 640px) {
-  .search-sticky {
-    top: 105px;
-  }
-}
-
-/* Pastikan background search-wrap solid */
-.search-wrap {
-  background: white;
-  border-radius: var(--radius-md);
-}
-
-/* Search bar di dalam header */
-/* Search bar di dalam header */
-.header-search {
-  margin: 10px 0 8px 0;
-}
-
-.header-search .search-wrap {
-  width: 100%;
-}
-
-.header-search .search-input {
-  background: rgba(255,255,255,0.95);
-  border-color: var(--green-700);
-}
-
-.header-search .search-input:focus {
-  border-color: var(--gold);
-  background: white;
-}
-
-/* Sesuaikan padding main karena header lebih tinggi */
-.app-main {
-  padding-top: 185px !important;
-}
-
+/* ─── Responsive untuk mobile ───────────────────────────────────────── */
 @media (max-width: 640px) {
   .app-main {
     padding-top: 175px !important;
   }
 }
 
-/* Perbaikan icon brand */
-.brand-icon-img {
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-  object-fit: cover;
+/* Prevent body scroll when input focused - handled by JS, this is backup */
+body.no-scroll {
+  overflow: hidden;
+  position: fixed;
+  width: 100%;
 }
