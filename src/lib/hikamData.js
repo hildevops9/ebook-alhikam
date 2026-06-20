@@ -416,15 +416,15 @@ Sebab, jika tidak demikian (jika Allah itu nyata di hatinya), kapan masanya Alla
   },
   {
     id: 35, nomor: 35,
-    arab: 'أَصْلُ كُلِّ مَعْصِيَةٍ وَغَفْلَةٍ وَشَهْوَةٍ الرِّضَا عَنِ النَّفْسِ',
-    terjemahan: 'Pangkal segala maksiat, kelalaian dan syahwat adalah ridha terhadap nafsu. Dan pangkal dari segala ketaatan, kewaspadaan dan kesucian adalah engkau tidak ridha terhadap hawa nafsu.',
+    arab: 'أَصْلُ كُلِّ مَعْصِيَةٍ وَغَفْلَةٍ وَشَهْوَةٍ الرِّضَا عَنِ النَّفْسِ، وَأَصْلُ كُلِّ طَاعَةٍ وَيَقَظَةٍ وَعِفَّةٍ عَدَمُ الرِّضَا مِنْكَ عَنْهَا. وَلَأَنْ تَصْحَبَ جَاهِلاً لاَ يَرْضَى عَنْ نَفْسِهِ خَيْرٌ لَكَ مِنْ أَنْ تَصْحَبَ عَالِمًا يَرْضَى عَنْ نَفْسِهِ. فَأَيُّ عِلْمٍ لِعَالِمٍ يَرْضَى عَنْ نَفْسِهِ! وَأَيُّ جَهْلٍ لِجَاهِلٍ لاَ يَرْضَى عَنْ نَفْسِهِ',
+    terjemahan: 'Panggal segala maksiat, kelalaian dan syahwat adalah ridha terhadap nafsu. Dan pangkal dari segala ketaatan, kewaspadaan dan kesucian adalah engkau tidak ridha terhadap hawa nafsu. Bersahabat dengan orang jahil yang tidak memperturutkanhawa nafsunya lebih baik bagimu daripada bersahabat dengan orang alim yang tunduk pada hawa nafsunya. Ilmu macam apa yang disandang si alim yang tunduk pada hawa nafsunya itu? Sebaliknya, kejahilan apa yang dapat disandangkan pada orang jahil yang tidak memperturutkan hawa nafsunya?',
     penjelasan: 'Sumber kerusakan akhlak adalah terlalu memanjakan nafsu. Dan sumber kebaikan adalah sikap kritis terhadap keinginan nafsu sendiri.',
     tags: ['nafsu', 'maksiat', 'taqwa', 'muhasabah']
   },
   {
     id: 36, nomor: 36,
-    arab: 'شُعَاعُ الْبَصِيرَةِ يُشْهِدُكَ قُرْبَهُ مِنْكَ وَعَيْنُ الْبَصِيرَةِ تُشْهِدُكَ عَدَمَكَ لِوُجُودِهِ',
-    terjemahan: 'Sinar mata batin memperlihatkan padamu kedekatan-Nya darimu. Penyaksian mata batin membuatmu menyaksikan ketiadaanmu karena wujud-Nya.',
+    arab: 'شُعَاعُ الْبَصِيرَةِ يُشْهِدُكَ قُرْبَهُ مِنْكَ، وَعَيْنُ الْبَصِيرَةِ تُشْهِدُكَ عَدَمَكَ لِوُجُودِهِ، وَحَقُّ الْبَصِيرَةِ يُشْهِدُكَ وُجُودَهُ، لَا عَدَمَكَ وَلَا وُجُودَكَ',
+    terjemahan: 'Syu‟aa‟ul bashirah (sinar mata batin) memperlihatkan padamu kedekatan-Nya darimu. „Ainul bashiirah (penyaksian mata batin) membuatmu menyaksikan ketiadaanmu karena wujud-Nya. Dan haqqul bashirah (mata batin yang hakiki) membuatmu menyaksikan wujud-Nya, bukan ketiadaanmu ataupun wujudmu.',
     penjelasan: 'Ada tiga tingkatan bashirah: menyaksikan kedekatan Allah, menyaksikan ketiadaan diri karena wujud Allah, dan menyaksikan wujud Allah semata.',
     tags: ['bashirah', 'marifat', 'fana', 'syuhud']
   },
