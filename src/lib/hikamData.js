@@ -444,29 +444,29 @@ Sebab, jika tidak demikian (jika Allah itu nyata di hatinya), kapan masanya Alla
   },
   {
     id: 39, nomor: 39,
-    arab: 'لَا تَرْفَعَنَّ إِلَى غَيْرِهِ حَاجَةً هُوَ مُورِدُهَا عَلَيْكَ',
-    terjemahan: 'Jangan meminta sesuatu hajat kepada selain Allah, karena Dia-lah yang menurunkan hajat itu kepadamu.',
+    arab: 'لا تَرْفَعَنَّ إِلَى غَيْرِهِ حَاجَةً هُوَ مُورِدُهَا عَلَيْكَ، فَكَيْفَ يَرْفَعُ غَيْرُهُ مَا كَانَ هُوَ لَهُ وَاضِعاً؟! مَنْ لَا يَسْتَطِيعُ أَنْ يَرْفَعَ حَاجَةً عَنْ نَفْسِهِ فَكَيْفَ يَسْتَطِيعُ أَنْ يَكُونَ لَهَا عَنْ غَيْرِهِ رَافِعاً؟',
+    terjemahan: 'Jangan meminta sesuatu hajat kepada selain Allah, karena Dia-lah yang menurunkan hajat itu kepadamu. Bagaimana mungkin selain Dia mampu mengangkat segala apa yang telah diletakkan oleh-Nya? Dan bagaimana mungkin orang yang tidak mampu membebaskan dirinya dari suatu hajat dapat membebaskan orang lain dari sebuah hajat?',
     penjelasan: 'Semua kebutuhan berasal dari Allah. Meminta kepada selain-Nya adalah meminta kepada pihak yang tidak memiliki kekuasaan untuk memberi.',
     tags: ['doa', 'tauhid', 'hajat', 'tawakkal']
   },
   {
     id: 40, nomor: 40,
-    arab: 'إِنْ لَمْ تُحْسِنِ الظَّنَّ بِهِ لِجَمَالِ وَصْفِهِ فَأَحْسِنِ الظَّنَّ بِهِ لِوُجُودِ مُعَامَلَتِهِ مَعَكَ',
-    terjemahan: 'Apabila engkau belum sanggup berbaik sangka kepada Allah lantaran kesempurnaan sifat-sifat-Nya, maka berbaik sangkalah karena pertemanan-Nya bersamamu.',
+    arab: 'نْ لَمْ تُحْسِنْ ظَنَّكَ بِهِ لِأَجْلِ حُسْنِ وَصْفِهِ، فَحَسِّنْ ظَنَّكَ بِهِ لِوُجُودِ مُعَامَلَتِهِ مَعَكَ. فَهَلْ عَوَّدَكَ إلَّا حَسَناً؟! وَهَلْ أَسْدَى إلَيْكَ إلَّا مِنَناً؟!',
+    terjemahan: 'Apabila engkau belum sanggup berbaik sangka kepada Allah lantaran kesempurnaan sifat-sifat Nya, maka berbaik sangkalah karena pertemanan-Nya bersamamu. Bukankah Dia selalu memberimu sesuatu yang baik-baik? Dan bukankah Dia senantiasa memberimu segala kenikmatan?',
     penjelasan: 'Husnu dzann kepada Allah adalah kewajiban. Jika belum mampu karena keagungan sifat-Nya, ingatlah betapa baiknya Allah telah memperlakukanmu selama ini.',
     tags: ['husnu-dzann', 'allah', 'nikmat', 'iman']
   },
   {
     id: 41, nomor: 41,
-    arab: 'الْعَجَبُ كُلُّ الْعَجَبِ مِمَّنْ يَهْرُبُ مِمَّا لَا انْفِكَاكَ لَهُ عَنْهُ',
-    terjemahan: 'Sungguh mengherankan, orang yang lari dari sesuatu yang ia tidak bisa terlepas dari-Nya, dan justru mencari apa yang tidak kekal baginya.',
+    arab: 'الْعَجَبُ كُلُّ الْعَجَبِ مِمَّنْ يَهْرُبُ مِمَّا لَا انْفِكَاكَ لَهُ عَنْهُلعَجَبُ كُلُّ العَجَبِ مِمَّنْ يَهْرُبُ مِمَّنْ لَا انْفِكَاكَ لَهُ عَنْهُ، وَيَطْلُبُ مَا لَا بَقَاءَ لَهُ مَعَهُ. فَإِنَّهَا لَا تَعْمَى الْأَبْصَارُ وَلَكِنْ تَعْمَى الْقُلُوبُ الَّتِي فِي الصُّدُورِ',
+    terjemahan: 'Sungguh mengherankan, orang yang lari dari sesuatu yang ia tidak bisa terlepas dari-Nya, dan justru mencari apa yang tidak kekal baginya. Sesungguhnya bukan mata kepala yang buta, tapi mata hati yang berada di dalam dada.',
     penjelasan: 'Manusia yang lari dari Allah dan mengejar dunia adalah ironi terbesar. Allah adalah satu-satunya yang tidak bisa dihindari.',
     tags: ['tauhid', 'dunia', 'lari', 'allah']
   },
   {
     id: 42, nomor: 42,
-    arab: 'لَا تَرْحَلْ مِنْ كَوْنٍ إِلَى كَوْنٍ فَتَكُونَ كَحِمَارِ الرَّحَى',
-    terjemahan: 'Janganlah engkau berpindah dari satu alam ke alam yang lain, karena itu akan membuatmu seperti keledai yang mengitari penggilingan. Akan tetapi, pergilah dari alam menuju Sang Maha Pencipta alam.',
+    arab:'لا تَرْحَلْ مِنْ كَوْنٍ إِلَى كَوْنٍ فَتَكُونَ كَحِمَارِ الرَّحَى؛ يَسِيرُ وَالْمَكَانُ الَّذِي ارْتَحَلَ إِلَيْهِ هُوَ الَّذِي ارْتَحَلَ عَنْهُ. وَلَكِنِ ارْحَلْ مِنَ الْأَكْوَانِ إِلَى الْمُكَوِّنِ، ﴿وَأَنَّ إِلَى رَبِّكَ الْمُنْتَهَى﴾. وَانْظُرْ إِلَى قَوْلِهِ - صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: "فَمَنْ كَانَتْ هِجْرَتُهُ إِلَى اللهِ وَرَسُولِهِ فَهِجْرَتُهُ إِلَى اللهِ وَرَسُولِهِ، وَمَنْ كَانَتْ هِجْرَتُهُ إِلَى دُنْيَا يُصِيبُهَا أَوِ امْرَأَةٍ يَتَزَوَّجُهَا فَهِجْرَتُهُ إِلَى مَا هَاجَرَ إِلَيْهِ". فَافْهَمْ قَوْلَهُ عَلَيْهِ الصَّلَاةُ وَالسَّلَامُ وَتَأَمَّلْ هَذَا الْأَمْرَ إِنْ كُنْتَ ذَا فَهْمٍ، وَالسَّلَامُ',
+    terjemahan: `Janganlah engkau berpindah dari satu makhluk ke makhluk yang lain (dari satu urusan dunia ke urusan dunia lainnya), karena jika demikian, engkau akan menjadi seperti keledai pemutar gilingan; ia berjalan jauh, padahal tempat yang ia tuju sebenarnya adalah tempat semula ia berangkat. Akan tetapi, berpindahlah (berhijrahlah) dari makhluk menuju Sang Pencipta (Al-Mukawwin), 'Dan bahwasanya kepada Tuhanmulah kesudahan segala sesuatu.' (QS. An-Najm: 42). Dan perhatikanlah sabda Rasulullah SAW: 'Barangsiapa yang hijrahnya karena Allah dan Rasul-Nya, maka hijrahnya itu kepada Allah dan Rasul-Nya. Dan barangsiapa yang hijrahnya karena dunia yang ingin diraihnya atau karena wanita yang ingin dinikahinya, maka hijrahnya itu kepada apa yang ia tuju.' Maka pahamilah sabda Nabi SAW ini, dan renungkanlah perkara ini jika engkau adalah orang yang memiliki kefahaman. Wallahu a'lam (dan selesai)."`,
     penjelasan: 'Berpindah dari satu kondisi dunia ke kondisi dunia lain tanpa tujuan spiritual adalah pergerakan tanpa makna. Yang berarti adalah perjalanan dari makhluk menuju Khaliq.',
     tags: ['perjalanan', 'dunia', 'tujuan', 'allah']
   },
@@ -500,22 +500,22 @@ Sebab, jika tidak demikian (jika Allah itu nyata di hatinya), kapan masanya Alla
   },
   {
     id: 47, nomor: 47,
-    arab: 'لَا تَتْرُكِ الذِّكْرَ لِعَدَمِ حُضُورِكَ مَعَ اللهِ فِيهِ',
-    terjemahan: 'Jangan tinggalkan zikir lantaran hatimu tidak bisa berkonsentrasi kepada Allah saat berzikir. Sebab kelalaianmu kepada Allah ketika tidak berzikir lebih buruk.',
+    arab: '(لَا تَتْرُكِ الذِّكْرَ لِعَدَمِ حُضُورِكَ مَعَ اللهِ فِيهِ، لِأَنَّ غَفْلَتَكَ عَنْ وُجُودِ ذِكْرِهِ أَشَدُّ مِنْ غَفْلَتِكَ فِي وُجُودِ ذِكْرِهِ. فَعَسَى أَنْ يَرْفَعَكَ مِنْ ذِكْرٍ مَعَ وُجُودِ غَفْلَةٍ إِلَى ذِكْرٍ مَعَ وُجُودِ يَقَظَةٍ، وَمِنْ ذِكْرٍ مَعَ وُجُودِ يَقَظَةٍ إِلَى ذِكْرٍ مَعَ وُجُودِ حُضُورٍ، وَمِنْ ذِكْرٍ مَعَ وُجُودِ حُضُورٍ إِلَى ذِكْرٍ مَعَ وُجُودِ غَيْبَةٍ عَمَّا سِوَى الْمَذْكُورِ، ﴿وَمَا ذَلِكَ عَلَى اللهِ بِعَزِيزٍ',
+    terjemahan: 'Jangan tinggalkan zikir lantaran hatimu tidak bisa berkonsentrasi kepada Allah saat berzikir. Sebab, kelalaianmu kepada Allah ketika tidak berzikir lebih buruk daripada kelalaianmu saat berzikir. Semoga Allah berkenan mengangkat derajatmu dari zikir yang penuh kelalaian menuju zikir yang penuh kesadaran (ingat kepada Allah); dan dari zikir yang penuh dengan kesadaran menuju zikir yang disemangati oleh kehadiran-Nya. Juga dari zikir yang disemangati oleh kehadiran-Nya menuju zikir yang meniadakan segala sesuatu selain-Nya. Dan yang demikian itu bagi Allah bukanlah merupakan sesuatu yang sulit.',
     penjelasan: 'Zikir dengan hati yang lalai masih lebih baik dari tidak berzikir sama sekali. Zikir yang konsisten akan bertahap meningkat kualitasnya.',
     tags: ['zikir', 'hudur', 'lalai', 'ibadah']
   },
   {
     id: 48, nomor: 48,
-    arab: 'مِنْ عَلَامَاتِ مَوْتِ الْقَلْبِ عَدَمُ الْحُزْنِ عَلَى مَا فَاتَكَ مِنَ الْمُوَافَقَاتِ',
-    terjemahan: 'Di antara tanda matinya hati adalah tidak ada perasaan sedih bila terlewatkan kesempatan beramal, dan tidak adanya penyesalan atas bermacam pelanggaran yang telah dilakukan.',
+    arab:'مِنْ عَلَامَاتِ مَوْتِ الْقَلْبِ عَدَمُ الْحُزْنِ عَلَى مَا فَاتَكَ مِنَ الْمُوَافِقَاتِ، وَتَرْكُ النَّدَمِ عَلَى مَا فَعَلْتَهُ مِنْ وُجُودِ الزَّلَّاتِ',
+    terjemahan: 'Diantara tanda matinya hati adalah tidak ada perasaan sedih bila terlewatkan kesempatan beramal, dan tidak adanya penyesalan atas bermacam pelanggarang yang engkau telah lakukan',
     penjelasan: 'Hati yang hidup akan merasakan nyeri ketika melewatkan ibadah atau melakukan dosa. Hilangnya rasa ini menandakan matinya hati.',
     tags: ['hati', 'penyesalan', 'taubat', 'mati-hati']
   },
   {
     id: 49, nomor: 49,
-    arab: 'لَا يَعْظُمِ الذَّنْبُ عِنْدَكَ عَظَمَةً تَصُدُّكَ عَنْ حُسْنِ الظَّنِّ بِاللهِ تَعَالَى',
-    terjemahan: 'Janganlah suatu dosa terlihat begitu besar bagimu hingga merintangimu dari berprasangka baik kepada Allah.',
+    arab: 'لَا يَعْظُمِ الذَّنْبُ عِنْدَكَ عَظَمَةً تَصُدُّكَ عَنْ حُسْنِ الظَّنِّ بِاللهِ تَعَالَى، فَإِنَّ مَنْ عَرَفَ رَبَّهُ اسْتَصْغَرَ فِي جَنْبِ كَرَمِهِ ذَنْبَهُ',
+    terjemahan: 'Janganlah suatu dosa terlihat begitu besar bagimu, hingga merintangimu dari berprasangka baik kepada Allah. sesungguhnya siapa yang mengenal Rabbnya pasti akan menganggap dosanya tidak seberapa dibandingkan dengan kemurahan-Nya',
     penjelasan: 'Dosa besar sekalipun tidak boleh menghalangi seseorang dari rahmat Allah. Rahmat Allah jauh lebih besar dari dosa manapun.',
     tags: ['dosa', 'rahmat', 'husnu-dzann', 'taubat']
   },
@@ -528,9 +528,9 @@ Sebab, jika tidak demikian (jika Allah itu nyata di hatinya), kapan masanya Alla
   },
   {
     id: 51, nomor: 51,
-    arab: 'الْعَمَلُ الَّذِي يُحْتَقَرُ لَأَرْجَى لِلْقَبُولِ عَمَلٌ يَغِيبُ عَنْكَ شُهُودُهُ وَيُحْتَقَرُ عِنْدَكَ وُجُودُهُ',
-    terjemahan: 'Amal yang paling bisa diharapkan untuk diterima adalah amal yang tidak engkau sadari (perhitungkan) dan engkau pandang tidak berarti.',
-    penjelasan: 'Amal yang dilakukan dengan penuh kesadaran diri rawan riya. Amal yang terlupakan oleh pelakunya justru lebih bersih dari kesombongan.',
+    arab: 'لَا عَمَلَ أَرْجَى لِلْقُلُوبِ مِنْ عَمَلٍ يَغِيبُ عَنْكَ شُهُودُهُ، وَيُحْتَقَرُ عِنْدَكَ وُجُودُهُ',
+    terjemahan: 'Tidak ada amal yang lebih hisa diharapkan untuk diterima daripada amal yang tidak engkau sadari (perhitungkan) dan engkau pandang tidak berarti',
+    penjelasan: 'Rahasia kebersihan hati dalam beribadah, di mana amal yang paling berharga dan paling berpotensi diterima di sisi Allah adalah amal yang dilakukan dengan melupakan keberadaannya (tidak diingat-ingat atau dipamerkan) serta selalu dianggap kecil dan penuh kekurangan oleh pelakunya. Dengan melupakan amal, seseorang akan selamat dari penyakit riya karena ia sadar bahwa ibadah tersebut terlaksana murni atas taufik dan pertolongan Allah, bukan karena kehebatan dirinya. Sementara itu, dengan selalu menganggap remeh amal sendiri di hadapan keagungan Allah, seseorang akan terbenteng dari sifat ujub (bangga diri) dan senantiasa menjaga hatinya tetap rendah hati serta terus rindu untuk memperbaiki kualitas ibadahnya.',
     tags: ['amal', 'ikhlas', 'riya', 'tawadhu']
   },
   {
