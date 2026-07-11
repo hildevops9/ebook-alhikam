@@ -451,7 +451,7 @@ Sebab, jika tidak demikian (jika Allah itu nyata di hatinya), kapan masanya Alla
   },
   {
     id: 40, nomor: 40,
-    arab: 'نْ لَمْ تُحْسِنْ ظَنَّكَ بِهِ لِأَجْلِ حُسْنِ وَصْفِهِ، فَحَسِّنْ ظَنَّكَ بِهِ لِوُجُودِ مُعَامَلَتِهِ مَعَكَ. فَهَلْ عَوَّدَكَ إلَّا حَسَناً؟! وَهَلْ أَسْدَى إلَيْكَ إلَّا مِنَناً؟!',
+    arab: 'إنْ لَمْ تُحْسِنْ ظَنَّكَ بِهِ لِأَجْلِ حُسْنِ وَصْفِهِ، فَحَسِّنْ ظَنَّكَ بِهِ لِوُجُودِ مُعَامَلَتِهِ مَعَكَ. فَهَلْ عَوَّدَكَ إلَّا حَسَناً؟! وَهَلْ أَسْدَى إلَيْكَ إلَّا مِنَناً؟',
     terjemahan: 'Apabila engkau belum sanggup berbaik sangka kepada Allah lantaran kesempurnaan sifat-sifat Nya, maka berbaik sangkalah karena pertemanan-Nya bersamamu. Bukankah Dia selalu memberimu sesuatu yang baik-baik? Dan bukankah Dia senantiasa memberimu segala kenikmatan?',
     penjelasan: 'Husnu dzann kepada Allah adalah kewajiban. Jika belum mampu karena keagungan sifat-Nya, ingatlah betapa baiknya Allah telah memperlakukanmu selama ini.',
     tags: ['husnu-dzann', 'allah', 'nikmat', 'iman']
