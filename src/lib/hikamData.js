@@ -626,50 +626,50 @@ Sebab, jika tidak demikian (jika Allah itu nyata di hatinya), kapan masanya Alla
   },
   {
     id: 65, nomor: 65,
-    arab: 'خَفْ مِنْ وُجُودِ إِحْسَانِهِ إِلَيْكَ وَدَوَامِ إِسَاءَتِكَ مَعَهُ أَنْ يَكُونَ ذَلِكَ اسْتِدْرَاجًا',
-    terjemahan: 'Takutlah akan karunia Allah yang selalu engkau peroleh sementara engkau tetap bermaksiat kepada-Nya, sebab bisa jadi itu istidraj bagimu.',
+    arab: 'خَفْ مِنْ وُجُودِ إِحْسَانِهِ إِلَيْكَ وَدَوَامِ إِسَاءَتِكَ مَعَهُ أَنْ يَكُونَ ذَلِكَ اسْتِدْرَاجاً لَكَ (سَنَسْتَدْرِجُهُمْ مِنْ حَيْثُ لا يَعْلَمُونَ)',
+    terjemahan: 'Takutlah akan karunia Allah yang selalu engkau proleh sementara engkau tetap bermaksiat kepada-Nya, sebab bisa jadi itu istidraj bagimu (lambat laun akan menghancurkanmu). Kami nanti akan menarik mereka dengan berangsur-angsur (ke arah kebinasaan) dari arah cara yang mereka tidak ketahui (al-qalam :44)',
     penjelasan: 'Istidraj adalah dibiarkan terus dalam nikmat sementara terus bermaksiat, hingga akhirnya jatuh lebih dalam. Ini adalah bahaya yang tidak disadari.',
     tags: ['istidraj', 'nikmat', 'maksiat', 'khauf']
   },
   {
     id: 66, nomor: 66,
-    arab: 'مِنْ جَهْلِ الْمُرِيدِ أَنْ يُسِيءَ الأَدَبَ فَتُؤَخَّرَ الْعُقُوبَةُ فَيَقُولَ لَوْ كَانَ هَذَا سُوءَ أَدَبٍ لَقَطَعَ الْمَدَدَ',
-    terjemahan: 'Di antara kejahilan para murid adalah apabila ia beradab buruk dan hukuman atasnya ditangguhkan, maka ia berkata: seandainya ini adalah keburukan, pasti diputuskan bantuan.',
+    arab: 'مِنْ جَهْلِ المُرِيدِ أَنْ يُسِيءَ الأَدَبَ فَتُؤَخَّرَ العُقُوبَةُ عَنْهُ، فَيَقُولَ: لَوْ كَانَ هذَا سُوءَ أَدَبٍ لَقَطَعَ الإِمْدَادَ وَأَوْجَبَ الإِبْعَادَ. فَقَدْ يُقْطَعُ المَدَدُ عَنْهُ مِنْ حَيْثُ لا يَشْعُرُ، وَلَوْ لَمْ يَكُنْ إِلا مَنْعُ المَزِيدِ. وَقَدْ يُقَامُ مَقَامَ البُعْدِ وَهُوَ لا يَدْرِي، وَلَوْ لَمْ يَكُنْ إِلا أَنْ يُخَلِّيَكَ وَمَا تُرِيدُ.',
+    terjemahan: 'Di antara kejahilan para murid adalah, apabila ia beradab buruk (kepada-Nya) dan hukuman atasnya ditangguhka oleh-Nya, maka ia berkata: seandainya ini adalah keburukan, maka pasti diputuskan bantuan (Allah) dan bahkan dijauhkan. Padahal, bantuan itu boleh jadi sudah dihentikan tanpa ia sadari, sekalipun hanya berupa tidak adanya tambahan bantuan baru. Dan boleh jadi ia juga sudah dijauhkan tanpa ia mengerti, sekalipun hanya memberikan dirimu dan apa yang engkau inginkan (dari hawa nafsumu)',
     penjelasan: 'Tidak langsung dihukum bukan berarti dibenarkan. Bantuan Allah bisa sudah dihentikan tanpa disadari, sekalipun secara zahir masih tampak normal.',
     tags: ['adab', 'hukuman', 'istidraj', 'murid']
   },
   {
     id: 67, nomor: 67,
-    arab: 'إِذَا رَأَيْتَ عَبْدًا أَقَامَهُ اللهُ تَعَالَى بِوُجُودِ الأَوْرَادِ وَأَدَامَهُ عَلَيْهَا مَعَ طُولِ الإِمْدَادِ',
-    terjemahan: 'Jika engkau melihat seorang hamba yang ditetapkan oleh Allah dalam menjaga wiridnya, namun lama ia tidak mendapatkan pertolongan, maka jangan meremehkan apa yang Allah telah berikan itu.',
+    arab: 'إِذَا رَأَيْتَ عَبْداً أَقَامَهُ اللهُ تَعَالَى بِوُجُودِ الأَوْرَادِ، وَأَدَامَهُ عَلَيْهَا مَعَ طُولِ الإِمْدَادِ، فَلا تَسْتَحْقِرَنَّ مَا مَنَحَهُ مَوْلاهُ لِأَنَّكَ لَمْ تَرَ عَلَيْهِ سِيمَا العَارِفِينَ وَلا بَهْجَةَ المُحِبِّينَ؛ فَلَوْلا وَارِدٌ مَا كَانَ وِرْدٌ.',
+    terjemahan: 'Jika engkau melihat seorang hamba yang ditetapkan oleh Allah dalam menjaga Wiridnya, dan dilanggengkan-Nya dalam keadaan demikian, namun lama ia tak mendapatkan pertolongan-Nya, maka jangan engkau sampai meremehkan apa yang Allah telah berikan itu kepadanya, hanya karena engkau belum melihat tanda-tanda orang „arif ataupun cahaya indah seorang pencinta Allah pada diri hamba itu.',
     penjelasan: 'Wirid yang konsisten adalah karunia besar meski tidak tampak hasilnya. Jangan menilai seseorang hanya dari karomah yang tampak.',
     tags: ['wirid', 'istiqomah', 'karomah', 'sabar']
   },
   {
     id: 68, nomor: 68,
-    arab: 'قَوْمٌ أَقَامَهُمُ الْحَقُّ لِخِدْمَتِهِ وَقَوْمٌ اخْتَصَّهُمْ بِمَحَبَّتِهِ',
-    terjemahan: 'Ada sebagian orang yang Allah jadikan berkhidmat kepada-Nya, dan sebagian lainnya Allah istimewakan dengan mencintai-Nya.',
+    arab: 'قَوْمٌ أَقَامَهُمُ الحَقُّ لِخِدْمَتِهِ وَقَوْمٌ اخْتَصَّهُمْ بِمَحَبَّتِهِ (كُلاًّ نُّمِدُّ هَؤُلاءِ وَهَؤُلاءِ مِنْ عَطَاءِ رَبِّكَ وَمَا كَانَ عَطَاءُ رَبِّكَ مَحْظُوراً)',
+    terjemahan: 'Ada sebagian orang yang Allah jadikan berkhidmat kepada-Nya, dan sebagian lainnya Allah istimewakan dengan mencintai-Nya. Kepada masing-masing golongan, baik golongan ini maupun golongan itu, kami berikan bantuan ari kemurahan Rabbmu. Dan kemurahan Rabbmu tidak dapat dihalangi',
     penjelasan: 'Ada dua golongan hamba pilihan: yang diberi kedudukan khidmah (pelayan) dan yang diberi kedudukan mahabbah (kekasih). Keduanya adalah karunia.',
     tags: ['mahabbah', 'khidmah', 'wali', 'karunia']
   },
   {
     id: 69, nomor: 69,
-    arab: 'قَلَّ مَا تَكُونُ الْوَارِدَاتُ الإِلَهِيَّةُ إِلَّا بَغْتَةً صِيَانَةً لَهَا أَنْ يَدَّعِيَهَا الْعِبَادُ',
-    terjemahan: 'Seringkali karunia Ilahiyah itu datang secara tiba-tiba, agar para hamba tidak mengklaim bahwa hal itu muncul karena adanya persiapan oleh mereka.',
+    arab: 'قَلَّمَا تَكُونُ الْوَارِدَاتُ الْإِلَهِيَّةُ إِلَّا بَغْتَةً، صِيَانَةً لَهَا أَنْ يَدَّعِيَهَا الْعِبَادُ بِوُجُودِ الْاسْتِعْدَادِ',
+    terjemahan: 'Seringkali Arid (karunia) ilahiyah itu datang secara tiba-tiba, agar para hamba tidak mengklaim bahwa hal itu muncul karena adanya persiapan oleh mereka',
     penjelasan: 'Datangnya karunia Allah secara tiba-tiba adalah hikmah Allah agar hamba tidak merasa berhak atas karunia tersebut.',
     tags: ['karunia', 'ilahi', 'tiba-tiba', 'ikhlas']
   },
   {
     id: 70, nomor: 70,
     arab: 'مَنْ رَأَيْتَهُ مُجِيبًا عَنْ كُلِّ مَا سُئِلَ وَمُعَبِّرًا عَنْ كُلِّ مَا شَهِدَ فَاسْتَدِلَّ بِذَلِكَ عَلَى وُجُودِ جَهْلِهِ',
-    terjemahan: 'Jika engkau lihat seseorang selalu menjawab segala apa yang ditanyakan kepadanya dan mengungkapkan segala apa yang disaksikannya, maka ketahuilah itu tanda-tanda kejahilan.',
+    terjemahan: 'Jika engkau lihat seseorang selalu menjawab segala apa yang ditanyakan kepadanya dan mengungkapkan segala apa yang disaksikannya, maka ketahuilah itu tanda-tanda kejahilan pada dirinya.',
     penjelasan: 'Orang yang benar-benar berilmu tahu batas kemampuannya. Yang selalu merasa mampu menjawab segalanya justru menampakkan kebodohannya.',
     tags: ['ilmu', 'jahil', 'adab', 'diam']
   },
   {
     id: 71, nomor: 71,
-    arab: 'إِنَّمَا جَعَلَ الدَّارَ الآخِرَةَ مَحَلًّا لِجَزَاءِ عِبَادِهِ الْمُؤْمِنِينَ',
-    terjemahan: 'Sesungguhnya Allah menjadikan negeri akhirat sebagai tempat untuk membalas para hamba-Nya yang beriman, karena negeri ini (dunia) tidak mampu menampung apa yang hendak Dia berikan.',
+    arab: 'إِنَّمَا جَعَلَ الدَّارَ الْآخِرَةَ مَحَلّاً لِجَزَاءِ عِبَادِهِ الْمُؤْمِنِينَ؛ لِأَنَّ هَذِهِ الدَّارَ لَا تَسَعُ مَا يُرِيدُ أَنْ يُعْطِيَهُمْ. وَلِأَنَّهُ أَجَلَّ أَقْدَارَهُمْ عَنْ أَنْ يُجَازِيَهُمْ فِي دَارٍ لَا بَقَاءَ لَهَا',
+    terjemahan: 'Sesungguhnya Allah menjadikan negeri akhirat sebagai tempat untuk membalas para hamba-Nya yang beriman, karena negeri ini (dunia) tidak mampu menampung apa yang hendak Dia berikan kepada mereka, dan karena Allah hendak memuliakan mereka dengan tidak memberikan balasan di dunia yang tidak kekal.',
     penjelasan: 'Balasan Allah terlalu agung untuk diberikan di dunia yang sempit dan fana. Akhirat adalah ruang yang layak untuk karunia tak terbatas-Nya.',
     tags: ['akhirat', 'dunia', 'balasan', 'iman']
   },
@@ -710,8 +710,8 @@ Sebab, jika tidak demikian (jika Allah itu nyata di hatinya), kapan masanya Alla
   },
   {
     id: 77, nomor: 77,
-    arab: 'مَا الْعَارِفُ مَنْ إِذَا أَشَارَ وَجَدَ الْحَقَّ أَقْرَبَ إِلَيْهِ مِنْ إِشَارَتِهِ',
-    terjemahan: 'Orang arif bukanlah orang yang apabila menyampaikan isyarat lalu merasa Allah lebih dekat. Akan tetapi orang arif adalah orang yang tidak mempunyai isyarat karena kefanaannya.',
+    arab:'مَا العَارِفُ مَنْ إِذَا أَشَارَ وَجَدَ الحَقَّ أَقْرَبَ إِلَيْهِ مِنْ إِشَارَتِهِ بَلِ العَارِفُ مَنْ لا إِشَارَةَ لَهُ لِفَنَائِهِ فِي وُجُودِهِ وَانْطِوَائِهِ فِي شُهُودِهِ',
+    terjemahan: 'Orang arif bukanlah orang yang apabila menyampaikan isyarat lalu merasa Al-Haq (Allah) lebih dekat kepada dirinya daripada yang di isyaratkan. Akan tetapi, orang arif adalah orang yang tidak mempunyI isyarat karena kefanaannya dalam proses mencapai wujud-Nya dan kekhusukannya dalam penyaksian (syuhud) terhadap-Nya',
     penjelasan: 'Makrifat tertinggi adalah ketika hamba sudah fana dalam wujud Allah sehingga tidak ada lagi jarak yang bisa diisyaratkan.',
     tags: ['marifat', 'arif', 'fana', 'syuhud']
   },
@@ -725,21 +725,21 @@ Sebab, jika tidak demikian (jika Allah itu nyata di hatinya), kapan masanya Alla
   {
     id: 79, nomor: 79,
     arab: 'مَطْلَبُ الْعَارِفِينَ مِنَ اللهِ تَعَالَى الصِّدْقُ فِي الْعُبُودِيَّةِ وَالْقِيَامُ بِحُقُوقِ الرُّبُوبِيَّةِ',
-    terjemahan: 'Yang diminta seorang arif kepada Allah adalah ketulusan dalam ubudiyah (penghambaan) dan pemenuhan hak-hak rububiyah-Nya.',
+    terjemahan: 'Yang diminta seorang arif kepada Allah adalah ketulusan dalam ubudiyah (penghambaan) dan pemenuhan hak-hak rububiyah-Nya (ketuhanan).',
     penjelasan: 'Para arif tidak meminta dunia atau akhirat, melainkan meminta kemampuan untuk menjadi hamba yang tulus dan menunaikan hak-hak Allah.',
     tags: ['marifat', 'ubudiyah', 'ikhlas', 'arif']
   },
   {
     id: 80, nomor: 80,
-    arab: 'بَسَطَكَ كَيْ لَا يُبْقِيَكَ مَعَ الْقَبْضِ وَقَبَضَكَ كَيْ لَا يَتْرُكَكَ مَعَ الْبَسْطِ',
-    terjemahan: 'Allah melapangkan keadaanmu agar engkau tidak selalu dalam kesempitan. Dan Allah menyempitkan keadaanmu agar engkau tidak selalu dalam kelapangan. Dan Dia melepaskanmu dari keduanya agar engkau tidak bergantung pada sesuatu selain-Nya.',
+    arab:'بَسَطَكَ كَيْ لا يُبْقِيَكَ مَعَ القَبْضِ، وَقَبَضَكَ كَيْ لا يَتْرُكَّكَ مَعَ البَسْطِ، وَأَخْرَجَكَ عَنْهُمَا كَيْ لا تَكُونَ لِشَيْءٍ دُونَهُ',
+    terjemahan: 'Allah melapangkan keadaanmu, agar engkau tidak selalu dalam kesempitan. Dan Allah menyempitkan keadaanmu, agar engkau tidak selalu dalam kelapangan. Dan Dia melepaskanmu dari keduanya, agar engkau tidak bergantung pada sesuatu selain-Nya',
     penjelasan: 'Silih bergantinya lapang dan sempit adalah didikan Allah agar hamba tidak bergantung pada kondisi, melainkan hanya kepada Allah semata.',
     tags: ['bast', 'qabdh', 'tawakkal', 'didikan']
   },
   {
     id: 81, nomor: 81,
-    arab: 'الْعَارِفُونَ إِذَا بُسِطُوا أَخْوَفُ مِنْهُمْ إِذَا قُبِضُوا',
-    terjemahan: 'Orang arif itu lebih khawatir saat berada dalam kondisi lapang, ketimbang saat dalam kondisi sempit.',
+    arab: 'العَارِفُونَ إِذَا بُسِطُوا أَخْوَفُ مِنْهُمْ إِذَا قُبِضُوا، وَلا يَقِفُ عَلَى حُدُودِ الأَدَبِ فِي البَسْطِ إِلا قَلِيلٌ',
+    terjemahan: 'Orang „arif itu lebih khawatir saat berada dalam kondisi lapang, ketimbang saat dalam kondisi sempit. Sebab, hanya sedikit manusia yang tetap bertahan dalam batas-batas kesopanan, ketika berada dalam kondisi lapang',
     penjelasan: 'Kondisi lapang lebih berbahaya karena membuka pintu kelalaian. Para arif lebih waspada saat nikmat datang.',
     tags: ['arif', 'bast', 'khauf', 'waspada']
   },
@@ -759,15 +759,15 @@ Sebab, jika tidak demikian (jika Allah itu nyata di hatinya), kapan masanya Alla
   },
   {
     id: 84, nomor: 84,
-    arab: 'عَادَ الْمَنْعُ عَيْنَ الْعَطَاءِ مَتَى فَتَحَ لَكَ بَابَ الْفَهْمِ فِي الْمَنْعِ',
-    terjemahan: 'Ketika Allah membukakan pintu pengertian bagimu tentang penolakan-Nya, maka penolakan itu pun berubah menjadi pemberian.',
+    arab: 'مَتَى فَتَحَ لَكَ بَابَ الفَهْمِ فِي المَنَعِ عَادَ المَنْعُ عَيْنَ العَطَاءِ',
+    terjemahan: 'Ketika Allah membukakan pintu perngertian bagimu tentang penolakan-Nya, maka penolakan itu pun berubah menjadi pemberian',
     penjelasan: 'Memahami hikmah di balik penolakan Allah adalah karunia yang lebih besar dari pemberian itu sendiri.',
     tags: ['hikmah', 'penolakan', 'pemberian', 'faham']
   },
   {
     id: 85, nomor: 85,
-    arab: 'الأَكْوَانُ ظَاهِرُهَا غِرَّةٌ وَبَاطِنُهَا عِبْرَةٌ',
-    terjemahan: 'Alam ini pada lahirnya merupakan tipuan, dan batiniyahnya adalah pelajaran. Nafsu memandang pada tipuan lahiriyahnya, sementara qalbu memandang kepada pelajaran yang tersimpan di dalamnya.',
+    arab:'الأَكْوَانُ ظَاهِرُهَا غِرَّةٌ وَبَاطِنُهَا عِبْرَةٌ، فَالنَّفْسُ تَنْظُرُ إِلَى ظَاهِرِ غِرَّتِهَا، وَالْقَلْبُ يَنْظُرُ إِلَى بَاطِنِ عِبْرَتِهَا',
+    terjemahan: 'Alam ini pada lahirnya merupakan tipuan, dan batiniyahnya adalah pelajaran. Nafsu memandang pada tipuan lahiriyahnya, sementara qolbu memandang kepada pelajaran yang tersimpan di dalamnya',
     penjelasan: 'Dua cara memandang dunia: nafsu melihat kilap lahirnya, qalbu melihat ibrah di dalamnya.',
     tags: ['dunia', 'ibrah', 'nafsu', 'qalbu']
   },
@@ -808,8 +808,8 @@ Sebab, jika tidak demikian (jika Allah itu nyata di hatinya), kapan masanya Alla
   },
   {
     id: 91, nomor: 91,
-    arab: 'كَفَى الْعَامِلِينَ جَزَاءً مَا هُوَ فَاتِحُهُ عَلَى قُلُوبِهِمْ فِي طَاعَتِهِ',
-    terjemahan: 'Cukuplah sebagai balasan Allah bagi orang-orang yang beramal shaleh, apa yang dibukakan oleh Allah di hati mereka dalam menaati-Nya.',
+    arab: 'كَفَى الْعَامِلِينَ جَزَاءً مَا هُوَ فَاتِحُهُ عَلَى قُلُوبِهِمْ فِي طَاعَتِهِ، وَمَا هُوَ مُوَرِّدُهُ عَلَيْهِمْ مِنْ وُجُودِ مُؤَانَسَتِهِ',
+    terjemahan: 'Cukuplah sebagai balasan Allah bagi orang-orang yang berasmal shaleh, apa yang dibukakan oleh Allah di hati mereka dalam nenaati-Nya, dan apa yang diberikan oleh-Nya berupa kepuasan berhubungan dengan-Nya',
     penjelasan: 'Pembukaan hati, cahaya iman, dan ketenangan batin yang Allah berikan kepada yang beramal adalah balasan yang paling berharga.',
     tags: ['amal', 'balasan', 'hati', 'cahaya']
   },
@@ -822,1108 +822,18 @@ Sebab, jika tidak demikian (jika Allah itu nyata di hatinya), kapan masanya Alla
   },
   {
     id: 93, nomor: 93,
-    arab: 'هُوَ فِي كُلِّ ذَلِكَ مُتَعَرِّفٌ إِلَيْكَ',
-    terjemahan: 'Manakala Allah memberimu anugerah, maka berarti Dia memperlihatkan belas kasih-Nya. Apabila Dia menahan pemberian, berarti Dia memperlihatkan kekuasaan-Nya. Dan pada semua kondisi itu, Dia memperkenalkan diri kepadamu.',
+    arab: 'مَتَى أَعْطَاكَ أَشْهَدَكَ بِرَّهُ، وَمَتَى مَنَعَكَ أَشْهَدَكَ قَهْرَهُ. فَهُوَ فِي كُلِّ ذَلِكَ مُتَعَرِّفٌ إِلَيْكَ وَمُقْبِلٌ بِوُجُودِ لُطْفِهِ عَلَيْكَ',
+    terjemahan: 'Manakala Allah memberimu anugrah, maka berarti Dia memperlihatkan belas kasih-Nya kepadamu, apabila Dia menahan pemberian untukmu, maka berarti Dia memperlihatkan kekuasaan-Nya kepadamu. Dan pada semua kondisi itu, Dia memperkenalkan diri kepadamu serta menghadapimu dengan kelembutan-Nya',
     penjelasan: 'Setiap kondisi yang Allah berikan, baik nikmat maupun cobaan, adalah cara Allah memperkenalkan diri-Nya kepada hamba.',
     tags: ['marifat', 'nikmat', 'cobaan', 'allah']
   },
   {
-    id: 94, nomor: 94,
-    arab: 'رُبَّمَا فَتَحَ لَكَ بَابَ الطَّاعَةِ وَمَا فَتَحَ لَكَ بَابَ الْقَبُولِ',
-    terjemahan: 'Boleh jadi Allah membuka pintu ketaatan bagimu, akan tetapi tidak (belum) membuka pintu pengabulan. Dan boleh jadi pula Allah menakdirkanmu berbuat dosa, akan tetapi ternyata dosa itu menjadi penyebab sampainya tujuan.',
-    penjelasan: 'Ketaatan belum tentu diterima, dan dosa belum tentu menghalangi dari Allah. Yang menentukan adalah hikmah Allah yang tersembunyi.',
-    tags: ['taat', 'penerimaan', 'dosa', 'hikmah']
-  },
-  {
-    id: 95, nomor: 95,
-    arab: 'مَعْصِيَةٌ أَوْرَثَتْ ذُلًّا وَافْتِقَارًا خَيْرٌ مِنْ طَاعَةٍ أَوْرَثَتْ عِزًّا وَاسْتِكْبَارًا',
-    terjemahan: 'Kemaksiatan yang menimbulkan rasa hina dan rasa membutuhkan (penyesalan) jauh lebih baik daripada ketaatan yang menimbulkan rasa bangga dan kesombongan.',
-    penjelasan: 'Nilai spiritual ditentukan oleh dampaknya pada hati. Dosa yang melahirkan taubat lebih baik dari ibadah yang melahirkan ujub.',
-    tags: ['maksiat', 'taubat', 'ujub', 'tawadhu']
-  },
-  {
-    id: 96, nomor: 96,
-    arab: 'لَا بُدَّ لِكُلِّ مُكَوَّنٍ مِنْهُمَا نِعْمَةُ الإِيجَادِ وَنِعْمَةُ الإِمْدَادِ',
-    terjemahan: 'Ada dua nikmat yang tidak satu pun makhluk terlepas darinya, yaitu nikmat diciptakan dan nikmat yang menyusulnya (pemenuhan kebutuhan).',
-    penjelasan: 'Allah tidak hanya menciptakan makhluk lalu meninggalkannya. Dia terus menerus memberikan kebutuhan makhluk tanpa henti.',
-    tags: ['nikmat', 'penciptaan', 'rezeki', 'syukur']
-  },
-  {
-    id: 97, nomor: 97,
-    arab: 'الْفَاقَةُ ذَاتِيَّةٌ لَكَ وَالْفَضَالَةُ لَا تَرْفَعُهَا وُرُودُ الأَسْبَابِ',
-    terjemahan: 'Merasa membutuhkan (Allah) adalah waktu aslimu sebagai manusia. Dan kebutuhan-kebutuhan mendasar pada Allah itu tidak bisa dicampakkan oleh sesuatu di luar dirinya.',
-    penjelasan: 'Faqr (kefakiran) kepada Allah adalah hakikat manusia yang tidak bisa dihilangkan oleh sebab apapun.',
-    tags: ['faqr', 'hajat', 'manusia', 'hakikat']
-  },
-  {
-    id: 98, nomor: 98,
-    arab: 'خَيْرُ أَوْقَاتِكَ وَقْتٌ تَشْهَدُ فِيهِ وُجُودَ فَاقَتِكَ وَتَرُدُّ فِيهِ إِلَى وُجُودِ ذِلَّتِكَ',
-    terjemahan: 'Sebaik-baik waktumu adalah saat-saat di mana engkau menyadari akan kebutuhanmu kepada Allah, dan karenanya engkau pun kembali mengakui akan kerendahan dirimu.',
-    penjelasan: 'Waktu terbaik bukan saat ibadah yang merasa khusyuk, melainkan saat menyadari faqr dan rendah diri di hadapan Allah.',
-    tags: ['waktu', 'faqr', 'tawadhu', 'muhasabah']
-  },
-  {
-    id: 99, nomor: 99,
-    arab: 'مَتَى أَوْحَشَكَ مِنْ خَلْقِهِ فَاعْلَمْ أَنَّهُ يُرِيدُ أَنْ يَفْتَحَ لَكَ بَابَ الأُنْسِ بِهِ',
-    terjemahan: 'Apabila Allah telah membuatmu merasa bosan dengan makhluk, maka ketahuilah bahwa Dia hendak membukakan untukmu pintu keintiman dengan-Nya.',
-    penjelasan: 'Rasa bosan dengan makhluk adalah tanda Allah sedang menarik hamba untuk lebih dekat dengan-Nya.',
-    tags: ['uns', 'makhluk', 'allah', 'keintiman']
-  },
-  {
-    id: 100, nomor: 100,
-    arab: 'مَتَى أَطْلَقَ لِسَانَكَ بِالطَّلَبِ فَاعْلَمْ أَنَّهُ يُرِيدُ أَنْ يُعْطِيَكَ',
-    terjemahan: 'Ketika Allah mengendurkan lidahmu untuk meminta kepada-Nya, maka ketahuilah bahwa Dia hendak memberimu.',
-    penjelasan: 'Semangat untuk berdoa adalah tanda Allah akan mengabulkan. Karena Allah-lah yang menginspirasi doa tersebut.',
-    tags: ['doa', 'pemberian', 'ilham', 'allah']
-  },
-  {
-    id: 101, nomor: 101,
-    arab: 'الْعَارِفُ لَا يَزُولُ اضْطِرَارُهُ وَلَا يَكُونُ مَعَ غَيْرِ اللهِ قَرَارُهُ',
-    terjemahan: 'Seorang arif tak kunjung hilang kebutuhannya kepada Allah, dan apabila dia bersandar kepada selain Allah niscaya tidak akan pernah tenang.',
-    penjelasan: 'Faqr hakiki tidak pernah berakhir meski tingkatan spiritual semakin tinggi. Justru semakin arif semakin merasakan kebutuhan kepada Allah.',
-    tags: ['arif', 'faqr', 'ketenangan', 'allah']
-  },
-  {
-    id: 102, nomor: 102,
-    arab: 'أَنَارَ الظَّوَاهِرَ بِأَنْوَارِ آثَارِهِ وَأَنَارَ السَّرَائِرَ بِأَنْوَارِ أَوْصَافِهِ',
-    terjemahan: 'Allah menerangi alam lahir dengan cahaya makhluk-Nya, dan menerangi rahasia hati dengan cahaya sifat-Nya. Karena itulah cahaya alam lahir terbenam, sementara cahaya hati tidak akan terbenam.',
-    penjelasan: 'Cahaya fisik bersifat sementara. Namun cahaya batin yang bersumber dari sifat Allah adalah abadi.',
-    tags: ['cahaya', 'batin', 'sifat-allah', 'abadi']
-  },
-  {
-    id: 103, nomor: 103,
-    arab: 'لِيُخَفِّفَ أَلَمَ الْبَلَاءِ عَلَيْكَ عِلْمُكَ بِأَنَّهُ سُبْحَانَهُ هُوَ الْمُبْلِي لَكَ',
-    terjemahan: 'Agar pedihnya ujian terasa ringan, hendaklah engkau mengetahui bahwa Allah-lah yang tengah mengujimu, dan Dia yang biasa memberimu sebaik-baik pilihan.',
-    penjelasan: 'Mengetahui bahwa Allah yang menguji meringankan beban cobaan. Karena kita tahu Allah tidak akan menzalimi hamba-Nya.',
-    tags: ['ujian', 'sabar', 'ridha', 'allah']
-  },
-  {
-    id: 104, nomor: 104,
-    arab: 'لَا يُخَافُ عَلَيْكَ أَنْ تَلْتَبِسَ الطَّرِيقُ عَلَيْكَ وَإِنَّمَا يُخَافُ عَلَيْكَ مِنْ غَلَبَةِ الْهَوَى عَلَيْكَ',
-    terjemahan: 'Tidaklah dikhawatirkan bahwa berbagai jalan menuju Allah akan membingungkan. Namun yang dikhawatirkan adalah kalau sampai hawa nafsu menguasaimu.',
-    penjelasan: 'Jalan menuju Allah banyak dan tidak membingungkan bagi yang bersungguh-sungguh. Yang berbahaya adalah nafsu yang menghalangi perjalanan.',
-    tags: ['nafsu', 'perjalanan', 'jalan-allah', 'khauf']
-  },
-  {
-    id: 105, nomor: 105,
-    arab: 'سُبْحَانَ مَنْ سَتَرَ سِرَّ الْخُصُوصِيَّةِ بِظُهُورِ الْبَشَرِيَّةِ',
-    terjemahan: 'Mahasuci Allah yang telah merahasiakan keistimewaan orang-orang pilihan dengan menampakkan sifat-sifat manusia yang umum.',
-    penjelasan: 'Para wali Allah tidak dikenal dari penampilan luar yang istimewa. Allah menyembunyikan rahasia mereka di balik sifat-sifat manusia biasa.',
-    tags: ['wali', 'keistimewaan', 'tersembunyi', 'allah']
-  },
-  {
-    id: 106, nomor: 106,
-    arab: 'لَا تُطَالِبْ رَبَّكَ بِتَأَخُّرِ مَطْلَبِكَ وَلَكِنْ طَالِبْ نَفْسَكَ بِتَأَخُّرِ أَدَبِكَ',
-    terjemahan: 'Janganlah menuntut Rabbmu karena permohonanmu belum dikabulkan. Akan tetapi, tuntutlah dirimu sendiri yang mungkin belum memenuhi syarat bagi suatu permohonan.',
-    penjelasan: 'Keterlambatan pengabulan doa bukan salah Allah. Introspeksi diri apakah adab dan syarat doa sudah terpenuhi.',
-    tags: ['doa', 'adab', 'muhasabah', 'sabar']
-  },
-  {
-    id: 107, nomor: 107,
-    arab: 'مَا تَوَقُّفُكَ فِيمَا أَرَدْتَهُ إِلَّا لِتَوَقُّفِ صِدْقِكَ فِيمَا أَرَادَهُ مِنْكَ',
-    terjemahan: 'Apabila Allah membuatmu tunduk kepada perintah-Nya secara lahiriyah dan menyuruhmu menyerah kepada kekuasaan-Nya secara bathiniah, maka berarti Allah telah memberi karunia besar kepadamu.',
-    penjelasan: 'Kepatuhan lahir dan batin adalah karunia tertinggi yang Allah berikan kepada seorang hamba.',
-    tags: ['taat', 'batin', 'lahir', 'karunia']
-  },
-  {
-    id: 108, nomor: 108,
-    arab: 'لَيْسَ كُلُّ مَنْ ثَبَتَ تَخْصِيصُهُ كَمُلَ تَخْلِيصُهُ',
-    terjemahan: 'Tidak setiap orang yang memperoleh keistimewaan sepenuhnya terbebas dari penyakit-penyakit jiwa.',
-    penjelasan: 'Mendapat karunia keistimewaan tidak otomatis berarti hati sudah bersih sempurna. Pembersihan jiwa adalah proses terus-menerus.',
-    tags: ['keistimewaan', 'penyakit-hati', 'tazkiyah', 'proses']
-  },
-  {
-    id: 109, nomor: 109,
-    arab: 'لَا يَسْتَحْقِرِ الْوِرْدَ إِلَّا جَهُولٌ',
-    terjemahan: 'Hanya orang bodoh yang menganggap rendah wirid. Warid akan berkelanjutan sampai di akhirat, sementara wirid akan habis seiring dengan lenyapnya dunia ini.',
-    penjelasan: 'Wirid (ibadah rutin) yang tampak kecil dan biasa memiliki nilai yang sangat besar. Meremehkannya adalah tanda kebodohan.',
-    tags: ['wirid', 'warid', 'ibadah', 'istiqomah']
-  },
-  {
-    id: 110, nomor: 110,
-    arab: 'وُرُودُ الإِمْدَادِ بِحَسَبِ الاِسْتِعْدَادِ وَشُرُوقُ الأَنْوَارِ عَلَى حَسَبِ صَفَاءِ الأَسْرَارِ',
-    terjemahan: 'Datangnya pertolongan Allah adalah sesuai dengan persiapan, sedangkan turunnya cahaya Allah adalah sesuai dengan kejernihan relung hati.',
-    penjelasan: 'Ada korelasi antara kesiapan hamba dengan besarnya pertolongan dan cahaya yang Allah berikan.',
-    tags: ['pertolongan', 'cahaya', 'persiapan', 'hati']
-  },
-  {
-    id: 111, nomor: 111,
-    arab: 'الْغَافِلُ إِذَا أَصْبَحَ يَنْظُرُ مَاذَا يَفْعَلُ وَالْعَاقِلُ يَنْظُرُ مَاذَا يَفْعَلُ اللهُ بِهِ',
-    terjemahan: 'Orang yang lalai, melalui harinya dengan memikirkan apa yang harus ia lakukan. Sedangkan orang yang mau menggunakan akalnya, akan merenungkan apa yang dilakukan Allah terhadap dirinya.',
-    penjelasan: 'Perbedaan orang lalai dan orang berakal: yang satu fokus pada rencananya sendiri, yang lain merenungkan kehendak dan rencana Allah.',
-    tags: ['akal', 'lalai', 'muraqabah', 'tafakur']
-  },
-  {
-    id: 112, nomor: 112,
-    arab: 'إِنَّمَا يَسْتَوْحِشُ الْعُبَّادُ وَالزُّهَّادُ مِنْ كُلِّ شَيْءٍ لِغَيْبَتِهِمْ عَنِ اللهِ فِي كُلِّ شَيْءٍ',
-    terjemahan: 'Sesungguhnya yang merisaukan para abid dan para zahid hanyalah karena mereka belum melihat Allah dalam segala sesuatu. Kalau mereka telah melihat-Nya dalam segala sesuatu, mereka tidak akan merasa risau dalam semua hal.',
-    penjelasan: 'Kerisauan spiritual tanda belum sempurnanya makrifat. Yang sudah melihat Allah dalam segalanya tidak akan terganggu oleh apapun.',
-    tags: ['makrifat', 'abid', 'zahid', 'ketenangan']
-  },
-  {
-    id: 113, nomor: 113,
-    arab: 'أَمَرَكَ فِي هَذِهِ الدَّارِ بِالنَّظَرِ فِي مُكَوَّنَاتِهِ وَسَيَكْشِفُ لَكَ فِي تِلْكَ الدَّارِ عَنْ كَمَالِ ذَاتِهِ',
-    terjemahan: 'Allah menyuruhmu di dunia ini untuk memperhatikan alam ciptaan-Nya, dan kelak di akhirat Dia akan memperlihatkan kepadamu akan kesempurnaan Zat-Nya.',
-    penjelasan: 'Tafakur alam di dunia adalah persiapan untuk penyaksian langsung Zat Allah di akhirat.',
-    tags: ['tafakur', 'alam', 'akhirat', 'zat-allah']
-  },
-  {
-    id: 114, nomor: 114,
-    arab: 'عَلِمَ أَنَّكَ لَا تَصْبِرُ عَنْهُ فَأَشْهَدَكَ مَا بَرَزَ مِنْهُ',
-    terjemahan: 'Allah tahu bahwa engkau tidak akan bersabar untuk melihat-Nya, maka Allah memperlihatkan kepadamu apa yang berasal dari-Nya.',
-    penjelasan: 'Allah yang Maha Pengasih memperlihatkan tanda-tanda-Nya di alam sebagai obat rindu hamba yang tidak bisa langsung melihat-Nya.',
-    tags: ['rindu', 'allah', 'tanda', 'rahmat']
-  },
-  {
-    id: 115, nomor: 115,
-    arab: 'الصَّلَاةُ طُهْرَةٌ لِلْقُلُوبِ مِنْ أَدْنَاسِ الذُّنُوبِ وَاسْتِفْتَاحٌ لِبَابِ الْغُيُوبِ',
-    terjemahan: 'Shalat merupakan penyucian hati dari kotoran dosa dan pembuka pintu kegaiban.',
-    penjelasan: 'Dua fungsi utama shalat: membersihkan hati dari dosa dan membuka pintu kegaiban ilahi.',
-    tags: ['shalat', 'taharah', 'hati', 'ibadah']
-  },
-  {
-    id: 116, nomor: 116,
-    arab: 'الصَّلَاةُ مَحَلُّ الْمُنَاجَاةِ وَمَعْدِنُ الْمُصَافَاةِ',
-    terjemahan: 'Shalat merupakan sarana bermunajat serta sumber penyucian hati. Di dalam shalat terbentang luas medan rahasia Allah.',
-    penjelasan: 'Shalat adalah ruang perjumpaan pribadi antara hamba dengan Allah, penuh dengan rahasia dan cahaya ilahi.',
-    tags: ['shalat', 'munajat', 'hati', 'cahaya']
-  },
-  {
-    id: 117, nomor: 117,
-    arab: 'إِذَا طَلَبْتَ عِوَضًا عَلَى عَمَلٍ طُلِبْتَ بِوُجُودِ الصِّدْقِ فِيهِ',
-    terjemahan: 'Apabila engkau menuntut balasan atas suatu amal ibadah, maka pasti engkau pun akan dituntut untuk tulus dalam melakukannya.',
-    penjelasan: 'Menuntut balasan membuka pintu diperiksanya keikhlasan. Amal yang benar-benar ikhlas tidak menuntut balasan.',
-    tags: ['amal', 'ikhlas', 'balasan', 'ketulusan']
-  },
-  {
-    id: 118, nomor: 118,
-    arab: 'لَا تَطْلُبْ عِوَضًا عَلَى عَمَلٍ لَسْتَ لَهُ فَاعِلًا',
-    terjemahan: 'Jangan menuntut balasan atas suatu amal yang pelakunya bukan dirimu sendiri. Cukuplah balasan Allah bagimu apabila Dia menerima amalan itu.',
-    penjelasan: 'Allah-lah yang menggerakkan hamba untuk beramal. Karena itu menuntut balasan seolah kita yang berbuat adalah tidak tepat.',
-    tags: ['amal', 'ikhlas', 'balasan', 'taufik']
-  },
-  {
-    id: 119, nomor: 119,
-    arab: 'مَذَامُّكَ لَا نِهَايَةَ لَهَا إِنْ أَرْجَعَكَ إِلَى نَفْسِكَ وَلَا تَفْرُغُ مَدَائِحُكَ إِنْ أَظْهَرَ جُودَهُ عَلَيْكَ',
-    terjemahan: 'Tak ada batas akhir keburukan itu jika Allah mengembalikanmu pada dirimu sendiri. Dan tak kan habis kebaikanmu jika Allah memperlihatkan kemurahan-Nya kepadamu.',
-    penjelasan: 'Tanpa taufik Allah, manusia hanyalah kumpulan kekurangan. Semua kebaikan semata-mata dari karunia Allah.',
-    tags: ['taufik', 'karunia', 'diri', 'keburukan']
-  },
-  {
-    id: 120, nomor: 120,
-    arab: 'كُنْ بِأَوْصَافِ رُبُوبِيَّتِهِ مُتَعَلِّقًا وَبِأَوْصَافِ عُبُودِيَّتِكَ مُتَحَقِّقًا',
-    terjemahan: 'Bergantunglah pada sifat-sifat Rububiyyah (ketuhanan) Allah, dan lakukanlah sungguh-sungguh sifat-sifat penghambaanmu.',
-    penjelasan: 'Dua hal yang harus dilakukan bersamaan: bergantung pada keagungan Allah dan sungguh-sungguh dalam menunaikan penghambaan.',
-    tags: ['rububiyah', 'ubudiyah', 'tawakkal', 'ibadah']
-  },
-  {
-    id: 121, nomor: 121,
-    arab: 'كَيْفَ تُخْرَقُ لَكَ الْعَوَائِدُ وَأَنْتَ لَمْ تَخْرِقْ مِنْ نَفْسِكَ الْعَوَائِدَ',
-    terjemahan: 'Bagaimana keajaiban dapat disingkapkan bagimu, sementara engkau belum mengubah kebiasaan dirimu yang buruk?',
-    penjelasan: 'Keajaiban spiritual tidak datang kepada yang tidak mau mengubah kebiasaan buruk dirinya. Perubahan dalam diri adalah syarat karomah.',
-    tags: ['karomah', 'kebiasaan', 'perubahan', 'nafs']
-  },
-  {
-    id: 122, nomor: 122,
-    arab: 'مَا الشَّأْنُ وُجُودُ الطَّلَبِ إِنَّمَا الشَّأْنُ أَنْ تُرْزَقَ حُسْنَ الأَدَبِ',
-    terjemahan: 'Yang terpenting bukanlah adanya permintaan (doa) melainkan bahwa engkau dikarunia adab yang baik.',
-    penjelasan: 'Adab di hadapan Allah lebih penting dari banyaknya permintaan. Doa dengan adab yang baik lebih berharga dari doa yang banyak.',
-    tags: ['adab', 'doa', 'karunia', 'ibadah']
-  },
-  {
-    id: 123, nomor: 123,
-    arab: 'مَا طَلَبَ لَكَ شَيْءٌ مِثْلُ الاِضْطِرَارِ وَلَا أَسْرَعَ بِالْمَوَاهِبِ إِلَيْكَ مِثْلُ الذِّلَّةِ وَالاِفْتِقَارِ',
-    terjemahan: 'Tidak ada yang menyegerakan terkabulnya doa kecuali saat terdesak, dan tidak ada yang bisa mempercepat tibanya pemberian Allah kecuali rasa rendah diri serta sikap membutuhkan.',
-    penjelasan: 'Kondisi terdesak dan rasa hina diri adalah keadaan paling efektif untuk diterimanya doa.',
-    tags: ['doa', 'darurat', 'rendah-diri', 'faqr']
-  },
-  {
-    id: 124, nomor: 124,
-    arab: 'لَوْ أَنَّكَ لَا تَصِلُ إِلَيْهِ إِلَّا بَعْدَ فَنَاءِ مَسَاوِيكَ وَمَحْوِ دَعَاوِيكَ لَمْ تَصِلْ إِلَيْهِ أَبَدًا',
-    terjemahan: 'Jika engkau tidak sampai kepada-Nya kecuali setelah lenyap semua keburukanmu dan sirna semua hasratmu, maka engkau selamanya tidak akan sampai kepada-Nya.',
-    penjelasan: 'Jalan menuju Allah bukan dengan menunggu diri sempurna dulu. Allah yang menarik hamba, bukan hamba yang sampai dengan kemampuan sendiri.',
-    tags: ['wushul', 'karunia', 'kesempurnaan', 'tawakkal']
-  },
-  {
-    id: 125, nomor: 125,
-    arab: 'لَوْلَا جَمِيلُ سَتْرِهِ لَمْ يَكُنْ عَمَلٌ أَهْلًا لِلْقَبُولِ',
-    terjemahan: 'Kalaulah bukan karena keindahan tutup-Nya, maka tentulah tiada amal yang layak untuk diterima.',
-    penjelasan: 'Semua amal manusia penuh kekurangan. Yang membuatnya diterima adalah keindahan tutup Allah atas kekurangan hamba.',
-    tags: ['amal', 'penerimaan', 'sitr', 'rahmat']
-  },
-  {
-    id: 126, nomor: 126,
-    arab: 'أَنْتَ إِلَى حِلْمِهِ إِذَا أَطَعْتَهُ أَحْوَجُ مِنْكَ إِلَى حِلْمِهِ إِذَا عَصَيْتَهُ',
-    terjemahan: 'Engkau lebih membutuhkan kemurahan-Nya kala engkau menaati-Nya, ketimbang saat berbuat maksiat kepada-Nya.',
-    penjelasan: 'Ketaatan pun bisa melahirkan ujub dan riya yang berbahaya. Oleh karena itu kebutuhan kepada Allah justru lebih besar saat beribadah.',
-    tags: ['taat', 'ujub', 'hilm', 'kebutuhan']
-  },
-  {
-    id: 127, nomor: 127,
-    arab: 'السَّتْرُ يَقَعُ عَلَى قِسْمَيْنِ سَتْرٌ عَنِ الْمَعْصِيَةِ وَسَتْرٌ فِي الْمَعْصِيَةِ',
-    terjemahan: 'Tutup Allah itu terbagi dua: tutup dari melakukan maksiat dan tutup dalam maksiat. Orang awam meminta agar ditutupi dalam berbuat maksiat. Namun orang khawas meminta agar ditutupi dari berbuat maksiat.',
-    penjelasan: 'Ada dua level permohonan perlindungan: orang awam takut aibnya terlihat, orang khusus takut maksiat itu sendiri karena menghormati Allah.',
-    tags: ['sitr', 'maksiat', 'awam', 'khawas']
-  },
-  {
-    id: 128, nomor: 128,
-    arab: 'مَنْ أَكْرَمَكَ فَإِنَّمَا أَكْرَمَ فِيكَ جَمِيلَ سَتْرِهِ',
-    terjemahan: 'Siapa yang memuliakanmu, maka sebenarnya memuliakan indahnya penutup yang Allah selipkan pada dirimu. Karena itu, pujian bagi Allah yang menutupimu.',
-    penjelasan: 'Kemuliaan seseorang bukan dari dirinya sendiri, melainkan dari tirai keindahan yang Allah selimutkan atasnya.',
-    tags: ['sitr', 'kemuliaan', 'pujian', 'allah']
-  },
-  {
-    id: 129, nomor: 129,
-    arab: 'مَا صَحِبَكَ إِلَّا مَنْ صَحِبَكَ وَهُوَ بِعَيْبِكَ عَلِيمٌ',
-    terjemahan: 'Tidak ada teman sejati kecuali seseorang yang menemanimu adalah orang yang tahu tentang aibmu. Dan yang seperti itu tidak akan pernah ada kecuali Tuhanmu yang Pemurah.',
-    penjelasan: 'Teman yang mengetahui semua aib kita tapi tetap menyertai kita hanya Allah. Inilah keintiman tertinggi.',
-    tags: ['teman', 'allah', 'uns', 'kesetiaan']
-  },
-  {
-    id: 130, nomor: 130,
-    arab: 'لَوْ أَشْرَقَ لَكَ نُورُ الْيَقِينِ لَرَأَيْتَ الآخِرَةَ أَقْرَبَ إِلَيْكَ مِنْ أَنْ تَرْحَلَ إِلَيْهَا',
-    terjemahan: 'Seandainya cahaya keyakinan menerangimu, niscaya engkau dapat melihat akhirat itu lebih dekat padamu ketimbang engkau berjalan menujunya.',
-    penjelasan: 'Yakin yang sempurna membuat akhirat terasa sangat dekat dan nyata, lebih nyata dari dunia yang terlihat.',
-    tags: ['yakin', 'akhirat', 'cahaya', 'bashirah']
-  },
-  {
-    id: 131, nomor: 131,
-    arab: 'مَا حَجَبَكَ عَنِ اللهِ وُجُودُ مَوْجُودٍ مَعَهُ وَلَكِنْ حَجَبَكَ عَنْهُ تَوَهُّمُ مَوْجُودٍ مَعَهُ',
-    terjemahan: 'Keberadaan benda tidaklah menghalangimu dari Allah, yang membuatmu terhalangi dari-Nya adalah ilusimu bahwa ada yang lain di samping-Nya.',
-    penjelasan: 'Hijab dari Allah bukan alam semesta itu sendiri, melainkan anggapan bahwa ada wujud lain selain Allah.',
-    tags: ['hijab', 'tauhid', 'ilusi', 'wujud']
-  },
-  {
-    id: 132, nomor: 132,
-    arab: 'طَوَى اللهُ الأَكْوَانَ وَأَظْهَرَهَا ظَهَرَتْ وَطَوَاهَا الظَّاهِرُ',
-    terjemahan: 'Allah menampakkan segala sesuatu karena Dialah yang batin. Dan Allah menyembunyikan wujud segala sesuatu karena Dialah yang zahir.',
-    penjelasan: 'Paradoks ilahi: karena Allah adalah Yang Batin maka Dia menampakkan segalanya, dan karena Dia Yang Zahir maka Dia menyembunyikan segalanya.',
-    tags: ['zahir', 'batin', 'tauhid', 'paradoks']
-  },
-  {
-    id: 133, nomor: 133,
-    arab: 'أَبَاحَ لَكَ أَنْ تَنْظُرَ مَا فِي الْمُكَوَّنَاتِ وَمَا أَذِنَ لَكَ أَنْ تَقِفَ مَعَ ذَوَاتِ الْمُكَوَّنَاتِ',
-    terjemahan: 'Allah mengizinkanmu melihat apa saja yang ada di alam semesta, namun Dia tidak mengizinkanmu untuk berhenti hanya pada melihat benda-benda alam itu.',
-    penjelasan: 'Tafakur alam diizinkan, bahkan dianjurkan. Namun berhenti pada alam dan tidak melanjutkan pandangan kepada Allah adalah yang tidak diizinkan.',
-    tags: ['tafakur', 'alam', 'ibadah', 'marifat']
-  },
-  {
-    id: 134, nomor: 134,
-    arab: 'الأَكْوَانُ ثَابِتَةٌ بِإِثْبَاتِهِ وَمَحْوِيَّةٌ بِأَحَدِيَّةِ ذَاتِهِ',
-    terjemahan: 'Alam ini ada karena ketetapan Allah, namun ia akan musnah oleh Keesaan Zat-Nya.',
-    penjelasan: 'Eksistensi alam bergantung pada kehendak Allah. Di hadapan Keesaan Zat-Nya, segala sesuatu menjadi tiada.',
-    tags: ['alam', 'tauhid', 'wujud', 'fana']
-  },
-  {
-    id: 135, nomor: 135,
-    arab: 'النَّاسُ يَمْدَحُونَكَ لِمَا يَظُنُّونَهُ فِيكَ فَكُنْ أَنْتَ ذَامًّا لِنَفْسِكَ لِمَا تَعْلَمُهُ مِنْهَا',
-    terjemahan: 'Orang-orang memujimu karena apa yang mereka sangka ada pada dirimu. Maka celalah dirimu karena apa yang engkau ketahui ada pada dirimu.',
-    penjelasan: 'Manusia memuji berdasarkan sangkaan. Kita sendiri yang tahu keburukan diri. Oleh karena itu kita lebih layak mencelanya daripada berbangga.',
-    tags: ['pujian', 'muhasabah', 'tawadhu', 'diri']
-  },
-  {
-    id: 136, nomor: 136,
-    arab: 'الْمُؤْمِنُ إِذَا مُدِحَ اسْتَحْيَا مِنَ اللهِ تَعَالَى أَنْ يُثْنَى عَلَيْهِ بِوَصْفٍ لَا يَشْهَدُهُ مِنْ نَفْسِهِ',
-    terjemahan: 'Ketika seorang mukmin dipuji, maka seharusnya ia merasa malu kepada Allah, karena ia dipuji dengan sifat yang tidak ia dapati dalam dirinya.',
-    penjelasan: 'Malu kepada Allah saat dipuji adalah tanda keimanan yang jujur. Orang beriman tahu dirinya tidak seperti yang dipuji orang.',
-    tags: ['malu', 'pujian', 'iman', 'jujur']
-  },
-  {
-    id: 137, nomor: 137,
-    arab: 'أَجْهَلُ النَّاسِ مَنْ تَرَكَ يَقِينَ مَا عِنْدَهُ لِظَنِّ مَا عِنْدَ النَّاسِ',
-    terjemahan: 'Sebodoh-bodoh manusia adalah orang yang meninggalkan keyakinannya sendiri karena mengikuti dugaan orang lain.',
-    penjelasan: 'Meninggalkan keyakinan diri karena terpesona dugaan orang lain adalah kebodohan tertinggi. Keyakinan lebih berharga dari prasangka.',
-    tags: ['yakin', 'kebodohan', 'keyakinan', 'diri']
-  },
-  {
-    id: 138, nomor: 138,
-    arab: 'إِذَا أَطْلَقَ عَلَيْكَ الثَّنَاءَ وَلَسْتَ بِأَهْلٍ فَأَثْنِ عَلَيْهِ بِمَا هُوَ لَهُ أَهْلٌ',
-    terjemahan: 'Apabila Allah membiarkan suatu pujian diberikan kepadamu padahal engkau tidak layak mendapatkannya, maka pujilah Allah karena Dialah yang lebih berhak atas pujian tersebut.',
-    penjelasan: 'Pujian yang tidak layak diterima seharusnya dialihkan kepada Allah sebagai pemilik segala kesempurnaan.',
-    tags: ['pujian', 'syukur', 'allah', 'tawadhu']
-  },
-  {
-    id: 139, nomor: 139,
-    arab: 'الزُّهَّادُ إِذَا مُدِحُوا انْقَبَضُوا لِشُهُودِهِمُ الثَّنَاءَ مِنَ الْخَلْقِ وَالْعَارِفُونَ إِذَا مُدِحُوا انْبَسَطُوا لِشُهُودِهِمْ ذَلِكَ مِنَ الْمَلِكِ',
-    terjemahan: 'Apabila kaum yang zahid dipuji, maka sesaklah hati mereka karena menyadari pujian itu datang dari makhluk. Sedang para arif bila dipuji, maka bergembiralah hati mereka karena memandang pujian itu datang dari Allah.',
-    penjelasan: 'Perbedaan zahid dan arif dalam menyikapi pujian: zahid merasa tidak nyaman, arif bergembira karena melihat pujian sebagai manifestasi sifat Allah yang memuji.',
-    tags: ['zahid', 'arif', 'pujian', 'syuhud']
-  },
-  {
-    id: 140, nomor: 140,
-    arab: 'بَسَطَكَ الْعَطَاءُ وَإِذَا مُنِعْتَ قَبَضَكَ الْمَنْعُ فَاسْتَدِلَّ بِذَلِكَ عَلَى ثُبُوتِ طُفُولِيَّتِكَ',
-    terjemahan: 'Pada saat diberi sesuatu engkau bergembira, dan pada saat ditolak engkau kecewa. Yang demikian itu merupakan bukti sifat kekanak-kanakanmu dan ketidaktulusan penghambaanmu.',
-    penjelasan: 'Ridha yang sejati tidak berubah mengikuti kondisi pemberian atau penolakan. Berubahnya perasaan mengikuti kondisi adalah tanda kematangan spiritual yang belum sempurna.',
-    tags: ['ridha', 'pemberian', 'penolakan', 'kematangan']
-  },
-  {
-    id: 141, nomor: 141,
-    arab: 'إِذَا وَقَعَ مِنْكَ ذَنْبٌ فَلَا يَكُنْ سَبَبًا لِيَأْسِكَ مِنْ حُصُولِ الاِسْتِقَامَةِ مَعَ رَبِّكَ',
-    terjemahan: 'Apabila engkau terlanjur berbuat dosa, maka itu jangan membuat engkau putus asa dalam menggapai istiqomah kepada Rabbmu.',
-    penjelasan: 'Dosa bukan akhir dari perjalanan spiritual. Dosa yang menimbulkan taubat dan tekad untuk istiqomah bisa menjadi batu loncatan.',
-    tags: ['dosa', 'taubat', 'istiqomah', 'harapan']
-  },
-  {
-    id: 142, nomor: 142,
-    arab: 'إِذَا أَرَدْتَ أَنْ يَفْتَحَ لَكَ بَابَ الرَّجَاءِ فَاشْهَدْ مَا مِنْهُ إِلَيْكَ وَإِذَا أَرَدْتَ أَنْ يَفْتَحَ لَكَ بَابَ الْخَوْفِ فَاشْهَدْ مَا مِنْكَ إِلَيْهِ',
-    terjemahan: 'Apabila engkau ingin Allah membukakan pintu pengharapan untukmu, maka perhatikanlah apa yang Dia berikan kepadamu. Namun jika engkau ingin Allah membukakan pintu ketakutan, maka perhatikanlah apa yang engkau berikan kepada-Nya.',
-    penjelasan: 'Kunci antara raja dan khauf: melihat karunia Allah menumbuhkan harapan, melihat amal diri sendiri menumbuhkan rasa takut.',
-    tags: ['raja', 'khauf', 'harapan', 'muhasabah']
-  },
-  {
-    id: 143, nomor: 143,
-    arab: 'رُبَّمَا أَفَادَكَ فِي لَيْلِ الْقَبْضِ مَا لَمْ تَسْتَفِدْهُ فِي إِشْرَاقِ نَهَارِ الْبَسْطِ',
-    terjemahan: 'Boleh jadi Allah memberimu manfaat pada saat malam yang sempit, apa yang belum engkau dapatkan pada saat siang yang lapang.',
-    penjelasan: 'Kondisi sempit (qabdh) terkadang lebih produktif secara spiritual daripada kondisi lapang (bast). Hikmah tersembunyi di balik setiap kondisi.',
-    tags: ['qabdh', 'bast', 'hikmah', 'spiritual']
-  },
-  {
-    id: 144, nomor: 144,
-    arab: 'مَطَالِعُ الأَنْوَارِ الْقُلُوبُ وَالأَسْرَارُ',
-    terjemahan: 'Tempat terbitnya cahaya Ilahi adalah hati dan rahasia-rahasianya.',
-    penjelasan: 'Hati dan relung terdalam jiwa (sirr) adalah tempat turunnya cahaya dan karunia Allah.',
-    tags: ['cahaya', 'hati', 'sirr', 'ilahi']
-  },
-  {
-    id: 145, nomor: 145,
-    arab: 'الْوَارِدُ مِنْ خَزَائِنِ الْغُيُوبِ نُورٌ مُسْتَوْدَعٌ فِي الْقُلُوبِ',
-    terjemahan: 'Cahaya yang tersimpan dalam hati datang dari cahaya yang berasal dari khazanah kegaiban.',
-    penjelasan: 'Sumber cahaya hati bukan dari dunia ini, melainkan dari perbendaharaan gaib yang hanya Allah yang mengetahuinya.',
-    tags: ['warid', 'cahaya', 'gaib', 'hati']
-  },
-  {
-    id: 146, nomor: 146,
-    arab: 'نُورٌ يَكْشِفُ لَكَ عَنْ آثَارِهِ وَنُورٌ يَكْشِفُ لَكَ عَنْ أَوْصَافِهِ',
-    terjemahan: 'Ada cahaya yang menyingkap tirai ciptaan-Nya untukmu, dan ada pula cahaya yang menyingkapkan tirai sifat-sifat Allah bagimu.',
-    penjelasan: 'Tingkatan cahaya berbeda: cahaya yang menyingkap tanda-tanda Allah di alam, dan cahaya yang lebih tinggi yang menyingkap sifat-sifat Allah langsung.',
-    tags: ['cahaya', 'kasyf', 'sifat-allah', 'marifat']
-  },
-  {
-    id: 147, nomor: 147,
-    arab: 'رُبَّمَا وَقَفَتِ الْقُلُوبُ مَعَ الأَنْوَارِ كَمَا حُجِبَتِ النُّفُوسُ بِكَثَائِفِ الأَغْيَارِ',
-    terjemahan: 'Boleh jadi hati terhenti pada cahaya-cahaya, sebagaimana terhentinya nafsu oleh gelapnya bayang-bayang ciptaan.',
-    penjelasan: 'Bahaya di tingkat hati adalah berhenti pada pengalaman cahaya tanpa melanjutkan perjalanan menuju sumber cahaya itu sendiri.',
-    tags: ['cahaya', 'hati', 'jebakan', 'perjalanan']
-  },
-  {
-    id: 148, nomor: 148,
-    arab: 'سُبْحَانَ مَنْ لَمْ يَجْعَلِ الدَّلِيلَ عَلَى أَوْلِيَائِهِ إِلَّا مِنْ حَيْثُ الدَّلِيلُ عَلَيْهِ',
-    terjemahan: 'Mahasuci Allah yang tidak membuat tanda khusus atas para wali-Nya, kecuali dengan tanda pengenalan kepada-Nya.',
-    penjelasan: 'Tanda seorang wali bukan karomah yang menakjubkan, melainkan pengenalan mereka kepada Allah yang mendalam.',
-    tags: ['wali', 'tanda', 'marifat', 'allah']
-  },
-  {
-    id: 149, nomor: 149,
-    arab: 'رُبَّمَا اطَّلَعَكَ عَلَى غَيْبِ مَلَكُوتِهِ وَحَجَبَ عَنْكَ الاِسْتِشْرَافَ عَلَى أَسْرَارِ الْعِبَادِ',
-    terjemahan: 'Boleh jadi Allah memperlihatkan kepadamu misteri alam malakut, namun Dia menutupimu dari rahasia para hamba-Nya.',
-    penjelasan: 'Penyingkapan malakut belum tentu disertai pengetahuan tentang hamba lain. Rahasia hamba dijaga Allah demi kemaslahatan.',
-    tags: ['malakut', 'kasyf', 'rahasia', 'hamba']
-  },
-  {
-    id: 150, nomor: 150,
-    arab: 'عِلَاجُ النَّفْسِ فِي الْمَعْصِيَةِ ظَاهِرٌ جَلِيٌّ وَحَظُّهَا فِي الطَّاعَةِ بَاطِنٌ خَفِيٌّ',
-    terjemahan: 'Andil nafsu dalam perbuatan maksiat itu tampak jelas, sedangkan andilnya pada perbuatan taat itu samar dan tersembunyi.',
-    penjelasan: 'Nafsu yang kasar terlihat dalam maksiat, tapi nafsu yang halus lebih berbahaya karena tersembunyi di balik ketaatan.',
-    tags: ['nafsu', 'maksiat', 'taat', 'riya']
-  },
-  {
-    id: 151, nomor: 151,
-    arab: 'رُبَّمَا دَخَلَ الرِّيَاءُ عَلَيْكَ مِنْ حَيْثُ لَا يَنْظُرُ إِلَيْكَ الْخَلْقُ',
-    terjemahan: 'Mungkin saja rasa riya\' itu masuk ke dalam dirimu dari arah yang tidak dilihat orang lain.',
-    penjelasan: 'Riya\' yang tersembunyi lebih berbahaya dari riya\' yang tampak. Waspadai riya\' yang tidak disaksikan siapapun kecuali diri sendiri.',
-    tags: ['riya', 'nafsu', 'ikhlas', 'waspada']
-  },
-  {
-    id: 152, nomor: 152,
-    arab: 'اسْتِنْشَافُكَ أَنْ يَعْلَمَ الْخَلْقُ بِخُصُوصِيَّتِكَ دَلِيلٌ عَلَى عَدَمِ صِدْقِكَ فِي عُبُودِيَّتِكَ',
-    terjemahan: 'Keinginan agar orang lain mengetahui keistimewaan yang ada pada dirimu adalah bukti dari ketidaktulusan penghambaanmu.',
-    penjelasan: 'Ingin dikenal orang atas keistimewaan spiritual adalah tanda ikhlas yang belum sempurna.',
-    tags: ['ikhlas', 'ubudiyah', 'riya', 'keistimewaan']
-  },
-  {
-    id: 153, nomor: 153,
-    arab: 'غَيِّبْ نَظَرَ الْخَلْقِ إِلَيْكَ بِنَظَرِ اللهِ إِلَيْكَ وَغِبْ عَنْ إِقْبَالِهِمْ إِلَيْكَ بِشُهُودِ إِقْبَالِهِ إِلَيْكَ',
-    terjemahan: 'Lenyapkan pandangan makhluk terhadap dirimu dengan pandangan Allah kepadamu. Dan lupakan perhatian mereka, karena engkau sadar bahwa Allah memperhatikanmu.',
-    penjelasan: 'Kesadaran akan pandangan Allah menghapus kepedulian terhadap pandangan manusia.',
-    tags: ['muraqabah', 'ikhlas', 'makhluk', 'allah']
-  },
-  {
-    id: 154, nomor: 154,
-    arab: 'مَنْ عَرَفَ الْحَقَّ شَهِدَهُ فِي كُلِّ شَيْءٍ وَمَنْ فَنِيَ بِهِ غَابَ عَنْ كُلِّ شَيْءٍ',
-    terjemahan: 'Siapa yang mengenal al-Haq (Allah), maka ia akan menyaksikan-Nya pada segala sesuatu. Dan siapa yang fana dengan Allah, maka ia akan hilang dari segala sesuatu.',
-    penjelasan: 'Tiga tingkatan: mengenal Allah dalam segalanya, fana dari segalanya, dan mencintai Allah di atas segalanya.',
-    tags: ['marifat', 'fana', 'mahabbah', 'syuhud']
-  },
-  {
-    id: 155, nomor: 155,
-    arab: 'إِنَّمَا حَجَبَ الْحَقَّ عَنْكَ شِدَّةُ قُرْبِهِ مِنْكَ',
-    terjemahan: 'Sesungguhnya terhijabnya Allah dari penglihatanmu adalah karena begitu dekatnya Dia denganmu.',
-    penjelasan: 'Paradoks spiritual: Allah tersembunyi bukan karena jauh, melainkan karena sangat dekat sehingga kita tidak menyadarinya.',
-    tags: ['hijab', 'kedekatan', 'allah', 'paradoks']
-  },
-  {
-    id: 156, nomor: 156,
-    arab: 'إِنَّمَا احْتَجَبَ لِشِدَّةِ ظُهُورِهِ وَخَفِيَ عَنِ الأَبْصَارِ لِعِظَمِ نُورِهِ',
-    terjemahan: 'Karena terlalu nyatanya (cahaya) Allah, sampai-sampai kita merasa Dia terhijab. Dan karena kuatnya cahaya Allah itulah, maka Dia pun tersembunyi dari penglihatan.',
-    penjelasan: 'Cahaya Allah yang terlalu kuat itulah yang justru membuatnya tidak tertangkap oleh penglihatan biasa.',
-    tags: ['cahaya', 'allah', 'hijab', 'zhuhur']
-  },
-  {
-    id: 157, nomor: 157,
-    arab: 'لَا يَكُنْ طَلَبُكَ لِلْعَطَاءِ مِنْهُ فَيَقِلَّ فَهْمُكَ عَنْهُ وَلْيَكُنْ طَلَبُكَ لِإِظْهَارِ الْعُبُودِيَّةِ وَالْقِيَامِ بِحُقُوقِ الرُّبُوبِيَّةِ',
-    terjemahan: 'Janganlah permohonanmu jadikan sebab untuk memperoleh pemberian-Nya, karena pemahamanmu mengenai Dia menjadi berkurang. Tapi jadikanlah permohonanmu semata demi menunjukkan penghambaanmu.',
-    penjelasan: 'Doa yang benar bukan untuk mendapat sesuatu, melainkan untuk mengungkapkan penghambaan dan memenuhi hak-hak Allah.',
-    tags: ['doa', 'ubudiyah', 'ikhlas', 'motif']
-  },
-  {
-    id: 158, nomor: 158,
-    arab: 'كَيْفَ يَكُونُ طَلَبُكَ اللَّاحِقُ سَبَبًا لِعَطَائِهِ السَّابِقِ',
-    terjemahan: 'Bagaimana mungkin permohonanmu yang datang belakangan menjadi sebab bagi pemberian Allah yang telah jauh hari diputuskan?',
-    penjelasan: 'Pemberian Allah sudah diputuskan sejak azali. Doa bukan penyebab pemberian, melainkan sarana untuk menyempurnakan penghambaan.',
-    tags: ['takdir', 'doa', 'azali', 'sebab']
-  },
-  {
-    id: 159, nomor: 159,
-    arab: 'جَلَّ حُكْمُ الأَزَلِ أَنْ يَنْضَافَ إِلَى الْعِلَلِ',
-    terjemahan: 'Hukum azali itu terbebas dari bergantung kepada sebab akibat.',
-    penjelasan: 'Ketetapan Allah yang azali tidak bergantung pada sebab apapun dari makhluk. Semua terjadi karena kehendak-Nya semata.',
-    tags: ['azali', 'takdir', 'sebab', 'kehendak-allah']
-  },
-  {
-    id: 160, nomor: 160,
-    arab: 'عِنَايَتُهُ فِيكَ لَمْ تَكُنْ لِشَيْءٍ مِنْكَ',
-    terjemahan: 'Perhatian Allah kepadamu bukanlah karena sesuatu yang timbul dari dirimu. Di manakah engkau ketika perhatian dan pemeliharaan-Nya menemuimu?',
-    penjelasan: 'Karunia Allah mendahului segala amal hamba. Tidak ada sebab dari hamba yang mewajibkan Allah untuk memberi.',
-    tags: ['inayah', 'karunia', 'azali', 'fadhl']
-  },
-  {
-    id: 161, nomor: 161,
-    arab: 'رُبَّمَا دَلَّكَ الأَدَبُ عَلَى تَرْكِ الطَّلَبِ اعْتِمَادًا عَلَى قِسْمَتِهِ',
-    terjemahan: 'Adakalanya adab yang baik justru mendorong orang untuk tidak lagi meminta kepada Allah, karena bersandar pada pembagian-Nya dan terlalu sibuk dalam zikir.',
-    penjelasan: 'Di tingkat tertinggi, diam dari meminta karena ridha dengan qismat Allah adalah lebih tinggi dari banyak meminta.',
-    tags: ['adab', 'ridha', 'qismat', 'zikir']
-  },
-  {
-    id: 162, nomor: 162,
-    arab: 'وُرُودُ الْفَاقَاتِ أَعْيَادُ الْمُرِيدِينَ',
-    terjemahan: 'Datangnya kesulitan merupakan hari raya bagi para murid.',
-    penjelasan: 'Para murid yang arif menyambut kesulitan dengan sukacita karena mengetahui hikmah di baliknya dan kesempatan untuk mendekat kepada Allah.',
-    tags: ['musibah', 'murid', 'hikmah', 'ridha']
-  },
-  {
-    id: 163, nomor: 163,
-    arab: 'مَا وَجَدْتَ مِنَ الزِّيَادَةِ فِي الْفَاقَاتِ مَا لَمْ تَجِدْهُ فِي الصَّوْمِ وَلَا رُبَّ الصَّلَاةِ',
-    terjemahan: 'Bisa jadi engkau memperoleh tambahan karunia dalam kesulitan yang menimpa, yaitu apa yang tidak engkau dapati di dalam puasa maupun shalat.',
-    penjelasan: 'Kesulitan bisa memberi karunia spiritual yang tidak diperoleh dari ibadah biasa. Kesulitan memaksa ketergantungan total kepada Allah.',
-    tags: ['musibah', 'karunia', 'puasa', 'shalat']
-  },
-  {
-    id: 164, nomor: 164,
-    arab: 'الْفَاقَاتُ بُسُطُ الْمَوَاهِبِ',
-    terjemahan: 'Bermacam kesulitan itu merupakan hamparan bagi pemberian (Allah).',
-    penjelasan: 'Kesulitan adalah alas yang di atasnya Allah meletakkan berbagai karunia-Nya.',
-    tags: ['musibah', 'karunia', 'hikmah']
-  },
-  {
-    id: 165, nomor: 165,
-    arab: 'إِنْ أَرَدْتَ وُرُودَ الْمَوَاهِبِ عَلَيْكَ فَصَحِّحِ الْفَقْرَ وَالْفَاقَةَ',
-    terjemahan: 'Apabila engkau menghendaki datangnya pemberian Allah kepadamu, maka bersungguh-sungguhlah dalam merasakan kefakiran dan kesusahan yang engkau alami.',
-    penjelasan: 'Faqr yang sejati membuka pintu karunia Allah. Merasa cukup dan kaya menghalangi datangnya karunia tersebut.',
-    tags: ['faqr', 'karunia', 'pemberian', 'musibah']
-  },
-  {
-    id: 166, nomor: 166,
-    arab: 'تَحَقَّقْ بِأَوْصَافِكَ يُمِدَّكَ بِأَوْصَافِهِ تَحَقَّقْ بِذُلِّكَ يُمِدَّكَ بِعِزِّهِ',
-    terjemahan: 'Sadarilah akan sifat-sifat kekuranganmu, niscaya Allah akan membantumu dengan sifat-sifat-Nya. Akuilah kehinaan dirimu, niscaya Allah akan membantumu dengan kemuliaan-Nya.',
-    penjelasan: 'Semakin hamba menyadari kekurangan dan kelemahannya, semakin besar bantuan Allah yang datang untuk mengisinya.',
-    tags: ['tawadhu', 'kelemahan', 'bantuan-allah', 'karunia']
-  },
-  {
-    id: 167, nomor: 167,
-    arab: 'رُبَّمَا رُزِقَ الْكَرَامَةَ مَنْ لَمْ تَكْمُلْ لَهُ الاِسْتِقَامَةُ',
-    terjemahan: 'Bisa jadi seorang yang belum sempurna istiqomahnya sudah diberi karomah.',
-    penjelasan: 'Karomah bukan selalu tanda kesempurnaan spiritual. Allah bisa memberi karomah kepada siapapun yang Dia kehendaki.',
-    tags: ['karomah', 'istiqomah', 'karunia', 'wali']
-  },
-  {
-    id: 168, nomor: 168,
-    arab: 'مِنْ عَلَامَاتِ إِقَامَةِ الْحَقِّ إِيَّاكَ فِي الشَّيْءِ إِدَامَتُهُ لَكَ فِيهِ مَعَ حُصُولِ النَّتَائِجِ',
-    terjemahan: 'Di antara tanda bahwa Allah telah mengokohkan suatu kedudukan bagimu adalah apabila Dia menahanmu pada posisi itu dan engkau memetik berbagai hasil darinya.',
-    penjelasan: 'Tanda maqam yang benar adalah kelangsungan dan buah yang dihasilkannya. Kondisi yang tidak konsisten belum tentu maqam yang kokoh.',
-    tags: ['maqam', 'istiqomah', 'tanda', 'buah']
-  },
-  {
-    id: 169, nomor: 169,
-    arab: 'مَنْ عَبَّرَ مِنْ بِسَاطِ إِحْسَانِ اللهِ إِلَيْهِ أَصْمَتَتْهُ الإِسَاءَةُ',
-    terjemahan: 'Siapa yang memberi nasihat karena merasa dirinya baik, maka dia akan terdiam oleh kesalahan yang ia lakukan. Sedang siapa yang memberi nasihat karena memandang itu kebaikan dari Allah, maka ia tidak akan terdiam.',
-    penjelasan: 'Nasihat yang lahir dari kesadaran karunia Allah tidak terguncang oleh kesalahan diri sendiri.',
-    tags: ['nasihat', 'ikhlas', 'kesalahan', 'karunia']
-  },
-  {
-    id: 170, nomor: 170,
-    arab: 'تَسْبِقُ أَنْوَارُ الْحُكَمَاءِ أَقْوَالَهُمْ فَحَيْثُ صَارَ التَّنْوِيرُ وَصَلَ التَّعْبِيرُ',
-    terjemahan: 'Cahaya orang-orang bijak mendahului perkataan mereka. Maka di manapun cahaya itu terpancar di batin, sampailah apa yang mereka katakan.',
-    penjelasan: 'Kekuatan kata-kata orang bijak bukan dari retorika, melainkan dari cahaya batin yang mendahuluinya.',
-    tags: ['hikmah', 'cahaya', 'perkataan', 'batin']
-  },
-  {
-    id: 171, nomor: 171,
-    arab: 'كُلُّ كَلَامٍ يَبْرُزُ وَعَلَيْهِ كِسْوَةُ الْقَلْبِ الَّذِي مِنْهُ بَرَزَ',
-    terjemahan: 'Setiap ucapan yang keluar pasti menunjukkan kondisi hati yang mengucapkannya.',
-    penjelasan: 'Kata-kata adalah cermin hati. Hati yang bersih menghasilkan kata-kata yang bersih, dan sebaliknya.',
-    tags: ['perkataan', 'hati', 'akhlak', 'cermin']
-  },
-  {
-    id: 172, nomor: 172,
-    arab: 'مَنْ أُذِنَ لَهُ فِي التَّعْبِيرِ فُهِمَتْ فِي مَسَامِعِ الْخَلْقِ عِبَارَتُهُ',
-    terjemahan: 'Siapa yang telah diberi izin oleh Allah untuk menyampaikan ajaran, maka apa yang diucapkannya akan dapat dipahami oleh yang mendengarnya.',
-    penjelasan: 'Izin dari Allah adalah kunci pemahaman. Kata-kata yang lahir dari izin Allah memiliki daya tembus ke hati pendengar.',
-    tags: ['izin', 'dakwah', 'pemahaman', 'allah']
-  },
-  {
-    id: 173, nomor: 173,
-    arab: 'رُبَّمَا بَرَزَتِ الأَنْوَارُ وَوَجَدَتِ الرَّقَائِكَ مَكْسُوفَةَ الأَنْوَارِ إِذَا لَمْ يُؤْذَنْ فِيهَا بِالإِظْهَارِ',
-    terjemahan: 'Adakalanya cahaya wawasan hakikat itu memudar tatkala engkau belum diberi izin oleh Allah untuk mengungkapkannya.',
-    penjelasan: 'Pengungkapan hakikat membutuhkan izin Allah. Mengungkapkan tanpa izin bisa memadamkan cahaya yang diterima.',
-    tags: ['cahaya', 'izin', 'pengungkapan', 'kasyf']
-  },
-  {
-    id: 174, nomor: 174,
-    arab: 'عِبَارَاتُ أَرْبَابِ الْمَكِنَةِ إِمَّا لِفَيَضَانِ وَجْدٍ أَوْ لِقَصْدِ هِدَايَةِ مُرِيدٍ',
-    terjemahan: 'Apa yang disampaikan oleh mereka bisa jadi karena luapan perasaan yang melimpah di hati, atau untuk memberi petunjuk pada seorang murid.',
-    penjelasan: 'Dua sumber ekspresi spiritual: luapan wajd dari hati, atau niat mendidik murid. Keduanya memiliki tempatnya masing-masing.',
-    tags: ['wajd', 'murid', 'pendidikan', 'spiritual']
-  },
-  {
-    id: 175, nomor: 175,
-    arab: 'الْعِبَارَاتُ لِوُرَثَاءِ الْمُسْتَمِعِينَ وَلَيْسَ لَكَ إِلَّا مَا أَنْتَ لَهُ آكِلٌ',
-    terjemahan: 'Tutur kata yang bijak itu ibarat hidangan makanan bagi mereka yang mendengarkan, dan jatahmu hanyalah apa yang engkau makan darinya.',
-    penjelasan: 'Ilmu dan hikmah hanya bermanfaat sejauh yang kita amalkan. Mendengar banyak tapi tidak mengamalkan hanya mempertebal hujjah.',
-    tags: ['ilmu', 'amal', 'hikmah', 'pendengar']
-  },
-  {
-    id: 176, nomor: 176,
-    arab: 'رُبَّمَا عَبَّرَ عَنِ الْمَقَامِ مَنِ اسْتَشْرَفَ عَلَيْهِ وَرُبَّمَا عَبَّرَ عَنْهُ مَنْ وَصَلَ إِلَيْهِ',
-    terjemahan: 'Bisa jadi orang yang menerangkan suatu maqam adalah orang yang baru ingin sampai. Kadang pula orang itu telah sampai pada maqam yang dimaksud.',
-    penjelasan: 'Tidak mudah membedakan siapa yang sudah mencapai maqam dan siapa yang baru melihatnya dari jauh. Hanya orang yang memiliki bashirah yang bisa membedakannya.',
-    tags: ['maqam', 'bashirah', 'salik', 'perjalanan']
-  },
-  {
-    id: 177, nomor: 177,
-    arab: 'يَنْبَغِي لِلسَّالِكِ أَنْ لَا يُعَبِّرَ عَنْ وَارِدَاتِهِ',
-    terjemahan: 'Tidaklah pantas seorang salik mengungkapkan karunia warid yang telah ia dapatkan, karena yang demikian itu akan mengurangi pengaruh warid dalam hatinya.',
-    penjelasan: 'Menyimpan pengalaman spiritual adalah adab. Mengungkapkannya sembarangan bisa mengurangi kedalaman pengaruhnya pada hati.',
-    tags: ['warid', 'adab', 'salik', 'rahasia']
-  },
-  {
-    id: 178, nomor: 178,
-    arab: 'لَا تَمُدَّنَّ يَدَكَ إِلَى الأَخْذِ مِنَ الْخَلَائِقِ إِلَّا أَنْ تَرَى أَنَّ الْمُعْطِيَ فِيهِمْ مَوْلَاكَ',
-    terjemahan: 'Janganlah sekali-kali kamu ulurkan tangan untuk menerima pemberian dari makhluk, kecuali engkau menyadari bahwa pemberi yang sejati di balik mereka itu ialah Rabbmu.',
-    penjelasan: 'Menerima dari makhluk boleh, asalkan disertai kesadaran bahwa hakikatnya Allah yang memberi melalui mereka.',
-    tags: ['makhluk', 'pemberian', 'tauhid', 'adab']
-  },
-  {
-    id: 179, nomor: 179,
-    arab: 'رُبَّمَا اسْتَحْيَا الْعَارِفُ أَنْ يَرْفَعَ حَاجَتَهُ إِلَى مَوْلَاهُ اكْتِفَاءً بِمَشِيئَتِهِ',
-    terjemahan: 'Terkadang seorang arif merasa malu meminta sesuatu yang ia butuhkan kepada Rabbnya karena telah merasa puas mengikuti kehendak-Nya.',
-    penjelasan: 'Tingkat tertinggi ridha adalah merasa malu untuk meminta karena sudah sangat puas dengan pilihan Allah.',
-    tags: ['ridha', 'malu', 'arif', 'kehendak-allah']
-  },
-  {
-    id: 180, nomor: 180,
-    arab: 'إِذَا الْتَبَسَ عَلَيْكَ أَمْرَانِ فَانْظُرْ أَثْقَلَهُمَا عَلَى النَّفْسِ فَاتَّبِعْهُ',
-    terjemahan: 'Apabila ada dua hal yang membuat kalian bingung, maka perhatikanlah mana yang lebih memberatkan hawa nafsu kalian, lalu ikutilah.',
-    penjelasan: 'Nafsu cenderung memilih yang mudah dan menyenangkan. Sebaliknya, yang lebih berat bagi nafsu biasanya lebih dekat dengan kebenaran.',
-    tags: ['nafsu', 'pilihan', 'kebenaran', 'mujahadah']
-  },
-  {
-    id: 181, nomor: 181,
-    arab: 'مِنْ عَلَامَاتِ اتِّبَاعِ الْهَوَى الْمُسَارَعَةُ إِلَى نَوَافِلِ الْخَيْرَاتِ وَالتَّكَاسُلُ عَنِ الْقِيَامِ بِالْوَاجِبِ',
-    terjemahan: 'Di antara tanda memperturutkan hawa nafsu adalah bergegas dalam amalah sunnah, namun malas dalam melaksanakan amalan wajib.',
-    penjelasan: 'Tanda nafsu: semangat ibadah sunnah karena ada kepuasan, tapi malas kewajiban karena terasa berat.',
-    tags: ['nafsu', 'sunnah', 'wajib', 'ibadah']
-  },
-  {
-    id: 182, nomor: 182,
-    arab: 'قَيَّدَ الطَّاعَاتِ بِأَعْيَانِ الأَوْقَاتِ كَيْ لَا يَمْنَعَكَ عَنْهَا وُجُودُ التَّسْوِيفِ',
-    terjemahan: 'Allah sengaja menetapkan waktu-waktu tertentu untuk beribadah, agar engkau tidak sampai tertinggal karena menunda mengerjakannya.',
-    penjelasan: 'Hikmah ditetapkannya waktu ibadah adalah mencegah penundaan yang menjadi senjata nafsu dan syaitan.',
-    tags: ['waktu', 'ibadah', 'menunda', 'hikmah']
-  },
-  {
-    id: 183, nomor: 183,
-    arab: 'عَلِمَ تَقَاعُسَ الْعِبَادِ إِلَى مُعَامَلَتِهِ فَأَوْجَبَ عَلَيْهِمْ وُجُودَ طَاعَتِهِ',
-    terjemahan: 'Allah Mahamengetahui tentang kemalasan hamba-Nya dalam berhubungan dengan-Nya, sehingga Dia menjadikan ketaatan kepada-Nya sebagai kewajiban.',
-    penjelasan: 'Kewajiban ibadah adalah rahmat Allah. Tanpa kewajiban, manusia yang malas tidak akan pernah mendekat kepada-Nya.',
-    tags: ['kewajiban', 'ibadah', 'rahmat', 'malas']
-  },
-  {
-    id: 184, nomor: 184,
-    arab: 'مَنِ اسْتَغْرَبَ أَنْ يُنْقِذَهُ اللهُ مِنْ شَهْوَتِهِ وَأَنْ يُخْرِجَهُ مِنْ وُجُودِ غَفْلَتِهِ فَقَدِ اسْتَعْجَزَ الْقُدْرَةَ الإِلَهِيَّةَ',
-    terjemahan: 'Barangsiapa yang merasa heran kalau Allah sampai menyelamatkannya dari pengaruh buruk syahwatnya atau mengentaskannya dari jerat kelalaian, maka berarti ia telah menganggap lemah kekuasaan Allah.',
-    penjelasan: 'Tidak ada yang mustahil bagi Allah. Meragukan kemampuan Allah untuk menyelamatkan hamba dari syahwat dan kelalaian adalah su\'udzan kepada Allah.',
-    tags: ['syahwat', 'kelalaian', 'kekuasaan-allah', 'taubat']
-  },
-  {
-    id: 185, nomor: 185,
-    arab: 'رُبَّمَا وَرَدَتِ الظُّلْمَةُ عَلَيْكَ لِيُعَرِّفَكَ قَدْرَ مَا مَنَّ بِهِ عَلَيْكَ',
-    terjemahan: 'Kadang kegelapan mendatangimu, karena Allah hendak menyadarkanmu atas besarnya nikmat yang telah Dia berikan kepadamu.',
-    penjelasan: 'Kegelapan spiritual yang datang sementara adalah cara Allah mengajari nilai nikmat cahaya yang biasa diterima.',
-    tags: ['kegelapan', 'nikmat', 'hikmah', 'syukur']
-  },
-  {
-    id: 186, nomor: 186,
-    arab: 'مَنْ لَمْ يَعْرِفْ قَدْرَ النِّعَمِ بِوِجْدَانِهَا عَرَفَهَا بِوُجُودِ فُقْدَانِهَا',
-    terjemahan: 'Orang yang tidak mengetahui nilai nikmat tatkala memperolehnya, maka ia akan mengetahuinya tatkala sudah terlepas dari dirinya.',
-    penjelasan: 'Manusia sering baru menyadari nilai nikmat setelah kehilangan. Ini pelajaran agar selalu bersyukur saat nikmat masih ada.',
-    tags: ['nikmat', 'syukur', 'kehilangan', 'pelajaran']
-  },
-  {
-    id: 187, nomor: 187,
-    arab: 'لَا تُدْهِشَنَّكَ وَارِدَاتُ النِّعَمِ عَنِ الْقِيَامِ بِحُقُوقِ شُكْرِكَ',
-    terjemahan: 'Janganlah datangnya nikmat malah membuatmu panik untuk memenuhi kewajiban syukurmu, karena itu bisa merendahkan kedudukanmu.',
-    penjelasan: 'Menerima nikmat dengan tenang dan segera bersyukur lebih baik dari menerima dengan tergagap-gagap.',
-    tags: ['nikmat', 'syukur', 'adab', 'tenang']
-  },
-  {
-    id: 188, nomor: 188,
-    arab: 'الدَّاءُ الْعُضَالُ تَمَكُّنُ حَلَاوَةِ الْهَوَى مِنَ الْقَلْبِ',
-    terjemahan: 'Manisnya hawa nafsu yang telah menguasai qalbu adalah penyakit yang sangat sulit untuk disembuhkan.',
-    penjelasan: 'Penyakit hati yang paling berbahaya adalah ketika nafsu sudah terasa manis dan menyenangkan. Ini jauh lebih sulit disembuhkan dari penyakit jasmani apapun.',
-    tags: ['nafsu', 'hati', 'penyakit', 'mujahadah']
-  },
-  {
-    id: 189, nomor: 189,
-    arab: 'لَا يُخْرِجُ الشَّهْوَةَ مِنَ الْقَلْبِ إِلَّا خَوْفٌ مُزْعِجٌ أَوْ شَوْقٌ مُقْلِقٌ',
-    terjemahan: 'Tidak ada yang bisa mengusir ajakan syahwat dari hati, kecuali rasa takut kepada Allah yang menggetarkan atau rasa rindu kepada Allah yang menggelisahkan.',
-    penjelasan: 'Dua obat syahwat: khauf yang kuat atau syauq yang menggelisahkan. Keduanya adalah karunia dari Allah.',
-    tags: ['syahwat', 'khauf', 'syauq', 'obat-hati']
-  },
-  {
-    id: 190, nomor: 190,
-    arab: 'الْعَمَلُ الْمُشْتَرَكُ كَمَا لَا يُحِبُّهُ الْقَلْبُ لَا يَقْبَلُهُ الْحَقُّ',
-    terjemahan: 'Sebagaimana Allah tidak menyukai amal yang tidak sepenuhnya bagi-Nya, Allah juga tidak menyukai hati yang tidak sepenuhnya bagi-Nya.',
-    penjelasan: 'Kesempurnaan ibadah membutuhkan keselarasan antara amal lahir dan hati. Amal tanpa hati yang tulus tidak diterima Allah.',
-    tags: ['amal', 'hati', 'ikhlas', 'penerimaan']
-  },
-  {
-    id: 191, nomor: 191,
-    arab: 'أَنْوَارٌ أُذِنَ لَهَا فِي الْوُصُولِ وَأَنْوَارٌ أُذِنَ لَهَا فِي الدُّخُولِ',
-    terjemahan: 'Ada cahaya yang hanya diizinkan Allah untuk sampai ke hati, dan ada pula cahaya yang diizinkan Allah untuk masuk ke dalam hati.',
-    penjelasan: 'Dua tingkatan cahaya: yang hanya mencapai permukaan hati (wushul) dan yang menembus masuk ke dalam (dukhuul).',
-    tags: ['cahaya', 'hati', 'tingkatan', 'spiritual']
-  },
-  {
-    id: 192, nomor: 192,
-    arab: 'رُبَّمَا وَرَدَتْ عَلَيْكَ الأَنْوَارُ فَوَجَدَتِ الْقَلْبَ مَحْشُوًّا بِصُوَرِ الآثَارِ فَارْتَدَّتْ',
-    terjemahan: 'Kadang cahaya-cahaya mendatangimu, namun mereka menemukan hatimu masih dipenuhi dengan hal-hal yang bersifat duniawi. Maka cahaya-cahaya itu kembali ke tempat semula.',
-    penjelasan: 'Hati yang penuh dengan dunia tidak bisa menerima cahaya ilahi. Kosongkan hati dari selain Allah agar cahaya bisa masuk.',
-    tags: ['cahaya', 'hati', 'dunia', 'kosong']
-  },
-  {
-    id: 193, nomor: 193,
-    arab: 'فَفَرِّغِ الْقَلْبَ مِنَ الأَغْيَارِ تَمْلَأْهُ بِالْمَعَارِفِ وَالأَسْرَارِ',
-    terjemahan: 'Kosongkanlah hatimu dari selain Allah, agar hati itu dipenuhi dengan ilmu ma\'rifat dan berbagai rahasia.',
-    penjelasan: 'Pengosongan hati dari dunia adalah syarat terisinya hati dengan cahaya dan rahasia ilahi.',
-    tags: ['hati', 'kosong', 'marifat', 'rahasia']
-  },
-  {
-    id: 194, nomor: 194,
-    arab: 'لَا تَسْتَبْطِئْ مِنْهُ النَّوَالَ وَلَكِنِ اسْتَبْطِئْ مِنْ نَفْسِكَ وُجُودَ الإِقْبَالِ',
-    terjemahan: 'Jangan merasa karunia Allah lambat datang kepadamu, akan tetapi tengoklah dirimu yang lambat menghadap pada-Nya.',
-    penjelasan: 'Keterlambatan karunia bukan dari Allah, melainkan dari lambatnya hamba menghadap kepada-Nya dengan sungguh-sungguh.',
-    tags: ['karunia', 'lambat', 'muhasabah', 'iqbal']
-  },
-  {
-    id: 195, nomor: 195,
-    arab: 'حُقُوقٌ فِي الأَوْقَاتِ يُمْكِنُ قَضَاؤُهَا وَحُقُوقٌ فِي الأَوْقَاتِ لَا يُمْكِنُ قَضَاؤُهَا',
-    terjemahan: 'Beberapa kewajiban dalam satu waktu bisa diqadha, namun tidak mungkin untuk mengqadha kewajiban waktu itu sendiri.',
-    penjelasan: 'Waktu yang berlalu tidak bisa dikembalikan. Kewajiban khusus setiap waktu harus ditunaikan tepat waktunya.',
-    tags: ['waktu', 'kewajiban', 'qadha', 'hak']
-  },
-  {
-    id: 196, nomor: 196,
-    arab: 'مَا فَاتَكَ مِنْ عُمُرِكَ لَا عِوَضَ لَهُ وَمَا حَصَلَ لَكَ مِنْهُ لَا قِيمَةَ لَهُ',
-    terjemahan: 'Bagian hidupmu yang telah berlalu tidak dapat tergantikan, dan apa yang engkau petik darinya tidak ternilai harganya.',
-    penjelasan: 'Waktu adalah modal yang paling berharga dan tidak bisa digantikan. Setiap momen yang dimanfaatkan dengan baik memiliki nilai tak terhingga.',
-    tags: ['waktu', 'umur', 'amal', 'berharga']
-  },
-  {
-    id: 197, nomor: 197,
-    arab: 'لَا أَحْبَبْتَ شَيْئًا إِلَّا كُنْتَ لَهُ عَبْدًا وَهُوَ لَا يُحِبُّ أَنْ تَكُونَ لِغَيْرِهِ عَبْدًا',
-    terjemahan: 'Tidak engkau mencintai sesuatu, selain engkau menjadi hambanya, dan Allah tidak suka apabila engkau menjadi hamba selain-Nya.',
-    penjelasan: 'Setiap kecintaan adalah bentuk perbudakan. Allah tidak ridha hambanya diperbudak oleh apapun selain-Nya.',
-    tags: ['mahabbah', 'hamba', 'tauhid', 'cinta']
-  },
-  {
-    id: 198, nomor: 198,
-    arab: 'لَا تَنْفَعُهُ طَاعَتُكَ وَلَا تَضُرُّهُ مَعْصِيَتُكَ وَإِنَّمَا أَمَرَكَ بِهَذِهِ وَنَهَاكَ عَنْ هَذِهِ لِمَا يَعُودُ عَلَيْكَ',
-    terjemahan: 'Ketaatanmu tidaklah berguna bagi-Nya, dan kemaksiatan yang engkau lakukan pun juga tidak membahayakan-Nya. Dia menyuruh berbuat ini dan melarang berbuat itu adalah demi kepentingan dirimu sendiri.',
-    penjelasan: 'Perintah dan larangan Allah bukan untuk kepentingan-Nya, melainkan semua untuk kebaikan hamba. Allah Maha Kaya dan tidak butuh apapun.',
-    tags: ['perintah', 'larangan', 'manfaat', 'hikmah']
-  },
-  {
-    id: 199, nomor: 199,
-    arab: 'لَا يَزِيدُ فِي عِزِّهِ إِقْبَالُ مَنْ أَقْبَلَ وَلَا يَنْقُصُ مِنْ عِزِّهِ إِدْبَارُ مَنْ أَدْبَرَ',
-    terjemahan: 'Tidaklah bertambah kemuliaan Allah karena seseorang mendekat kepada-Nya, dan tidak berkurang kemuliaan-Nya karena seseorang menjauhi-Nya.',
-    penjelasan: 'Allah Maha Sempurna dan tidak butuh apapun dari makhluk. Mendekat atau menjauhi Allah hanya berdampak pada hamba, bukan pada Allah.',
-    tags: ['kemuliaan-allah', 'tauhid', 'ibadah', 'manfaat']
-  },
-  {
-    id: 200, nomor: 200,
-    arab: 'وُصُولُكَ إِلَى اللهِ وُصُولُكَ إِلَى الْعِلْمِ بِهِ',
-    terjemahan: 'Sampaimu kepada Allah berarti sampaimu kepada ilmu tentang-Nya.',
-    penjelasan: 'Wushul kepada Allah bukan berarti bersatu secara fisik, melainkan sampainya pada makrifat yang sempurna tentang Allah.',
-    tags: ['wushul', 'marifat', 'ilmu', 'tauhid']
-  },
-  {
-    id: 201, nomor: 201,
-    arab: 'قُرْبُكَ مِنْهُ أَنْ تَكُونَ مُشَاهِدًا لِقُرْبِهِ وَإِلَّا فَمِنْ أَيْنَ أَنْتَ وَوُجُودُ قُرْبِهِ',
-    terjemahan: 'Kedekatanmu dengan-Nya adalah kalau engkau merenungkan kedekatan-Nya kepadamu. Kalau tidak demikian, dari mana engkau tahu wujud kedekatan-Nya?',
-    penjelasan: 'Kedekatan hakiki bukan dari sisi hamba, melainkan menyadari kedekatan Allah kepada hamba. Hamba yang menyadari ini barulah benar-benar dekat.',
-    tags: ['kedekatan', 'syuhud', 'marifat', 'allah']
-  },
-  {
-    id: 202, nomor: 202,
-    arab: 'الْحَقَائِقُ تَرِدُ فِي حَالِ التَّجَلِّي مُجْمَلَةً جَلِيَّةً وَبَعْدَ الْوَعْيِ يَكُونُ الْبَيَانُ',
-    terjemahan: 'Hakikat-hakikat batin itu muncul pada kondisi tajalli secara singkat, namun penjelasannya muncul setelah datang keterangan.',
-    penjelasan: 'Pengalaman spiritual datang sekilas dan menyeluruh. Pemahaman yang terinci baru datang setelah perenungan mendalam.',
-    tags: ['tajalli', 'kasyf', 'pemahaman', 'bayan']
-  },
-  {
-    id: 203, nomor: 203,
-    arab: 'مَتَى وَرَدَتِ الْوَارِدَاتُ الإِلَهِيَّةُ إِلَيْكَ هَدَمَتِ الْعَوَائِدَ عَلَيْكَ',
-    terjemahan: 'Apabila datang inspirasi ilahiyah kepadamu, maka itu akan menghancurkan kebiasaan-kebiasaanmu.',
-    penjelasan: 'Karunia ilahi yang datang akan merobohkan kebiasaan lama yang menghalangi. Seperti raja yang masuk dan merubah tatanan.',
-    tags: ['warid', 'kebiasaan', 'perubahan', 'ilahi']
-  },
-  {
-    id: 204, nomor: 204,
-    arab: 'الْوَارِدُ يَأْتِي مِنْ حَضْرَةِ قَاهِرٍ لِأَجْلِ ذَلِكَ لَا يُصَادِمُهُ شَيْءٌ إِلَّا دَمَغَهُ',
-    terjemahan: 'Inspirasi qalbu (al-warid) itu berasal dari hadirat Yang Mahakuasa. Siapa saja yang berhadapan dengan-Nya pasti akan dimusnahkan.',
-    penjelasan: 'Warid yang datang dari Allah memiliki kekuatan yang tidak bisa ditahan oleh apapun. Kebatilan pasti kalah di hadapannya.',
-    tags: ['warid', 'kekuatan', 'qahhar', 'kebenaran']
-  },
-  {
-    id: 205, nomor: 205,
-    arab: 'كَيْفَ يَحْتَجِبُ الْحَقُّ بِشَيْءٍ وَهُوَ فِيهِ ظَاهِرٌ وَمَوْجُودٌ حَاضِرٌ',
-    terjemahan: 'Mana mungkin Allah dapat terhalangi oleh sesuatu, padahal Dia Tampak, Maujud, dan Hadir dalam apa yang dianggap sebagai hijab itu.',
-    penjelasan: 'Paradoks final: yang dijadikan hijab dari Allah justru adalah manifestasi Allah sendiri. Tidak ada yang benar-benar menghalangi Allah.',
-    tags: ['hijab', 'tauhid', 'hadir', 'paradoks']
-  },
-  {
-    id: 206, nomor: 206,
-    arab: 'لَا تَيْأَسْ مِنْ قَبُولِ عَمَلٍ لَمْ تَجِدْ فِيهِ وُجُودَ الْحُضُورِ',
-    terjemahan: 'Janganlah berputus asa atas tidak diterimanya suatu amal yang hatimu tidak hadir saat melakukannya. Boleh jadi Allah menerima suatu amalan meskipun buahnya tidak langsung terasa.',
-    penjelasan: 'Amal yang dilakukan dengan hati tidak hadir tidak boleh menimbulkan putus asa. Allah bisa menerima amal meskipun hati tidak hadir penuh.',
-    tags: ['amal', 'hudur', 'putus-asa', 'harapan']
-  },
-  {
-    id: 207, nomor: 207,
-    arab: 'لَا تُزَكِّيَنَّ وَارِدًا لَا تَعْلَمُ ثَمَرَتَهُ',
-    terjemahan: 'Janganlah engkau merasa senang karena datangnya suatu warid yang buahnya belum engkau ketahui. Sebab yang diharapkan dari gumpalan awan bukanlah akan turun hujan, melainkan tumbuhnya buah-buahan.',
-    penjelasan: 'Karunia warid dinilai dari buah yang dihasilkannya, bukan dari perasaan senang saat menerimanya.',
-    tags: ['warid', 'buah', 'ujian', 'hikmah']
-  },
-  {
-    id: 208, nomor: 208,
-    arab: 'لَا تَطْلُبْ بَقَاءَ الْوَارِدَاتِ بَعْدَ أَنْ بَسَطَتْ أَنْوَارَهَا وَأَوْدَعَتْ أَسْرَارَهَا',
-    terjemahan: 'Jangan sekali-kali menuntut kekalnya inspirasi qalbu setelah cahayanya melimpah kepadamu dan engkau mendapatkan rahasia-rahasianya. Cukuplah Allah untukmu dari segala sesuatu.',
-    penjelasan: 'Menuntut keabadian warid adalah tamak secara spiritual. Setelah warid memberi buahnya, biarkan ia berlalu dan cukupkanlah dengan Allah.',
-    tags: ['warid', 'tamak', 'ridha', 'kecukupan']
-  },
-  {
-    id: 209, nomor: 209,
-    arab: 'تَطَلُّعُكَ إِلَى بَقَاءِ غَيْرِهِ دَلِيلٌ عَلَى عَدَمِ وِصْلَتِكَ بِهِ',
-    terjemahan: 'Keinginanmu akan tetapnya sesuatu selain Allah menunjukkan bahwa engkau belum menemukannya. Dan kegelisahanmu terhadap hilangnya sesuatu selain-Nya adalah bukti kalau engkau belum sampai kepada-Nya.',
-    penjelasan: 'Keterikatan pada apapun selain Allah adalah tanda belum sempurnanya wushul. Yang sudah sampai kepada Allah tidak akan gelisah kehilangan apapun.',
-    tags: ['wushul', 'keterikatan', 'marifat', 'ridha']
-  },
-  {
-    id: 210, nomor: 210,
-    arab: 'النَّعِيمُ وَإِنْ تَنَوَّعَتْ مَظَاهِرُهُ إِنَّمَا هُوَ بِوُجُودِ شُهُودِهِ وَالْعَذَابُ وَإِنْ تَنَوَّعَتْ مَظَاهِرُهُ إِنَّمَا هُوَ بِوُجُودِ الْحِجَابِ',
-    terjemahan: 'Kenikmatan sejati, kendati bermacam bentuknya, sesungguhnya hanyalah dengan menyaksikan dan mendekat kepada Allah. Dan azab itu, walau beragam jenisnya, sesungguhnya hanyalah disebabkan adanya hijab.',
-    penjelasan: 'Hakikat surga adalah menyaksikan Allah, dan hakikat neraka adalah terhijab dari-Nya. Ini berlaku di dunia maupun akhirat.',
-    tags: ['nikmat', 'azab', 'hijab', 'syuhud']
-  },
-  {
-    id: 211, nomor: 211,
-    arab: 'مَا تَجِدُهُ الْقُلُوبُ مِنَ الْهُمُومِ وَالأَحْزَانِ فَلِأَجْلِ مَا مُنِعَتْهُ مِنْ وُجُودِ الْعِيَانِ',
-    terjemahan: 'Kalau hati masih merasa risau dan sedih, itu karena masih ada yang menghalangi pandangan batin terhadap Allah.',
-    penjelasan: 'Akar kegelisahan hati adalah terhalangnya dari menyaksikan Allah. Obat satu-satunya adalah menghilangkan hijab tersebut.',
-    tags: ['kesedihan', 'hati', 'hijab', 'syuhud']
-  },
-  {
-    id: 212, nomor: 212,
-    arab: 'مِنْ تَمَامِ النِّعْمَةِ عَلَيْكَ أَنْ يَرْزُقَكَ مَا يَكْفِيكَ وَيَمْنَعَكَ مَا يُطْغِيكَ',
-    terjemahan: 'Diantara kesempurnaan nikmat Allah kepadamu adalah jika Dia memberimu rezeki yang dapat mencukupimu, dan mencegahmu dari apa yang membuatmu lepas kendali.',
-    penjelasan: 'Nikmat yang sempurna bukan nikmat yang banyak, melainkan nikmat yang cukup dan tidak melalaikan.',
-    tags: ['nikmat', 'rezeki', 'qanaah', 'kesempurnaan']
-  },
-  {
-    id: 213, nomor: 213,
-    arab: 'لِيَقِلَّ مَا تَحْزَنُ عَلَيْهِ كُلَّمَا قَلَّ مَا تَفْرَحُ بِهِ',
-    terjemahan: 'Kala berkurang apa yang membuatmu senang, maka kuranglah pula apa yang engkau sedihkan.',
-    penjelasan: 'Zuhud yang mengurangi kesenangan duniawi secara otomatis juga mengurangi kesedihan duniawi. Keduanya selalu seimbang.',
-    tags: ['zuhud', 'senang', 'sedih', 'keseimbangan']
-  },
-  {
-    id: 214, nomor: 214,
-    arab: 'إِنْ أَرَدْتَ أَنْ لَا تُعْزَلَ فَلَا تَتَوَلَّ وِلَايَةً لَا تَدُومُ لَكَ',
-    terjemahan: 'Bila engkau tidak ingin tergeser, maka jangan memangku jabatan yang tidak abadi bagimu.',
-    penjelasan: 'Bergantung pada jabatan dan kedudukan duniawi adalah sumber kesedihan karena semua itu tidak abadi.',
-    tags: ['jabatan', 'zuhud', 'keabadian', 'dunia']
-  },
-  {
-    id: 215, nomor: 215,
-    arab: 'إِنْ دَعَاكَ إِلَيْهَا الْبِدَايَاتُ زَهَّدَتْكَ فِيهَا النِّهَايَاتُ',
-    terjemahan: 'Jika di permulaan membuatmu tertarik, maka kesudahannya akan membuatmu jemu. Jika secara lahir memikatmu, maka batinnya akan mencegahmu.',
-    penjelasan: 'Dunia selalu menipu di awal dan mengecewakan di akhir. Inilah sifat hakiki dunia yang harus disadari.',
-    tags: ['dunia', 'tipu', 'zuhud', 'akhir']
-  },
-  {
-    id: 216, nomor: 216,
-    arab: 'إِنَّمَا جَعَلَهَا مَحَلًّا لِلأَغْيَارِ وَمَعْدِنًا لِلأَكْدَارِ تَزْهِيدًا فِيهَا',
-    terjemahan: 'Allah sengaja menciptakan dunia ini sebagai tempat perubahan dan sumber kerusuhan, agar kalian merasa jemu di dunia.',
-    penjelasan: 'Kerusuhan dan ketidakstabilan dunia adalah desain Allah untuk menumbuhkan zuhud pada diri hamba.',
-    tags: ['dunia', 'zuhud', 'hikmah', 'fana']
-  },
-  {
-    id: 217, nomor: 217,
-    arab: 'عَلِمَ أَنَّكَ لَا تَقْبَلُ النَّصِيحَةَ الْمُجَرَّدَةَ فَذَوَّقَكَ مِنْ ذَوَاقِهَا مَا يُسَهِّلُ عَلَيْكَ وُجُودَ فِرَاقِهَا',
-    terjemahan: 'Allah tahu bahwa engkau tidak akan menerima nasihat belaka, maka Dia mencicipkanmu citarasa dunia agar engkau mudah berpisah darinya.',
-    penjelasan: 'Allah memberi pengalaman langsung tentang pahit getir dunia sebagai nasihat yang lebih efektif dari kata-kata.',
-    tags: ['dunia', 'pengalaman', 'zuhud', 'hikmah']
-  },
-  {
-    id: 218, nomor: 218,
-    arab: 'الْعِلْمُ النَّافِعُ هُوَ الَّذِي يَنْبَسِطُ فِي الصَّدْرِ شُعَاعُهُ وَيُكْشَفُ بِهِ عَنِ الْقَلْبِ قِنَاعُهُ',
-    terjemahan: 'Ilmu yang bermanfaat adalah yang cahayanya memancar ke dalam dada, dan yang dengannya tersingkap selubung yang menutupi hati.',
-    penjelasan: 'Ilmu yang benar bukan yang hanya di kepala, melainkan yang memancar ke dada dan menyingkap tirai dari hati.',
-    tags: ['ilmu', 'cahaya', 'hati', 'manfaat']
-  },
-  {
-    id: 219, nomor: 219,
-    arab: 'خَيْرُ عِلْمٍ مَا كَانَتِ الْخَشْيَةُ مَعَهُ',
-    terjemahan: 'Sebaik-baik ilmu adalah yang diiringi oleh rasa takut kepada Allah.',
-    penjelasan: 'Ilmu tanpa khasyah adalah ilmu yang mati. Tanda ilmu yang hidup adalah munculnya rasa takut kepada Allah.',
-    tags: ['ilmu', 'khasyah', 'takut', 'akhlak']
-  },
-  {
-    id: 220, nomor: 220,
-    arab: 'الْعِلْمُ إِنْ قَارَنَتْهُ الْخَشْيَةُ فَلَكَ وَإِلَّا فَعَلَيْكَ',
-    terjemahan: 'Ilmu, apabila disertai dengan rasa takut kepada Allah, maka itu akan mendatangkan kebaikan bagimu. Dan bila tidak, maka itu akan merugikanmu.',
-    penjelasan: 'Ilmu adalah pedang bermata dua. Dengan khasyah ia menjadi penyelamat, tanpa khasyah ia menjadi beban dan hujjah.',
-    tags: ['ilmu', 'khasyah', 'manfaat', 'bahaya']
-  },
-  {
-    id: 221, nomor: 221,
-    arab: 'إِذَا عَدَمَ إِقْبَالُ النَّاسِ عَلَيْكَ أَوْ تَوَجُّهُهُمْ بِالذَّمِّ إِلَيْكَ فَارْجِعْ إِلَى عِلْمِ اللهِ فِيكَ',
-    terjemahan: 'Kala engkau sakit hati karena orang-orang tidak menghiraukanmu atau mereka acuh dan mencelamu, maka kembalilah kepada ilmu Allah tentang dirimu.',
-    penjelasan: 'Obat dari sakit hati karena manusia adalah kembali kepada ilmu Allah. Allah tahu siapa kita sebenarnya, dan itu lebih penting dari penilaian manusia.',
-    tags: ['celaan', 'sakit-hati', 'ilmu-allah', 'ridha']
-  },
-  {
-    id: 222, nomor: 222,
-    arab: 'إِنَّمَا أَجْرَى الأَذَى عَلَى أَيْدِيهِمْ كَيْ لَا تَكُونَ سَاكِنًا إِلَيْهِمْ',
-    terjemahan: 'Allah sengaja menciptakan gangguan terhadapmu melalui tangan mereka, supaya engkau tidak menyerah tunduk pada mereka. Allah ingin membuatmu jemu terhadap segala sesuatu.',
-    penjelasan: 'Gangguan dari manusia adalah cara Allah agar hamba tidak bergantung pada makhluk dan kembali kepada-Nya.',
-    tags: ['gangguan', 'makhluk', 'hikmah', 'tawakkal']
-  },
-  {
-    id: 223, nomor: 223,
-    arab: 'إِذَا عَلِمْتَ أَنَّ الشَّيْطَانَ لَا يَغْفُلُ عَنْكَ فَلَا تَغْفُلْ أَنْتَ عَمَّنْ نَاصِيَتُكَ بِيَدِهِ',
-    terjemahan: 'Seandainya engkau tahu bahwa syaitan tidak pernah sekejap pun lupa kepadamu, maka janganlah sekejap pun engkau lupa kepada Allah yang nasibmu berada dalam kekuasaan-Nya.',
-    penjelasan: 'Jika musuh tidak pernah lalai, maka kita pun tidak boleh lalai dari Yang Maha Melindungi. Ini adalah logika kewaspadaan spiritual.',
-    tags: ['syaitan', 'lalai', 'muraqabah', 'waspada']
-  },
-  {
-    id: 224, nomor: 224,
-    arab: 'إِنَّمَا جَعَلَ الشَّيْطَانَ عَدُوًّا لَكَ لِيَحُوشَكَ بِهِ إِلَيْهِ وَحَرَّكَ عَلَيْكَ النَّفْسَ لِيَتَصِلَ إِقْبَالُكَ عَلَيْهِ',
-    terjemahan: 'Allah sengaja menjadikan syetan sebagai musuhmu karena Dia ingin menuntunmu menuju kepada-Nya. Dan Allah menggerakkan hawa nafsumu agar engkau senantiasa menghadap-Nya.',
-    penjelasan: 'Hikmah adanya syetan dan nafsu adalah agar hamba selalu terdorong untuk meminta perlindungan dan bantuan dari Allah.',
-    tags: ['syaitan', 'nafsu', 'hikmah', 'mendekat']
-  },
-  {
-    id: 225, nomor: 225,
-    arab: 'مَتَى أَثْبَتَ لِنَفْسِهِ تَوَاضُعًا فَهُوَ الْمُتَكَبِّرُ حَقًّا',
-    terjemahan: 'Siapa yang merasa dirinya tawadhu\', berarti ia orang yang sombong. Sebab anggapan diri tawadhu\' tidak akan muncul kecuali dari sikap tinggi hati.',
-    penjelasan: 'Tawadhu\' yang disadari dan diklaim adalah bentuk kesombongan yang tersembunyi. Tawadhu\' sejati tidak menyadari dirinya tawadhu\'.',
-    tags: ['tawadhu', 'sombong', 'hakikat', 'ujub']
-  },
-  {
-    id: 226, nomor: 226,
-    arab: 'وَلَكِنَّ الْمُتَوَاضِعَ الَّذِي إِذَا تَوَاضَعَ رَأَى أَنَّهُ دُونَ مَا صَنَعَ',
-    terjemahan: 'Orang tawadhu\' itu adalah yang meski ia tawadhu\' tapi merasa dirinya kurang dengan apa yang telah ia perbuat.',
-    penjelasan: 'Tawadhu\' sejati adalah merasa bahwa tawadhu\' yang dilakukan masih belum cukup, dan diri masih belum layak.',
-    tags: ['tawadhu', 'hakikat', 'rendah-hati', 'diri']
-  },
-  {
-    id: 227, nomor: 227,
-    arab: 'التَّوَاضُعُ الْحَقِيقِيُّ هُوَ مَا كَانَ نَاشِئًا عَنْ شُهُودِ عَظَمَتِهِ وَتَجَلِّي صِفَتِهِ',
-    terjemahan: 'Sikap tawadhu\' yang sejati timbul dari menyadari akan keagungan Allah dan sifat-sifat-Nya yang begitu nyata.',
-    penjelasan: 'Tawadhu\' yang lahir dari menyaksikan keagungan Allah adalah tawadhu\' yang abadi dan tidak tergoyahkan.',
-    tags: ['tawadhu', 'keagungan-allah', 'syuhud', 'hakikat']
-  },
-  {
-    id: 228, nomor: 228,
-    arab: 'لَا يُخْرِجُكَ عَنِ الْوَصْفِ إِلَّا شُهُودُ الْوَصْفِ',
-    terjemahan: 'Tidak ada yang dapat melepaskanmu dari sifat burukmu, kecuali bila engkau menyadari sifat agung yang ada di sisi Allah.',
-    penjelasan: 'Obat dari sifat buruk bukan dengan berjuang melawannya secara langsung, melainkan dengan menyaksikan sifat sempurna Allah yang membuat sifat buruk itu terasa hina.',
-    tags: ['sifat-buruk', 'syuhud', 'sifat-allah', 'tazkiyah']
-  },
-  {
-    id: 229, nomor: 229,
-    arab: 'الْمُؤْمِنُ يَشْغَلُهُ الثَّنَاءُ عَلَى اللهِ أَنْ يَكُونَ لِحُظُوظِهِ شَاكِرًا وَتَشْغَلُهُ حُقُوقُ اللهِ أَنْ يَكُونَ لِنَفْسِهِ ذَاكِرًا',
-    terjemahan: 'Seorang mukmin itu suka menyibukkan diri menyanjung Allah, sehingga tidak sempat untuk memuji dirinya sendiri. Dan ia sibuk menunaikan kewajiban kepada Allah, sehingga ia lupa akan porsi untuk dirinya sendiri.',
-    penjelasan: 'Dua ciri mukmin sejati: sibuk memuji Allah sehingga tidak memuji diri, dan sibuk dengan hak Allah sehingga tidak memikirkan diri.',
-    tags: ['mukmin', 'pujian', 'ikhlas', 'kewajiban']
-  },
-  {
-    id: 230, nomor: 230,
-    arab: 'لَيْسَ الْمُحِبُّ الَّذِي يَرْجُو مِنْ مَحْبُوبِهِ عِوَضًا أَوْ يَطْلُبُ مِنْهُ غَرَضًا',
-    terjemahan: 'Seorang pecinta bukanlah orang yang mengharapkan imbalan dari orang yang dicintainya, atau menuntut sesuatu dari kekasihnya itu.',
-    penjelasan: 'Mahabbah sejati adalah cinta tanpa syarat dan tanpa pamrih. Mencintai karena ingin sesuatu bukan cinta yang sebenarnya.',
-    tags: ['mahabbah', 'cinta', 'ikhlas', 'pamrih']
-  },
-  {
-    id: 231, nomor: 231,
-    arab: 'لَوْلَا مَيَادِينُ النُّفُوسِ مَا تَحَقَّقَ سَيْرُ السَّائِرِينَ',
-    terjemahan: 'Kalaulah tidak ada tempat bagi nafsu, maka pasti tidak ada orang yang melakukan perjalanan menuju kepada Allah.',
-    penjelasan: 'Keberadaan nafsu adalah justru yang membuat perjalanan spiritual menjadi bermakna. Tanpa nafsu yang harus diatasi, tidak ada mujahadah.',
-    tags: ['nafsu', 'perjalanan', 'mujahadah', 'hikmah']
-  },
-  {
-    id: 232, nomor: 232,
-    arab: 'جَعَلَكَ فِي الْعَالَمِ الْمُتَوَسِّطِ بَيْنَ مُلْكِهِ وَمَلَكُوتِهِ لِيُعَلِّمَكَ جَلَالَةَ قَدْرِكَ بَيْنَ مَخْلُوقَاتِهِ',
-    terjemahan: 'Allah menempatkanmu di alam pertengahan, di antara alam nyata dan alam gaib, untuk membuatmu mengerti akan tingginya kedudukanmu di antara semua makhluk-Nya.',
-    penjelasan: 'Manusia adalah makhluk istimewa yang berada di persimpangan antara alam nyata dan gaib. Ini menunjukkan kemuliaan hakikat manusia.',
-    tags: ['manusia', 'kedudukan', 'alam', 'kemuliaan']
-  },
-  {
-    id: 233, nomor: 233,
-    arab: 'إِنَّمَا وَسِعَكَ الْكَوْنُ مِنْ حَيْثُ جُثْمَانِيَّتُكَ وَلَمْ يَسَعْكَ مِنْ حَيْثُ ثُبُوتِ رُوحَانِيَّتُكَ',
-    terjemahan: 'Alam ini hanya memuaskan jasmanimu, tapi tidak memuaskan rohanimu.',
-    penjelasan: 'Kebutuhan ruh manusia tidak terpenuhi oleh alam materi. Hanya Allah yang bisa memenuhi kebutuhan ruh yang hakiki.',
-    tags: ['ruh', 'jasmani', 'alam', 'kebutuhan']
-  },
-  {
-    id: 234, nomor: 234,
-    arab: 'أَنْتَ مَعَ الأَكْوَانِ مَا لَمْ تَشْهَدِ الْمُكَوِّنَ فَإِذَا شَهِدَتَّهُ كَانَتِ الأَكْوَانُ مَعَكَ',
-    terjemahan: 'Engkau tetap terikat dengan alam materi, selama engkau belum menyaksikan Sang Pencipta alam itu. Namun apabila engkau telah menyaksikan-Nya, maka alamlah yang akan mengikutimu.',
-    penjelasan: 'Menyaksikan Allah membalikkan relasi antara manusia dan alam. Yang tadinya diikuti alam, kini dialah yang memimpin.',
-    tags: ['syuhud', 'alam', 'marifat', 'kedudukan']
-  },
-  {
-    id: 235, nomor: 235,
-    arab: 'لَا يَلْزَمُ مِنْ ثُبُوتِ الْخُصُوصِيَّةِ عَدَمُ وَصْفِ الْبَشَرِيَّةِ',
-    terjemahan: 'Diperolehnya keistimewaan sifat kewalian itu bukan berarti lalu hilang sifat kemanusiaannya. Sifat khususiyah tersebut laksana pancaran sinar matahari di siang hari.',
-    penjelasan: 'Para wali tetap manusia dengan segala sifat manusiawinya. Keistimewaan mereka adalah cahaya Allah yang menyinari mereka, bukan penghapusan sifat manusiawi.',
-    tags: ['wali', 'kemanusiaan', 'keistimewaan', 'cahaya']
-  },
-  {
-    id: 236, nomor: 236,
-    arab: 'بِوُجُودِ آثَارِهِ عَلَى وُجُودِ أَسْمَائِهِ وَبِوُجُودِ أَسْمَائِهِ عَلَى ثُبُوتِ أَوْصَافِهِ',
-    terjemahan: 'Segenap benda-benda ciptaan-Nya, Allah menunjukkan berbagai nama-Nya. Dan dengan adanya nama-nama-Nya itu, Allah menunjukkan kekekalan sifat-sifat-Nya.',
-    penjelasan: 'Ada hierarki dalam makrifat kepada Allah: dari atsar (benda ciptaan) menuju asma (nama) menuju sifat menuju zat.',
-    tags: ['makrifat', 'atsar', 'asma', 'sifat-allah']
-  },
-  {
-    id: 237, nomor: 237,
-    arab: 'لَا يُعْلَمُ قَدْرُ أَنْوَارِ الْقُلُوبِ إِلَّا فِي غَيْبِ الْمَلَكُوتِ',
-    terjemahan: 'Kadar cahaya hati dan rahasia-rahasianya tidak diketahui, kecuali dalam alam malakut yang gaib.',
-    penjelasan: 'Nilai spiritual seseorang tidak bisa dinilai dari luar. Hanya di alam malakut gaib nilai sebenarnya terungkap.',
-    tags: ['cahaya', 'hati', 'malakut', 'gaib']
-  },
-  {
-    id: 238, nomor: 238,
-    arab: 'وِجْدَانُ ثَمَرَاتِ الطَّاعَاتِ عَاجِلًا بَشَائِرُ الْعَامِلِينَ بِوُجُودِ الْجَزَاءِ عَلَيْهَا آجِلًا',
-    terjemahan: 'Buah ketaatan yang dirasakan di dunia adalah kabar gembira bagi orang-orang yang beramal di akhirat kelak.',
-    penjelasan: 'Merasakan ketenangan dan cahaya dari ibadah di dunia adalah pertanda bahwa amal tersebut akan mendapat balasan yang lebih besar di akhirat.',
-    tags: ['amal', 'buah', 'balasan', 'akhirat']
-  },
-  {
-    id: 239, nomor: 239,
-    arab: 'كَيْفَ تَطْلُبُ الْعِوَضَ عَلَى عَمَلٍ هُوَ مُتَصَدِّقٌ بِهِ عَلَيْكَ',
-    terjemahan: 'Mana mungkin engkau dapat menuntut imbalan atas suatu amal, padahal sebenarnya Dia-lah yang menyedekahkan amal itu padamu?',
-    penjelasan: 'Kemampuan beramal adalah pemberian Allah. Menuntut balasan atas amal yang kemampuannya pun dari Allah adalah tidak tepat.',
-    tags: ['amal', 'balasan', 'karunia', 'ikhlas']
-  },
-  {
-    id: 240, nomor: 240,
-    arab: 'قَوْمٌ تَسَاوَتْ أَذْكَارُهُمْ وَأَنْوَارُهُمْ وَقَوْمٌ تَسْبِقُ أَنْوَارُهُمْ أَذْكَارَهُمْ',
-    terjemahan: 'Ada orang yang cahaya hatinya mendahului zikirnya. Ada orang yang zikirnya mendahului cahayanya. Ada pula orang yang cahayanya bersama dengan zikirnya.',
-    penjelasan: 'Tiga tipe ahli zikir berdasarkan hubungan antara zikir dan cahaya batin mereka.',
-    tags: ['zikir', 'cahaya', 'tingkatan', 'spiritual']
-  },
-  {
-    id: 241, nomor: 241,
-    arab: 'وَذَاكِرٌ اسْتَنَارَ قَلْبُهُ فَكَانَ ذَاكِرًا فَبِذِكْرِهِ يُهْتَدَى وَبِنُورِهِ يُقْتَدَى',
-    terjemahan: 'Ada pula orang yang berzikir yang hatinya sudah terang. Dengan zikirnya ia mendapat petunjuk dan dengan cahayanya ia mengikuti.',
-    penjelasan: 'Ahli zikir yang hatinya sudah terang adalah pemimpin spiritual. Zikir mereka menjadi petunjuk dan cahaya mereka menjadi teladan.',
-    tags: ['zikir', 'cahaya', 'petunjuk', 'pemimpin']
-  },
-  {
-    id: 242, nomor: 242,
-    arab: 'مَا كَانَ ظَاهِرُ ذِكْرٍ إِلَّا عَنْ بَاطِنِ شُهُودٍ وَفِكْرَةٍ',
-    terjemahan: 'Tidaklah akan tampak zikir, kecuali yang timbul dari penyaksian batin dan proses perenungan.',
-    penjelasan: 'Zikir yang bermakna harus berakar dari syuhud batin dan tafakur. Zikir lidah tanpa kehadiran batin kurang bermakna.',
-    tags: ['zikir', 'syuhud', 'tafakur', 'batin']
-  },
-  {
-    id: 243, nomor: 243,
-    arab: 'أَشْهَدَكَ مِنْ قَبْلِ أَنْ يَسْتَشْهِدَكَ فَنَطَقَتْ بِإِلَهِيَّتِهِ الظَّوَاهِرُ وَتَحَقَّقَتْ بِأَحَدِيَّتِهِ الْقُلُوبُ وَالسَّرَائِرُ',
-    terjemahan: 'Allah membuatmu bersaksi sebelum memintamu bersaksi, hingga semua makhluk mengakui ke-Tuhanan-Nya, sementara semua hati menyadari akan keesaan-Nya.',
-    penjelasan: 'Penyaksian kepada Allah sudah ditanamkan sejak azali sebelum permintaan kesaksian. Ini adalah fitrah yang dibawa sejak lahir.',
-    tags: ['syahadat', 'azali', 'tauhid', 'fitrah']
-  },
-  {
-    id: 244, nomor: 244,
-    arab: 'أَكْرَمَكَ اللهُ بِكَرَامَاتٍ ثَلَاثٍ جَعَلَكَ ذَاكِرًا لَهُ وَجَعَلَكَ مَذْكُورًا عِنْدَهُ وَجَعَلَكَ مَذْكُورًا لَهُ',
-    terjemahan: 'Allah menganugrahimu tiga kemuliaan: Dia membuatmu ingat kepada-Nya, Dia membuatmu diingat oleh-Nya, dan Dia membuatmu diingat di sisi-Nya.',
-    penjelasan: 'Tiga tingkatan karunia zikir: kemampuan mengingat Allah, diingat oleh Allah, dan dinisbahkan kepada Allah.',
-    tags: ['zikir', 'karunia', 'tiga-tingkat', 'kemuliaan']
-  },
-  {
-    id: 245, nomor: 245,
-    arab: 'رُبَّ عُمُرٍ اتَّسَعَتْ آمَادُهُ وَقَلَّتْ أَمْدَادُهُ وَرُبَّ عُمُرٍ قَلِيلَةٌ آمَادُهُ كَثِيرَةٌ أَمْدَادُهُ',
-    terjemahan: 'Kadang umur seseorang panjang masanya tapi sedikit manfaatnya. Dan ada pula umur yang pendek masanya namun penuh dengan manfaat.',
-    penjelasan: 'Panjang umur tidak identik dengan banyak manfaat. Yang terpenting adalah kualitas dan keberkahan umur.',
-    tags: ['umur', 'manfaat', 'keberkahan', 'waktu']
-  },
-  {
-    id: 246, nomor: 246,
-    arab: 'مَنْ بُورِكَ لَهُ فِي عُمُرِهِ أَدْرَكَ فِي يَسِيرٍ مِنَ الزَّمَنِ مِنْ مِنَنِ اللهِ تَعَالَى مَا لَا يَلْحَمُهُ الإِشَارَةُ وَالْعِبَارَةُ',
-    terjemahan: 'Siapa yang diberkahi umurnya, maka dalam waktu singkat ia dapat meraih berbagai karunia Allah yang sulit diungkapkan melalui kata-kata.',
-    penjelasan: 'Keberkahan umur membuat seseorang bisa meraih dalam waktu singkat apa yang tidak bisa dicapai orang lain dalam waktu panjang.',
-    tags: ['berkah', 'umur', 'karunia', 'waktu']
-  },
-  {
-    id: 247, nomor: 247,
-    arab: 'كُلُّ الْخِذْلَانِ أَنْ تَتَفَرَّغَ مِنَ الشَّوَاغِلِ ثُمَّ لَا تَتَوَجَّهَ إِلَيْهِ وَتَتَحَلَّ عَوَائِقُكَ ثُمَّ لَا تَرْتَحِلَ إِلَيْهِ',
-    terjemahan: 'Betapa mengecewakan apabila engkau terbebas dari kesibukan, namun tidak juga menghadap kepada-Nya. Dan apabila engkau sedang ada sedikit rintangan, tidak juga beranjak menuju-Nya.',
-    penjelasan: 'Kekosongan dari kesibukan adalah peluang emas untuk mendekat kepada Allah. Menyia-nyiakan peluang ini adalah kerugian terbesar.',
-    tags: ['peluang', 'lalai', 'menghadap', 'allah']
-  },
-  {
-    id: 248, nomor: 248,
-    arab: 'الْفِكْرَةُ سَيْرُ الْقَلْبِ فِي مَيَادِينِ الأَغْيَارِ',
-    terjemahan: 'Fikir itu merupakan perjalanan hati dalam alam ciptaan Allah.',
-    penjelasan: 'Tafakur adalah aktivitas hati yang berjalan-jalan di alam ciptaan untuk menemukan tanda-tanda kebesaran Allah.',
-    tags: ['fikir', 'tafakur', 'hati', 'alam']
-  },
-  {
-    id: 249, nomor: 249,
-    arab: 'الْفِكْرَةُ سِرَاجُ الْقَلْبِ فَإِذَا ذَهَبَتْ فَلَا إِضَاءَةَ لَهُ',
-    terjemahan: 'Fikir adalah lentera hati, bila fikir itu padam, maka tak ada lagi cahaya di hati.',
-    penjelasan: 'Kemampuan berpikir dan bertafakur adalah penerang hati. Tanpanya, hati berada dalam kegelapan.',
-    tags: ['fikir', 'hati', 'cahaya', 'tafakur']
-  },
-  {
-    id: 250, nomor: 250,
-    arab: 'الْفِكْرَةُ فِكْرَتَانِ فِكْرَةُ تَصْدِيقٍ وَإِيمَانٍ وَفِكْرَةُ شُهُودٍ وَعِيَانٍ',
-    terjemahan: 'Fikir itu ada dua macam: fikir yang timbul dari tashdiq (pembenaran) dan keimanan, dan fikir yang timbul dari penyaksian atau penglihatan.',
-    penjelasan: 'Dua jenis tafakur: tafakur iman yang lahir dari keyakinan, dan tafakur syuhud yang lahir dari penyaksian langsung.',
-    tags: ['fikir', 'iman', 'syuhud', 'tafakur']
+  id: 94, nomor: 94,
+  arab: 'إِنَّمَا يُؤْلِمُكَ المَنْعُ لِعَدَمِ فَهْمِكَ عَنِ اللهِ فِيهِ',
+  terjemahan: 'Penolakan dari Allah terasa pedih bagimu hanya karena engkau tidak mengerti rahmat Allah dibalik penolakan itu.',
+  penjelasan: 'Rasa sakit atas kegagalan atau penolakan terjadi karena keterbatasan pemahaman hamba. Padahal, penolakan dari Allah sering kali merupakan bentuk perlindungan dan kasih sayang-Nya.',
+  tags: ['penolakan', 'hikmah', 'takdir', 'sabar', 'tasawuf']
   }
+
+
 ]
