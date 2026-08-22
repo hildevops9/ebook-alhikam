@@ -542,8 +542,8 @@ Sebab, jika tidak demikian (jika Allah itu nyata di hatinya), kapan masanya Alla
   },
   {
     id: 53, nomor: 53,
-    arab: 'أَوْرَدَ عَلَيْكَ الْوَارِدَ لِيَتَسَلَّمَ مِنْكَ مِنْ يَدِ الأَغْيَارِ',
-    terjemahan: 'Allah memberimu Warid untuk menyelamatkanmu dari cengkraman dunia dan membebaskanmu dari diperbudak oleh makhluk apapun.',
+    arab: 'أَوْرَدَ عَلَ نٌَْ الوارِدَ لِ تٌََسَلَّمَنَ مِنْ دٌَِ الأَؼْ اٌرِ. وَلِ حٌَُرِّرَنَ مِنْ رِقِّ الآثارِ',
+    terjemahan: 'Allah memberimu Warid untuk menyelamatkanmu dari cengkraman dunia dan membebaskanmu dari diperbudak oleh makhluk apapun',
     penjelasan: 'Karunia warid berfungsi membebaskan hamba dari perbudakan makhluk dan dunia.',
     tags: ['warid', 'kebebasan', 'dunia', 'hamba']
   },
@@ -563,8 +563,8 @@ Sebab, jika tidak demikian (jika Allah itu nyata di hatinya), kapan masanya Alla
   },
   {
     id: 56, nomor: 56,
-    arab: 'النُّورُ جُنْدُ الْقَلْبِ كَمَا أَنَّ الظُّلْمَةَ جُنْدُ النَّفْسِ',
-    terjemahan: 'Cahaya adalah tentara qalbu sebagaimana kegelapan adalah tentara nafsu. Ketika Allah hendak menolong hamba-Nya, Dia membantunya dengan pasukan cahaya.',
+    arab:'النُّوْرُ جُنْدُ الْقَلْبِ، كَمَا أَنَّ الظُّلْمَةَ جُنْدُ النَّفْسِ، فَإِذَا أَرَادَ اللهُ أَنْ يَنْصُرَ عَبْدَهُ أَمَدَّهُ بِجُنُوْدِ الْأَنْوَارِ، وَقَطَعَ عَنْهُ مَدَدَ الظُّلَمِ وَالْأَغْيَارِ',
+    terjemahan: 'Cahaya adalah tentara qalbu sebagaimana kegelapan adalah tentara nafsu. Ketika Allah hendak menolong hamba-Nya, maka Dia membantunya dengan pasukan cahaya (anwar) dan memutus bantuan kegelapan serta kepalsuan',
     penjelasan: 'Ada peperangan batin antara cahaya dan kegelapan. Pertolongan Allah datang dalam bentuk cahaya yang mengalahkan kegelapan nafsu.',
     tags: ['cahaya', 'nafsu', 'hati', 'pertolongan']
   },
@@ -577,15 +577,15 @@ Sebab, jika tidak demikian (jika Allah itu nyata di hatinya), kapan masanya Alla
   },
   {
     id: 58, nomor: 58,
-    arab: 'لَا تُفَرِّحَنَّكَ الطَّاعَةُ لِأَنَّهَا بَرَزَتْ مِنْكَ وَافْرَحْ بِهَا لِأَنَّهَا بَرَزَتْ مِنَ اللهِ إِلَيْكَ',
-    terjemahan: 'Janganlah ketaatanmu kepada Allah membuatmu gembira lantaran engkau merasa mampu melaksanakannya. Akan tetapi bergembiralah kepada-Nya lantaran ketaatan itu terjadi karena karunia Allah.',
+    arab: 'لَا تُفْرِحْكَ الطَّاعَةُ لِأَنَّهَا بَرَزَتْ مِنْكَ، وَافْرَحْ بِهَا لِأَنَّهَا بَرَزَتْ مِنَ اللهِ إِلَيْكَ. {قُلْ بِفَضْلِ اللهِ وَبِرَحْمَتِهِ فَبِذَلِكَ فَلْيَفْرَحُوا هُوَ خَيْرٌ مِّمَّا يَجْمَعُونَ}',
+    terjemahan: 'Janganlah ketaatanmu kepada Allah membuatmu gembira lantaran engkau merasa mampu melaksanakannya. Akan tetapi, bergembiralah kepada-Nya lantaran ketaatan itu terjadi karena karuni Allah kepadamu. Katakanlah: Dengan karunia Allah dan rahmat-Nya, hendaklah dengan itu mereka bergembira. Karunia Allah dan rahmat-Nya itu adalah lebih baik dari apa yang mereka kumpulkan (yunus :58)',
     penjelasan: 'Kegembiraan atas ibadah yang bersumber dari rasa bangga diri sendiri adalah bibit ujub dan riya. Kegembiraan yang benar adalah karena menyadari itu karunia Allah.',
     tags: ['taat', 'ujub', 'syukur', 'ikhlas']
   },
   {
     id: 59, nomor: 59,
-    arab: 'قَطَعَ السَّائِرِينَ لَهُ عَنْ رُؤْيَةِ أَعْمَالِهِمْ وَشُهُودِ أَحْوَالِهِمْ',
-    terjemahan: 'Allah menghindarkan orang-orang yang menuju-Nya dari melihat amal mereka dan menyaksikan hal ihwal mereka.',
+    arab: 'قَطَعَ السَّائِرِينَ لَهُ وَالْوَاصِلِينَ إِلَيْهِ عَنْ رُؤْيَةِ أَعْمَالِهِمْ وَشُهُودِ أَحْوَالِهِمْ. أَمَّا السَّائِرُونَ فَلِأَنَّهُمْ لَمْ يَتَحَقَّقُوا الصِّدْقَ مَعَ اللهِ فِيهَا، وَأَمَّا الْوَاصِلُونَ فَلِأَنَّهُ غَيَّبَهُمْ بِشُهُودِهِ عَنْهَا.',
+    terjemahan: 'Allah menghindarkan orang-orang yang menuju-Nya dan juga orang-orang yang telah sampai kepada-Nya dari melihat amal mereka dan menyaksikan (syuhud) hal ihwal mereka. Bagi orang-orang yang tengah dalam perjalanan menuju kepada-Nya, itu adalah karena mereka belum benar-benar ikhlas dalam amal mereka. Dan bagi orang-orang yang telah sampai kepada-Nya, adalah karena mereka sibuk menyaksikan-Nya hingga tak ada waktu untuk menengok ama-amal mereka.',
     penjelasan: 'Para salik dijauhkan dari melihat amal sendiri agar terhindar dari ujub. Para wali dijauhkan karena mereka sibuk dengan penyaksian Allah.',
     tags: ['salik', 'amal', 'syuhud', 'ikhlas']
   },
